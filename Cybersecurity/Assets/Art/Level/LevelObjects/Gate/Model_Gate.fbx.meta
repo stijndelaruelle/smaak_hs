@@ -1,0 +1,223 @@
+fileFormatVersion: 2
+guid: 949cc57df88f80140bd90c3ad8d88806
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: bottom door
+    100002: Door animation
+    100004: Gate
+    100006: Gate_color
+    100008: //RootNode
+    100010: upper door
+    100012: upper door_end
+    100014: Gate_slot
+    100016: End_level_color
+    100018: End_level_E
+    100020: End_level_N
+    100022: End_level_S
+    100024: End_level_W
+    100026: End_line_color
+    100028: End_status
+    100030: Gate_primary_color
+    100032: Gate_secondary_color
+    100034: base
+    100036: base_end
+    100038: Beam
+    100040: bottom
+    100042: bottom_end
+    100044: Gate animation
+    100046: middle
+    100048: middle_end
+    100050: Primary color
+    100052: Secondary color
+    100054: top
+    100056: top_end
+    100058: Identification color
+    400000: bottom door
+    400002: Door animation
+    400004: Gate
+    400006: Gate_color
+    400008: //RootNode
+    400010: upper door
+    400012: upper door_end
+    400014: Gate_slot
+    400016: End_level_color
+    400018: End_level_E
+    400020: End_level_N
+    400022: End_level_S
+    400024: End_level_W
+    400026: End_line_color
+    400028: End_status
+    400030: Gate_primary_color
+    400032: Gate_secondary_color
+    400034: base
+    400036: base_end
+    400038: Beam
+    400040: bottom
+    400042: bottom_end
+    400044: Gate animation
+    400046: middle
+    400048: middle_end
+    400050: Primary color
+    400052: Secondary color
+    400054: top
+    400056: top_end
+    400058: Identification color
+    2100000: Vertexcolor
+    2300000: Gate_slot
+    2300002: Gate
+    2300004: Gate_color
+    2300006: End_level_color
+    2300008: End_level_E
+    2300010: End_level_N
+    2300012: End_level_S
+    2300014: End_level_W
+    2300016: End_line_color
+    2300018: End_status
+    3300000: Gate_slot
+    3300002: Gate
+    3300004: Gate_color
+    3300006: End_level_color
+    3300008: End_level_E
+    3300010: End_level_N
+    3300012: End_level_S
+    3300014: End_level_W
+    3300016: End_line_color
+    3300018: End_status
+    4300000: Gate_color
+    4300002: Gate
+    4300004: Gate_slot
+    4300006: End_level_S
+    4300008: End_level_W
+    4300010: End_level_N
+    4300012: End_level_E
+    4300014: End_level_color
+    4300016: End_line_color
+    4300018: End_status
+    4300020: Gate_primary_color
+    4300022: Gate_secondary_color
+    4300024: Beam
+    4300026: Secondary color
+    4300028: Primary color
+    4300030: Identification color
+    7400000: Open
+    9500000: //RootNode
+    13700000: Gate
+    13700002: Gate_color
+    13700004: Gate_primary_color
+    13700006: Gate_secondary_color
+    13700008: Beam
+    13700010: Primary color
+    13700012: Secondary color
+    13700014: Identification color
+    2186277476908879412: ImportLogs
+  externalObjects: {}
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Open
+      takeName: Door animation|Door animationAction
+      firstFrame: 0
+      lastFrame: 39
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

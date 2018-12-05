@@ -1,0 +1,768 @@
+fileFormatVersion: 2
+guid: 36dd5eaa8f242a547adb3968e61be035
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: ankeIK.L
+    100002: ankeIK.L_end
+    100004: ankeIK.R
+    100006: ankeIK.R_end
+    100008: arm_lower.L
+    100010: arm_lower.R
+    100012: arm_upper.L
+    100014: arm_upper.R
+    100016: Armature
+    100018: character_controller
+    100020: Color
+    100022: Dre
+    100024: elbowIK.L
+    100026: elbowIK.L_end
+    100028: elbowIK.R
+    100030: elbowIK.R_end
+    100032: Face
+    100034: foot.L
+    100036: foot.R
+    100038: foot_controller.L
+    100040: foot_controller.R
+    100042: Hair_female
+    100044: Hair_male
+    100046: hand.L
+    100048: hand.R
+    100050: handIK.L
+    100052: handIK.L_end
+    100054: handIK.R
+    100056: handIK.R_end
+    100058: head
+    100060: hips
+    100062: kneeIK.L
+    100064: kneeIK.L_end
+    100066: kneeIK.R
+    100068: kneeIK.R_end
+    100070: leg_lower.L
+    100072: leg_lower.L_end
+    100074: leg_lower.R
+    100076: leg_lower.R_end
+    100078: leg_upper.L
+    100080: leg_upper.R
+    100082: Logo
+    100084: middle1.L
+    100086: middle1.R
+    100088: middle2.L
+    100090: middle2.R
+    100092: middle3.L
+    100094: middle3.L_end
+    100096: middle3.R
+    100098: middle3.R_end
+    100100: //RootNode
+    100102: neck
+    100104: Nose_female
+    100106: Nose_male
+    100108: pelvis
+    100110: pink1.L
+    100112: pink1.R
+    100114: pink2.L
+    100116: pink2.R
+    100118: pink3.L
+    100120: pink3.L_end
+    100122: pink3.R
+    100124: pink3.R_end
+    100126: point1.L
+    100128: point1.R
+    100130: point2.L
+    100132: point2.R
+    100134: point3.L
+    100136: point3.L_end
+    100138: point3.R
+    100140: point3.R_end
+    100142: ribs
+    100144: ribsIK
+    100146: ribsIK_end
+    100148: ring1.L
+    100150: ring1.R
+    100152: ring2.L
+    100154: ring2.R
+    100156: ring3.L
+    100158: ring3.L_end
+    100160: ring3.R
+    100162: ring3.R_end
+    100164: shoulder.L
+    100166: shoulder.R
+    100168: spine
+    100170: tail
+    100172: tail2
+    100174: tail2_end
+    100176: thumb1.L
+    100178: thumb1.R
+    100180: thumb2.L
+    100182: thumb2.R
+    100184: thumb3.L
+    100186: thumb3.L_end
+    100188: thumb3.R
+    100190: thumb3.R_end
+    400000: ankeIK.L
+    400002: ankeIK.L_end
+    400004: ankeIK.R
+    400006: ankeIK.R_end
+    400008: arm_lower.L
+    400010: arm_lower.R
+    400012: arm_upper.L
+    400014: arm_upper.R
+    400016: Armature
+    400018: character_controller
+    400020: Color
+    400022: Dre
+    400024: elbowIK.L
+    400026: elbowIK.L_end
+    400028: elbowIK.R
+    400030: elbowIK.R_end
+    400032: Face
+    400034: foot.L
+    400036: foot.R
+    400038: foot_controller.L
+    400040: foot_controller.R
+    400042: Hair_female
+    400044: Hair_male
+    400046: hand.L
+    400048: hand.R
+    400050: handIK.L
+    400052: handIK.L_end
+    400054: handIK.R
+    400056: handIK.R_end
+    400058: head
+    400060: hips
+    400062: kneeIK.L
+    400064: kneeIK.L_end
+    400066: kneeIK.R
+    400068: kneeIK.R_end
+    400070: leg_lower.L
+    400072: leg_lower.L_end
+    400074: leg_lower.R
+    400076: leg_lower.R_end
+    400078: leg_upper.L
+    400080: leg_upper.R
+    400082: Logo
+    400084: middle1.L
+    400086: middle1.R
+    400088: middle2.L
+    400090: middle2.R
+    400092: middle3.L
+    400094: middle3.L_end
+    400096: middle3.R
+    400098: middle3.R_end
+    400100: //RootNode
+    400102: neck
+    400104: Nose_female
+    400106: Nose_male
+    400108: pelvis
+    400110: pink1.L
+    400112: pink1.R
+    400114: pink2.L
+    400116: pink2.R
+    400118: pink3.L
+    400120: pink3.L_end
+    400122: pink3.R
+    400124: pink3.R_end
+    400126: point1.L
+    400128: point1.R
+    400130: point2.L
+    400132: point2.R
+    400134: point3.L
+    400136: point3.L_end
+    400138: point3.R
+    400140: point3.R_end
+    400142: ribs
+    400144: ribsIK
+    400146: ribsIK_end
+    400148: ring1.L
+    400150: ring1.R
+    400152: ring2.L
+    400154: ring2.R
+    400156: ring3.L
+    400158: ring3.L_end
+    400160: ring3.R
+    400162: ring3.R_end
+    400164: shoulder.L
+    400166: shoulder.R
+    400168: spine
+    400170: tail
+    400172: tail2
+    400174: tail2_end
+    400176: thumb1.L
+    400178: thumb1.R
+    400180: thumb2.L
+    400182: thumb2.R
+    400184: thumb3.L
+    400186: thumb3.L_end
+    400188: thumb3.R
+    400190: thumb3.R_end
+    2100000: vertexpaint material
+    2100002: shirt
+    2100004: texture
+    4300000: Color
+    4300002: Logo
+    4300004: Hair_female
+    4300006: Nose_female
+    4300008: Nose_male
+    4300010: Face
+    4300012: Dre
+    4300014: Hair_male
+    7400000: Activate
+    7400002: Die
+    7400004: Idle
+    7400006: IdleVariation
+    7400008: Walk
+    7400010: Ready
+    7400012: Victory
+    7400014: Teleport Up
+    7400016: Teleport Down
+    7400018: Dance
+    7400020: Intro
+    7400022: Outro
+    7400024: Pickup
+    9500000: //RootNode
+    13700000: Color
+    13700002: Dre
+    13700004: Face
+    13700006: Hair_female
+    13700008: Hair_male
+    13700010: Logo
+    13700012: Nose_female
+    13700014: Nose_male
+    2186277476908879412: ImportLogs
+  externalObjects: {}
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: Event OnMoveAnimationEnd has a time (1.000000) outside
+      the clip's valid range (0.000000..0.875000). It will never be fired
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Activate
+      takeName: Armature|activate
+      firstFrame: 0
+      lastFrame: 59
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events:
+      - time: 0.41276968
+        functionName: OnUseAnimationStartUsing
+        data: 
+        objectReferenceParameter: {instanceID: 0}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      - time: 0.43665767
+        functionName: PlaySFXFromAnimation
+        data: 
+        objectReferenceParameter: {fileID: 8300000, guid: 91023f10402e6094793d9bebeb0e2363,
+          type: 3}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Die
+      takeName: Armature|die
+      firstFrame: 0
+      lastFrame: 59
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events:
+      - time: 0.2647059
+        functionName: OnDissolveOut
+        data: 
+        objectReferenceParameter: {instanceID: 0}
+        floatParameter: 0.25
+        intParameter: 0
+        messageOptions: 0
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Idle
+      takeName: Armature|idle_00
+      firstFrame: 0
+      lastFrame: 89
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: IdleVariation
+      takeName: Armature|Idle_01
+      firstFrame: 0
+      lastFrame: 89
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Walk
+      takeName: Armature|walk
+      firstFrame: 0
+      lastFrame: 24
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events:
+      - time: 1
+        functionName: OnMoveAnimationEnd
+        data: 
+        objectReferenceParameter: {instanceID: 0}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      - time: 0
+        functionName: PlaySFXFromAnimation
+        data: 
+        objectReferenceParameter: {fileID: 8300000, guid: 61a2136cc8a22924f91e8216b79a086e,
+          type: 3}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Victory
+      takeName: Armature|victory
+      firstFrame: 0
+      lastFrame: 54
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Teleport Up
+      takeName: Armature|teleport
+      firstFrame: 0
+      lastFrame: 22
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events:
+      - time: 0.5806773
+        functionName: OnDissolveOut
+        data: 
+        objectReferenceParameter: {instanceID: 0}
+        floatParameter: 1
+        intParameter: 0
+        messageOptions: 0
+      - time: 1
+        functionName: OnTeleportUpAnimationEnd
+        data: 
+        objectReferenceParameter: {instanceID: 0}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      - time: 0
+        functionName: PlaySFXFromAnimation
+        data: 
+        objectReferenceParameter: {fileID: 8300000, guid: 379c913662f141040baa798cec6cfac9,
+          type: 3}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Teleport Down
+      takeName: Armature|teleportdown
+      firstFrame: 0
+      lastFrame: 21
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events:
+      - time: 1
+        functionName: OnTeleportDownAnimationEnd
+        data: 
+        objectReferenceParameter: {instanceID: 0}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      - time: 0
+        functionName: OnDissolveIn
+        data: 
+        objectReferenceParameter: {instanceID: 0}
+        floatParameter: 1
+        intParameter: 0
+        messageOptions: 0
+      - time: 0.049504947
+        functionName: PlaySFXFromAnimation
+        data: 
+        objectReferenceParameter: {fileID: 8300000, guid: 233d790faf5a2f84a9f05ce4f1629dcb,
+          type: 3}
+        floatParameter: 1
+        intParameter: 0
+        messageOptions: 0
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Dance
+      takeName: Armature|victory2
+      firstFrame: 0
+      lastFrame: 54
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Intro
+      takeName: Armature|teleportdown
+      firstFrame: 0
+      lastFrame: 21
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events:
+      - time: 0
+        functionName: OnDissolveIn
+        data: 
+        objectReferenceParameter: {instanceID: 0}
+        floatParameter: 1.75
+        intParameter: 0
+        messageOptions: 0
+      - time: 0.5471264
+        functionName: OnIntroAnimationEnd
+        data: 
+        objectReferenceParameter: {instanceID: 0}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      - time: 0
+        functionName: PlaySFXFromAnimation
+        data: 
+        objectReferenceParameter: {fileID: 8300000, guid: 379c913662f141040baa798cec6cfac9,
+          type: 3}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Outro
+      takeName: Armature|teleport
+      firstFrame: 0
+      lastFrame: 22
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events:
+      - time: 0.58033574
+        functionName: OnDissolveOut
+        data: 
+        objectReferenceParameter: {instanceID: 0}
+        floatParameter: 1
+        intParameter: 0
+        messageOptions: 0
+      - time: 0
+        functionName: PlaySFXFromAnimation
+        data: 
+        objectReferenceParameter: {fileID: 8300000, guid: 379c913662f141040baa798cec6cfac9,
+          type: 3}
+        floatParameter: 1
+        intParameter: 0
+        messageOptions: 0
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Pickup
+      takeName: Armature|blockgrab
+      firstFrame: 0
+      lastFrame: 49
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

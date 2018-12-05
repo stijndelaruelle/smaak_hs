@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2f4a65a0fbd7be0418db8e46f10495cd, type: 3}
+  m_Name: Cloud Question Pool Q2
+  m_EditorClassIdentifier: 
+  m_ShowInOrder: 0
+  m_MaxNumberOfQuestions: 3
+  m_MinNumberOfCorrectAnswers: 2
+  m_MaxNumberOfIncorrectAnswers: 1
+  m_Questions:
+  - {fileID: 11400000, guid: ea38701b37c61b340b2167d6955cccf2, type: 2}
+  - {fileID: 11400000, guid: 516a0691540ecdc47990896ea585d287, type: 2}
+  - {fileID: 11400000, guid: ea14374dca5ca2048b6d4813be14236b, type: 2}
+  - {fileID: 11400000, guid: 2eac45ac28374314d97126f8c06d079c, type: 2}
+  - {fileID: 11400000, guid: ba65cc64f9c9484429dde805efe2646f, type: 2}
+  - {fileID: 11400000, guid: 2c3262aece7962d4a80f7efca25929b9, type: 2}
+  - {fileID: 11400000, guid: 81cd8882949495d44be45ccbb557e464, type: 2}
+  - {fileID: 11400000, guid: 5e9604e421b0feb4b95b97949908b752, type: 2}
+  - {fileID: 11400000, guid: 6d4789b3baf3bb047acdd4164574ea21, type: 2}
+  - {fileID: 11400000, guid: f8c1c8b57cd4dc3478bcbc700cb755ef, type: 2}
+  - {fileID: 11400000, guid: f0afb8428603491409cae1a88e48150f, type: 2}
+  - {fileID: 11400000, guid: 1b47af12dfef33244a76f57c3db2079f, type: 2}
+  - {fileID: 11400000, guid: e80d4c2e3179c714a92faf43c2d7b393, type: 2}
+  - {fileID: 11400000, guid: 4f1c2ab3c05c13a42b8f44bf0d7535b1, type: 2}
+  - {fileID: 11400000, guid: 2424795a3603bdc4cbea870d810ce538, type: 2}
+  - {fileID: 11400000, guid: 127d0b6001b869444b8d3a25f7b47d83, type: 2}
+  - {fileID: 11400000, guid: 27fe27729187eeb488227fb120da4711, type: 2}
+  - {fileID: 11400000, guid: 7c05fd7d14e990a49a8cca78c81fb2d0, type: 2}
+  - {fileID: 11400000, guid: 113f0db00efc35843b9207ca0f085edd, type: 2}
+  - {fileID: 11400000, guid: 1d2a32c2c54e2064fa9938c4507a59c0, type: 2}

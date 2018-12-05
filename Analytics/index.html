@@ -1,0 +1,237 @@
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8"/>
+
+    <script src="jquery-3.3.1.js"></script> <!-- jQuery -->
+    <script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script> <!-- Google Graphs -->
+    <script src="moment.js"></script> <!-- moment -->
+
+    <!-- Custom code -->
+    <script src="InitializeGraph.js"></script>
+    <script src="LevelProgressionGraph.js"></script>
+    <script src="LevelFailsGraph.js"></script>
+    <script src="LevelTriesGraph.js"></script>
+    <script src="LevelTimeGraph.js"></script>
+
+    <script src="QuestionGraph.js"></script>
+    <script src="QuestionDetailedGraph.js"></script>
+    <script src="EthicalQuestionsGraph.js"></script>
+    <script src="QuestionTimeGraph.js"></script>
+
+    <script src="VideoGraph.js"></script>
+    <script src="VideoFailsGraph.js"></script>
+    <script src="VideoTimeGraph.js"></script>
+
+    <script src="CharacterCreationGraph.js"></script>
+
+    <script type="text/javascript">
+
+      m_StartDate = "";
+      m_EndDate = "";
+      m_DisplayAsPercentage = false;
+      m_FirstTimeOnly = true;
+      m_Filter = "";
+      m_Width = 1280;
+      m_Height = 720;
+
+      $(document).ready(function()
+      {
+          //Initialize();
+      });
+
+      function GetData()
+      {
+          GetInput();
+          LoadData();
+      }
+
+      function GetInput()
+      {
+        var startDate = document.getElementById('optionStartDate').value;
+        var endDate = document.getElementById('optionEndDate').value;
+
+        var startDateSplit = startDate.split("/");
+        var endDateSplit = endDate.split("/");
+
+        m_StartDate = new Date(startDateSplit[2], (startDateSplit[1] - 1), startDateSplit[0], 12, 0, 0, 0);
+        m_EndDate = new Date(endDateSplit[2], (endDateSplit[1] - 1), endDateSplit[0], 12, 0, 0, 0);
+
+        m_DisplayAsPercentage = document.getElementById('optionPercentage').checked;
+        m_FirstTimeOnly = document.getElementById('optionFirstTimeOnly').checked;
+        m_Filter = document.getElementById('optionFilter').value;
+        m_Width = document.getElementById('optionWidth').value;
+        m_Height = document.getElementById('optionHeight').value;
+      }
+
+      function DrawLevelProgressionGraph()
+      {
+        if (m_IsInitialized == false)
+          return;
+
+        GetInput();
+        CreateLevelProgressionGraph();
+      }
+
+      function DrawLevelFailsGraph()
+      {
+        if (m_IsInitialized == false)
+          return;
+
+        GetInput();
+        CreateLevelFailsGraph();
+      }
+
+      function DrawLevelTriesGraph()
+      {
+        if (m_IsInitialized == false)
+          return;
+
+        GetInput();
+        CreateLevelTriesGraph();
+      }
+
+      function DrawLevelTimeGraph()
+      {
+        if (m_IsInitialized == false)
+          return;
+
+        GetInput();
+        CreateLevelTimeGraph();
+      }
+
+      function DrawQuestionGraph()
+      {
+        if (m_IsInitialized == false)
+          return;
+
+        GetInput();
+        CreateQuestionGraph();
+      }
+
+      function DrawDetailedQuestionGraph()
+      {
+        if (m_IsInitialized == false)
+          return;
+
+        GetInput();
+        CreateDetailedQuestionGraph();
+      }
+
+      function DrawEthicalQuestionGraph()
+      {
+        if (m_IsInitialized == false)
+          return;
+
+        GetInput();
+        CreateEthicalQuestionGraph();
+      }
+
+      function DrawQuestionTimeGraph()
+      {
+        if (m_IsInitialized == false)
+          return;
+
+        GetInput();
+        CreateQuestionTimeGraph();
+      }
+
+      function DrawVideoGraph()
+      {
+        if (m_IsInitialized == false)
+          return;
+
+        GetInput();
+        CreateVideoGraph();
+      }
+
+      function DrawVideoFailsGraph()
+      {
+        if (m_IsInitialized == false)
+          return;
+
+        GetInput();
+        CreateVideoFailsGraph();
+      }
+
+      function DrawVideoTimeGraph()
+      {
+        if (m_IsInitialized == false)
+          return;
+
+        GetInput();
+        CreateVideoTimeGraph();
+      }
+
+      function DrawCharacterCreationGraph()
+      {
+        if (m_IsInitialized == false)
+          return;
+
+        GetInput();
+        CreateCharacterCreationGraph();
+      }
+
+    </script>
+  </head>
+
+  <body>
+    <!-- o boy, let's go oldschool -->
+    <table>
+      <tr>
+        <td><b>Charts</b></td>
+        <td><b>Options</b></td>
+      </tr>
+      <tr>
+        <td><input id="levelProgressionButton" type="button" value="Level Progression" onclick="DrawLevelProgressionGraph();" /></td>
+        <td>
+          From <input id="optionStartDate" type="text" value="16/11/2018" width="10">
+          To <input id="optionEndDate" type="text" value="03/12/2018" width="10">
+          <input id="getDatabutton" type="button" value="Load Data" onclick="GetData();" />
+        </td>
+      </tr>
+      <tr>
+        <td><input id="levelFailsButton" type="button" value="Level Fails" onclick="DrawLevelFailsGraph();" /></td>
+        <td>Percentage <input id="optionPercentage" type="checkbox"></td>
+      </tr>
+      <tr>
+        <td><input id="levelTriesButton" type="button" value="Level Tries (average)" onclick="DrawLevelTriesGraph();" /></td>
+        <td>First time <input id="optionFirstTimeOnly" type="checkbox" checked></td>
+      </tr>
+      <tr>
+        <td><input id="levelTimeButton" type="button" value="Level Times (average)" onclick="DrawLevelTimeGraph();" /></td>
+        <td>Filter <input id="optionFilter" type="text"></td>
+      </tr>
+      <tr>
+        <td><input id="questionButton" type="button" value="Question Overview" onclick="DrawQuestionGraph();" /></td>
+        <td>Width <input id="optionWidth" type="text" value="1280"></td>
+      </tr>
+      <tr>
+        <td><input id="questionDetailButton" type="button" value="Question Overview (detailed)" onclick="DrawDetailedQuestionGraph();" /></td>
+        <td>Height <input id="optionHeight" type="text" value="720"></td>
+      </tr>
+      <tr>
+        <td><input id="questionEthicalButton" type="button" value="Question Overview (ethical)" onclick="DrawEthicalQuestionGraph();" /></td>
+      </tr>
+      <tr>
+        <td><input id="questionTimeButton" type="button" value="Question Times (average)" onclick="CreateQuestionTimeGraph();" /></td>
+      </tr>
+      <tr>
+        <td><input id="videoOverviewButton" type="button" value="Video Overview" onclick="DrawVideoGraph();" /></td>
+      </tr>
+      <tr>
+        <td><input id="videoFailsButton" type="button" value="Video Fails" onclick="DrawVideoFailsGraph();" /></td>
+      </tr>
+      <tr>
+        <td><input id="videoTimeButton" type="button" value="Video Times" onclick="DrawVideoTimeGraph();" /></td>
+      </tr>
+      <tr>
+        <td><input id="characterSelectionButton" type="button" value="Character Selection" onclick="DrawCharacterCreationGraph();" /></td>
+      </tr>
+    </table>
+
+    <!--Div that will hold the graphs-->
+    <p id="loading_p"></p>
+    <p id="js_p"></p>
+  </body>
+</html>

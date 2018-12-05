@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+<<<<<<< HEAD:Cybersecurity/Assets/Scripts/Editor/CustomNodeInspector.cs.meta
+guid: a8d61c349ba025340b12ce4ae1d9c88f
+=======
+guid: 956a01c254e031c4aa63fd69d0ab8f4c
+>>>>>>> fcb224fa11283435391fb8f9670a79dc6cc95b9d:Cybersecurity/Assets/Scripts/Characters/Behaviours/StraightPatrolBehaviour.cs.meta
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

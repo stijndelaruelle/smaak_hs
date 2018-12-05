@@ -1,0 +1,113 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/GlobalScene.unity
+    guid: d219015b5924a2043b255e4778b213fa
+  - enabled: 1
+    path: Assets/Scenes/SplashScene.unity
+    guid: 2776fbf7a7f8937438f51306cd95bea7
+  - enabled: 1
+    path: Assets/Scenes/MainMenuScene.unity
+    guid: aab9e2a34dbeaee449461ab4581d6233
+  - enabled: 1
+    path: Assets/Scenes/OptionMenuScene.unity
+    guid: ebad49719223f3f45aaafd7bba40b87f
+  - enabled: 1
+    path: Assets/Scenes/LoadingScene.unity
+    guid: 5b9b27156b04e5847b24782f28d83c27
+  - enabled: 1
+    path: Assets/Scenes/LoadingScene_Cafe.unity
+    guid: 124d1148609cdb0459636e101cbb9c8d
+  - enabled: 1
+    path: Assets/Scenes/LoadingScene_Cloud.unity
+    guid: 81ccb05f09b84ba43b76ccbb165cce15
+  - enabled: 1
+    path: Assets/Scenes/LoadingScene_Mainframe.unity
+    guid: acfcca8a49fdee24283118c9baa9e15f
+  - enabled: 1
+    path: Assets/Scenes/LoadingScene_Darkweb.unity
+    guid: 1c4d67aea133022459f4b130bef2b35f
+  - enabled: 1
+    path: Assets/Scenes/GameCompleteScene.unity
+    guid: 14376905ce9ea6149a447c7d6d253d0c
+  - enabled: 1
+    path: Assets/Scenes/Campaign_HackDeHacker/Chapter 1 - Cafe/ch1-cafe-level0.unity
+    guid: afd03e47ad4f44d43a2bf6c728e399b7
+  - enabled: 1
+    path: Assets/Scenes/Campaign_HackDeHacker/Chapter 1 - Cafe/ch1-cafe-level1.unity
+    guid: b4a7536bd49a5bf4ca6ae9554bd0b03f
+  - enabled: 1
+    path: Assets/Scenes/Campaign_HackDeHacker/Chapter 1 - Cafe/ch1-cafe-level2.unity
+    guid: 2a1c6d2def0dc8a4f8c24cd272bd352e
+  - enabled: 1
+    path: Assets/Scenes/Campaign_HackDeHacker/Chapter 1 - Cafe/ch1-cafe-level3.unity
+    guid: 466cd5d1797820342a9f7c67d59de470
+  - enabled: 1
+    path: Assets/Scenes/Campaign_HackDeHacker/Chapter 1 - Cafe/ch1-cafe-level4.unity
+    guid: 804a278b7e1ea754ba1faa4620da2aa4
+  - enabled: 1
+    path: Assets/Scenes/Campaign_HackDeHacker/Chapter 1 - Cafe/ch1-cafe-level4-easy.unity
+    guid: 3cd517b7e96df4e4fbcf8b7991b28b19
+  - enabled: 1
+    path: Assets/Scenes/Campaign_HackDeHacker/Chapter 1 - Cafe/ch1-cafe-level5.unity
+    guid: d63ea8002c1eec24eb66e38950269602
+  - enabled: 1
+    path: Assets/Scenes/Campaign_HackDeHacker/Chapter 1 - Cafe/ch1-cafe-level5-easy.unity
+    guid: d61f03554d9ae044486d381cccf1fccb
+  - enabled: 1
+    path: Assets/Scenes/Campaign_HackDeHacker/Chapter 2 - De Cloud/ch2-cloud-level1.unity
+    guid: b3c784a7da85a6f4ca01b67a977c6c32
+  - enabled: 1
+    path: Assets/Scenes/Campaign_HackDeHacker/Chapter 2 - De Cloud/ch2-cloud-level2.unity
+    guid: 460983130ad7e96429d6c4e9db19c7ea
+  - enabled: 1
+    path: Assets/Scenes/Campaign_HackDeHacker/Chapter 2 - De Cloud/ch2-cloud-level2-easy.unity
+    guid: 5d82b4177b25b404f82b47cce3828638
+  - enabled: 1
+    path: Assets/Scenes/Campaign_HackDeHacker/Chapter 2 - De Cloud/ch2-cloud-level3.unity
+    guid: c312172c3d01da14198994a10ab21115
+  - enabled: 1
+    path: Assets/Scenes/Campaign_HackDeHacker/Chapter 2 - De Cloud/ch2-cloud-level3-easy.unity
+    guid: d0b2cbd8dbbe23b40b380b1f27591508
+  - enabled: 1
+    path: Assets/Scenes/Campaign_HackDeHacker/Chapter 2 - De Cloud/ch2-cloud-level4.unity
+    guid: 00c555a4ae56e1043b4c328d90402b2f
+  - enabled: 1
+    path: Assets/Scenes/Campaign_HackDeHacker/Chapter 3 - Mainframe/ch3-mainframe-level1.unity
+    guid: 1638adae1717a3749b5e03a56e89842a
+  - enabled: 1
+    path: Assets/Scenes/Campaign_HackDeHacker/Chapter 3 - Mainframe/ch3-mainframe-level2.unity
+    guid: 1bf2e7f022af39e44a868fe4d76a1ec4
+  - enabled: 1
+    path: Assets/Scenes/Campaign_HackDeHacker/Chapter 3 - Mainframe/ch3-mainframe-level2-easy.unity
+    guid: a00ea6c4834baa846b0f7d7b67a15476
+  - enabled: 1
+    path: Assets/Scenes/Campaign_HackDeHacker/Chapter 3 - Mainframe/ch3-mainframe-level3.unity
+    guid: 35d1af8e22fdc504dab4b3d4019d6415
+  - enabled: 1
+    path: Assets/Scenes/Campaign_HackDeHacker/Chapter 3 - Mainframe/ch3-mainframe-level3-easy.unity
+    guid: f4903e9f66f96794289fe5756f1d7f10
+  - enabled: 1
+    path: Assets/Scenes/Campaign_HackDeHacker/Chapter 4 - darkweb/ch4-darkweb-level1.unity
+    guid: 0b83900e381f1554b931ef03ce6b9f24
+  - enabled: 1
+    path: Assets/Scenes/Campaign_HackDeHacker/Chapter 4 - darkweb/ch4-darkweb-level1-easy.unity
+    guid: 5876291d62ae21642824eb949be3a802
+  - enabled: 1
+    path: Assets/Scenes/Campaign_HackDeHacker/Chapter 4 - darkweb/ch4-darkweb-level2.unity
+    guid: e05eda665ec2b78479689c0078938620
+  - enabled: 1
+    path: Assets/Scenes/Campaign_HackDeHacker/Chapter 4 - darkweb/ch4-darkweb-level2-easy.unity
+    guid: bc16cbebbbda9fd4c820af69c83cfb7d
+  - enabled: 1
+    path: Assets/Scenes/Campaign_HackDeHacker/Chapter 4 - darkweb/ch4-darkweb-level3.unity
+    guid: 25884fe37e0273843b6ab05ed3140775
+  - enabled: 1
+    path: Assets/Scenes/Campaign_HackDeHacker/Chapter 4 - darkweb/ch4-darkweb-level3-easy.unity
+    guid: fc13bdac73035e744a3e058b1ee7e33a
+  m_configObjects: {}

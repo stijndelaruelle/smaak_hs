@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8f75521bc5d7e574b96bbc50e1295fcc, type: 3}
+  m_Name: Theme_Darkweb
+  m_EditorClassIdentifier: 
+  m_Music: {fileID: 8300000, guid: edaf377962789f94f8e36719837b387e, type: 3}
+  m_TileMaterial: {fileID: 2100000, guid: 60a682d52e95a2d4abb5a492aec54c30, type: 2}
+  m_EdgeMaterial: {fileID: 2100000, guid: e05e9486e33028340997cef9b17b73a2, type: 2}
+  m_NodeMaterial: {fileID: 2100000, guid: a4cfcbe1fd70c0c4094490982bd3fd41, type: 2}
+  m_LevelObjectMaterials:
+  - {fileID: 2100000, guid: 4caa07bbbf5719747ba9951cc4e7397f, type: 2}
+  - {fileID: 2100000, guid: d73ef14b08090394ab2e61c0bb2c457b, type: 2}
+  m_InteractableMaterials:
+  - {fileID: 2100000, guid: 29a6eb25c4a128e4a891ad18933a523b, type: 2}
+  - {fileID: 2100000, guid: 1ee47a2727253694c8b6c0f217c23176, type: 2}
+  - {fileID: 2100000, guid: 989c5ca2341101b478565acd7ce0a02f, type: 2}

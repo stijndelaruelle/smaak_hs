@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a329afb90d8689b4bb9f39dc2d874955, type: 3}
+  m_Name: HackDeHacker
+  m_EditorClassIdentifier: 
+  m_CampaignNameLocalizationID: CAMPAIGN1_NAME
+  m_DescriptionLocalizationID: CAMPAIGN1_DESCRIPTION
+  m_Background: {fileID: 21300000, guid: 64121903fdb168e4ca0b783a18f34d4b, type: 3}
+  m_Music: {fileID: 8300000, guid: f7fcf27ab373ca242abd58f4f1a1788f, type: 3}
+  m_Chapters:
+  - {fileID: 11400000, guid: 2314ad9944b50474f9dbd03a70eaf250, type: 2}
+  - {fileID: 11400000, guid: bc25959b9b3b44d47b85dbba078a5af1, type: 2}
+  - {fileID: 11400000, guid: 37c279fd0bc4ea2449d5acef78707895, type: 2}
+  - {fileID: 11400000, guid: 42dddad56a211414e94640084e9e7e21, type: 2}

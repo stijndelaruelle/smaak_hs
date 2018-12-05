@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2f4a65a0fbd7be0418db8e46f10495cd, type: 3}
+  m_Name: Cafe Question Pool Q.1
+  m_EditorClassIdentifier: 
+  m_ShowInOrder: 0
+  m_MaxNumberOfQuestions: 3
+  m_MinNumberOfCorrectAnswers: 2
+  m_MaxNumberOfIncorrectAnswers: 1
+  m_Questions:
+  - {fileID: 11400000, guid: d00fbda55caa7ae4497661b43021cf52, type: 2}
+  - {fileID: 11400000, guid: fe948ff31c15d8e43ac3e15aefd8a30c, type: 2}
+  - {fileID: 11400000, guid: 22256d56671c7c14ca4dae88374829d0, type: 2}
+  - {fileID: 11400000, guid: 5bb38eb9402ac9b4ca18493606d4502b, type: 2}
+  - {fileID: 11400000, guid: 113f0db00efc35843b9207ca0f085edd, type: 2}
+  - {fileID: 11400000, guid: 7713ae81196827c46bba12c262eb0371, type: 2}
+  - {fileID: 11400000, guid: ba39fc6f7c8851545ae364e04599d960, type: 2}
+  - {fileID: 11400000, guid: ae8eb14f0b35515449af2c0bd0f31860, type: 2}
+  - {fileID: 11400000, guid: 141dfe690a2f0d74a9e6b5d61686fe7d, type: 2}
+  - {fileID: 11400000, guid: 88ddabcb76c85eb4995d8022edb2dfd4, type: 2}
+  - {fileID: 11400000, guid: f102993b09586314dac204d17ce2ba8a, type: 2}
+  - {fileID: 11400000, guid: f83c77c56a0bc3444bf0724d7a2ed857, type: 2}
+  - {fileID: 11400000, guid: 1d2a32c2c54e2064fa9938c4507a59c0, type: 2}

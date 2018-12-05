@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 41d7433c2aeb09f44bb491403e32f943, type: 3}
+  m_Name: Chapter 2 - Test
+  m_EditorClassIdentifier: 
+  m_Name: Test
+  m_Description: This were the very first levels every created for hackshield. Warning,
+    some may not work anymore!
+  m_BackgroundImage: {fileID: 0}
+  m_Levels:
+  - {fileID: 11400000, guid: 44645eb0f10816a4da767dc254030d79, type: 2}
+  - {fileID: 11400000, guid: 1884b1208f702bd49953268291571579, type: 2}
+  - {fileID: 11400000, guid: 45f88a624616b8a4b994fd03a723efaf, type: 2}
+  - {fileID: 11400000, guid: cccb11273cdd3184a9dcc44eec6bfdca, type: 2}
+  - {fileID: 11400000, guid: 0785b8be8ca18444d91dc014e89cc240, type: 2}
+  - {fileID: 11400000, guid: 7fca2aa9981228243a1477bd1e37f7ef, type: 2}
+  - {fileID: 11400000, guid: 4d36d9eb7fceb884a9622be16e29a4db, type: 2}
+  - {fileID: 11400000, guid: 052c55568d8805b4197d7cc53dd35e42, type: 2}

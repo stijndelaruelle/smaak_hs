@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 41d7433c2aeb09f44bb491403e32f943, type: 3}
+  m_Name: Mainframe
+  m_EditorClassIdentifier: 
+  m_ChapterNameLocalizationID: CAMPAIGN1_C3_NAME
+  m_DescriptionLocalizationID: CAMPAIGN1_C3_DESCRIPTION
+  m_LoadingScreenSceneName: LoadingScene_Mainframe
+  m_Background: {fileID: 21300000, guid: b11d7c4d9adfe374fbbb89523fa0eb5f, type: 3}
+  m_Music: {fileID: 8300000, guid: edaf377962789f94f8e36719837b387e, type: 3}
+  m_Levels:
+  - {fileID: 11400000, guid: e0ca17d8ac7de3244bf7f3bd301f7b92, type: 2}
+  - {fileID: 11400000, guid: 6303eb8fd0ebc754ca6deaa13d2f797d, type: 2}
+  - {fileID: 11400000, guid: eafafca783382ca4093b4718ef69d921, type: 2}

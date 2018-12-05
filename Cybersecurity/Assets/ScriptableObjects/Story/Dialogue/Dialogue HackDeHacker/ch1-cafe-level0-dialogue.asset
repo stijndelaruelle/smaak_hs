@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5f36e615fb473644ea917c4c143eab89, type: 3}
+  m_Name: ch1-cafe-level0-dialogue
+  m_EditorClassIdentifier: 
+  m_DialogueLines:
+  - m_Character: {fileID: 11400000, guid: 30725dc83f33fae4fa6bb7bcd0470dca, type: 2}
+    m_SideOfPanel: 0
+    m_TextLocalizationID: DIALOGUE_ch1-0-andre-1
+  - m_Character: {fileID: 11400000, guid: 30725dc83f33fae4fa6bb7bcd0470dca, type: 2}
+    m_SideOfPanel: 0
+    m_TextLocalizationID: DIALOGUE_ch1-0-andre-2
+  - m_Character: {fileID: 11400000, guid: 30725dc83f33fae4fa6bb7bcd0470dca, type: 2}
+    m_SideOfPanel: 0
+    m_TextLocalizationID: DIALOGUE_ch1-0-andre-3

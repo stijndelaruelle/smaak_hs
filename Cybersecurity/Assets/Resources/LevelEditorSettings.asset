@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 47ce7b225bb34a64c8b4f105c118871f, type: 3}
+  m_Name: LevelEditorSettings
+  m_EditorClassIdentifier: 
+  m_Merlin: {fileID: 2800000, guid: cbffebd9e74049344928346d1d2b1cc5, type: 3}
+  m_GridSize: 4
+  m_GlobalScenePath: Assets/Scenes/GlobalScene.unity
+  m_TilePrefab: {fileID: 1398305137325594, guid: e00ed0f6a026f9040b8954b2e96ee9cd,
+    type: 2}
+  m_LevelThemes:
+  - {fileID: 11400000, guid: 47bb5d31834badc4b9a2e27aa355106e, type: 2}
+  - {fileID: 11400000, guid: b7f3f74aa2833dd4eac660545765ff4f, type: 2}
+  - {fileID: 11400000, guid: 99af32ae3b98a5e4c9fc2b95509ea389, type: 2}
+  - {fileID: 11400000, guid: 09499689805fafe4ba0df8e0ab90059b, type: 2}
+  m_DirectionMeshes:
+  - {fileID: 4300000, guid: e56ca7572e1ce8f479b02c1d98528606, type: 3}
+  - {fileID: 4300000, guid: 8505522aa888cae4ca48d3479ff354ce, type: 3}
+  - {fileID: 4300000, guid: dd63192be1deee3409c17e2c0d6cb4a9, type: 3}
+  - {fileID: 4300000, guid: f196ea8cd78b6fe45bdc3667d429cabf, type: 3}
+  - {fileID: 4300000, guid: d7dc3cb1232c2fe4aa97ce13137dd91a, type: 3}
+  m_LevelObjects:
+  - {fileID: 114432636525112704, guid: 2e5b1163d759812499d5b93dff19c091, type: 2}
+  - {fileID: 114947678730591796, guid: bf0cb6e865078454b818002b7f2956b2, type: 2}
+  - {fileID: 114247328385859458, guid: 6c6ec5d3b017705418a16eafe832f77a, type: 2}
+  - {fileID: 114712375991101796, guid: 2fb1a9eb794d78a49ad56c9eb107434a, type: 2}
+  - {fileID: 114050222411221484, guid: 26399383d57e17f4b8998f09392c1e57, type: 2}
+  - {fileID: 114023031695314064, guid: ee030de564996bd45a08f10268ace2c4, type: 2}
+  - {fileID: 114711613728829484, guid: 61e06700272e0b8418cba684a6899e09, type: 2}
+  - {fileID: 114342536880324694, guid: 03347614cf20cf5488b782a08f0226cc, type: 2}

@@ -1,0 +1,5541 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 69b2758f0192901449c8f0d94b55a683, type: 3}
+  m_Name: LocalizationData
+  m_EditorClassIdentifier: 
+  m_Data:
+    m_Dictionary:
+    - m_Key: UI_BUTTON_PLAY
+      m_ValueList:
+      - Speel
+      - Play
+      - 
+      - 
+    - m_Key: UI_BUTTON_CONTINUE
+      m_ValueList:
+      - Ga verder
+      - Continue
+      - 
+      - 
+    - m_Key: UI_BUTTON_LOOKUP
+      m_ValueList:
+      - Zoek op
+      - Search
+      - 
+      - 
+    - m_Key: UI_BUTTON_HARDMODE_OFF
+      m_ValueList:
+      - Maak het moeilijker
+      - 'Hacker mode: Off'
+      - 
+      - 
+    - m_Key: UI_BUTTON_HARDMODE_ON
+      m_ValueList:
+      - Maak het makkelijker
+      - 'Hacker mode: On'
+      - 
+      - 
+    - m_Key: UI_LOADINGSCREEN_CONTINUE
+      m_ValueList:
+      - Klik om verder te gaan
+      - 
+      - 
+      - 
+    - m_Key: UI_LOADINGSCREEN_TIP_1
+      m_ValueList:
+      - "Pas op voor de <b>Firewall</b> deuren, \nde deuren sluiten als iets of iemand
+        er doorheen loopt."
+      - 
+      - 
+      - 
+    - m_Key: UI_LOADINGSCREEN_TIP_2
+      m_ValueList:
+      - "Je kunt je avatar bewegen door op een tegel te klikken \nof de pijltjestoetsen
+        te gebruiken."
+      - 
+      - 
+      - 
+    - m_Key: UI_LOADINGSCREEN_TIP_3
+      m_ValueList:
+      - "Je kunt terminals activeren om bijvoorbeeld deuren te hacken, \nals je er
+        <b>recht voor</b> staat en op spatie drukt."
+      - 
+      - 
+      - 
+    - m_Key: UI_LOADINGSCREEN_TIP_4
+      m_ValueList:
+      - "Als je denkt dat je vast zit kun je altijd \nvanuit <b>het menu linksonder</b>
+        het level herstarten."
+      - 
+      - 
+      - 
+    - m_Key: UI_LOADINGSCREEN_TIP_5
+      m_ValueList:
+      - "DarkHacker14 moet gestopt worden voor hij \nalle <b>data-blocks</b> te pakken
+        krijgt!"
+      - 
+      - 
+      - 
+    - m_Key: UI_LOADINGSCREEN_TIP_6
+      m_ValueList:
+      - "Om een <b>data-block</b> te verzamelen moet je \nminstens 2 kennisvragen
+        goed beantwoorden."
+      - 
+      - 
+      - 
+    - m_Key: UI_LOADINGSCREEN_TIP_7
+      m_ValueList:
+      - De Hacker die Hackshield heeft gemaakt gaat onder de naam Kapistijn
+      - 
+      - 
+      - 
+    - m_Key: UI_LOADINGSCREEN_TIP_8
+      m_ValueList:
+      - "Speel HackShield nooit op een openbaar WIFI-netwerk. \nJe weet nooit wie
+        er mee kijkt!"
+      - 
+      - 
+      - 
+    - m_Key: UI_LOADINGSCREEN_TIP_9
+      m_ValueList:
+      - "<b>Bug</b> is een computerterm. Met een Bug bedoelen we \neen fout in een
+        programma of website waardoor deze niet goed werkt."
+      - 
+      - 
+      - 
+    - m_Key: UI_LOADINGSCREEN_TIP_10
+      m_ValueList:
+      - Een <b>scriptkiddie</b> is een (beginnende) hacker die voornamelijk hackt
+        voor de lol of bekendheid.
+      - 
+      - 
+      - 
+    - m_Key: UI_LOADINGSCREEN_TIP_11
+      m_ValueList:
+      - "Een <b>hacker</b> heette vroeger een \u201Ccracker\u201D. \nEr zijn verschillende
+        \u201Csoorten\u201D hackers met ieder hun eigen motivatie."
+      - 
+      - 
+      - 
+    - m_Key: UI_LOADINGSCREEN_TIP_12
+      m_ValueList:
+      - "Een <b>Botnet</b> is een netwerk van gehackte zombie-computers \ndie gebruikt
+        worden om grote cyberaanvallen uit te voeren."
+      - 
+      - 
+      - 
+    - m_Key: UI_LOADINGSCREEN_TIP_13
+      m_ValueList:
+      - "Een <b>rootkit</b> is vaak onvindbaar en je merkt er niets van. \nen geeft
+        een hacker (volledige) toegang tot je PC. "
+      - 
+      - 
+      - 
+    - m_Key: UI_LOADINGSCREEN_TIP_14
+      m_ValueList:
+      - "<b>WiFi</b> is een afkorting van Wireless Fidelity, \nwat ironisch zoiets
+        als 'draadloze betrouwbaarheid' betekent."
+      - 
+      - 
+      - 
+    - m_Key: UI_LOADINGSCREEN_TIP_15
+      m_ValueList:
+      - Lukt een level niet? Gebruik de <b>hints!</b> Klik op het lampje rechtsonderin.
+      - 
+      - 
+      - 
+    - m_Key: UI_LOADINGSCREEN_TIP_16
+      m_ValueList:
+      - Gebruik je hints? Herstart dan eerst het level vanuit <b>het menu linksonder</b>.
+      - 
+      - 
+      - 
+    - m_Key: UI_VICTORYSCREEN_CONTINUE
+      m_ValueList:
+      - KLIK OM VERDER TE GAAN
+      - 
+      - 
+      - 
+    - m_Key: UI_VICTORYSCREEN_MESSAGE
+      m_ValueList:
+      - Level Gehaald_
+      - 
+      - 
+      - 
+    - m_Key: UI_VICTORYSCREEN_MESSAGE_END
+      m_ValueList:
+      - DARKHACKER14 VERSLAGEN_
+      - 
+      - 
+      - 
+    - m_Key: UI_DEFEATSCREEN_CONTINUE
+      m_ValueList:
+      - KLIK OM HET OPNIEUW TE PROBEREN
+      - 
+      - 
+      - 
+    - m_Key: UI_DEFEATSCREEN_MAINMESSAGE
+      m_ValueList:
+      - Uitgelogd
+      - 
+      - 
+      - 
+    - m_Key: UI_CHARACTERCREATION_TITLE
+      m_ValueList:
+      - Maak je avatar
+      - 
+      - 
+      - 
+    - m_Key: UI_CHARACTERCREATION_SKINCOLOR
+      m_ValueList:
+      - Huidskleur
+      - 
+      - 
+      - 
+    - m_Key: UI_CHARACTERCREATION_EXTRACOLOR
+      m_ValueList:
+      - Haar en Kleding
+      - 
+      - 
+      - 
+    - m_Key: UI_CHARACTERCREATION_CHOOSE_NAME
+      m_ValueList:
+      - Typ hier je nickname
+      - 
+      - 
+      - 
+    - m_Key: UI_CHARACTERCREATION_NAME_ERROR
+      m_ValueList:
+      - Kies een naam
+      - 
+      - 
+      - 
+    - m_Key: UI_CHARACTERCREATION_READY
+      m_ValueList:
+      - Klaar
+      - 
+      - 
+      - 
+    - m_Key: UI_CAMPAING_COMMINGSOON_NAME
+      m_ValueList:
+      - Nog even wachten!
+      - 
+      - 
+      - 
+    - m_Key: UI_CAMPAING_COMMINGSOON_DESC
+      m_ValueList:
+      - Op JoinHackShield.nl blijf je op de hoogte van nieuwe afleveringen van HackShield!
+      - 
+      - 
+      - 
+    - m_Key: UI_BITCODE_POPUP_CONGRATULATIONS
+      m_ValueList:
+      - GEFELICITEERD!
+      - 
+      - 
+      - 
+    - m_Key: UI_BITCODE_POPUP_DESC
+      m_ValueList:
+      - "Het avontuur is nog niet over! Maar je hebt al wel 75 Bits verdiend voor
+        je klas! \nVul straks de onderstaande Bit-code in de MediaMasters BitBank
+        in om je Bits te claimen!"
+      - 
+      - 
+      - 
+    - m_Key: UI_BITCODE_POPUP_BITS
+      m_ValueList:
+      - 75 Bits
+      - 
+      - 
+      - 
+    - m_Key: UI_BITCODE_POPUP_CODE_COPIED
+      m_ValueList:
+      - Speel snel verder om DarkHacker14 te pakken!
+      - 
+      - 
+      - 
+    - m_Key: UI_BITCODE_UNLOCKED
+      m_ValueList:
+      - Vrijgespeelde Bit-code
+      - 
+      - 
+      - 
+    - m_Key: UI_BITCODE
+      m_ValueList:
+      - h4ck5h13ld
+      - 
+      - 
+      - 
+    - m_Key: UI_OPTIONS_AUDIO
+      m_ValueList:
+      - Geluid
+      - 
+      - 
+      - 
+    - m_Key: UI_OPTIONS_MUSIC
+      m_ValueList:
+      - Muziek
+      - 
+      - 
+      - 
+    - m_Key: UI_OPTIONS_SFX
+      m_ValueList:
+      - SFX
+      - 
+      - 
+      - 
+    - m_Key: UI_OPTIONS_VIDEO
+      m_ValueList:
+      - Video
+      - 
+      - 
+      - 
+    - m_Key: UI_OPTIONS_CHEATS_ENABLED
+      m_ValueList:
+      - Je bent een hacker!
+      - 
+      - 
+      - 
+    - m_Key: UI_OPTIONS_DELETE_BUTTON
+      m_ValueList:
+      - Verwijder save game
+      - 
+      - 
+      - 
+    - m_Key: UI_OPTIONS_DELETE_POPUP_TITLE
+      m_ValueList:
+      - Pas op!
+      - 
+      - 
+      - 
+    - m_Key: UI_OPTIONS_DELETE_POPUP_DESC
+      m_ValueList:
+      - Weet je zeker dat je je saved game wilt verwijderen? Al je voortgang wordt
+        gewist en je moet van af het begin beginnen! Gebruik dit dus alleen als je
+        broer of zus een eigen karakter wil maken en het verhaal vanaf het begin wil
+        volgen!
+      - 
+      - 
+      - 
+    - m_Key: UI_OPTIONS_DELETE_POPUP_BUTTON_YES
+      m_ValueList:
+      - JA
+      - 
+      - 
+      - 
+    - m_Key: UI_OPTIONS_DELETE_POPUP_BUTTON_NO
+      m_ValueList:
+      - NEE
+      - 
+      - 
+      - 
+    - m_Key: UI_OPTIONS_DELETE_POPUP_CONFIRMATION
+      m_ValueList:
+      - Save game verwijderd
+      - 
+      - 
+      - 
+    - m_Key: UI_OPTIONS_DELETE_POPUP_BUTTON_OK
+      m_ValueList:
+      - OK
+      - 
+      - 
+      - 
+    - m_Key: UI_CAMPAIGN_PROGRESSION
+      m_ValueList:
+      - '{LEVELS_COMPLETED}/{LEVELS} levels uitgespeeld'
+      - 
+      - 
+      - 
+    - m_Key: UI_CAMPAIGN_PROGRESSION_PERCENT
+      m_ValueList:
+      - '{LEVELS_COMPLETED_PERCENT}% uitgespeeld'
+      - 
+      - 
+      - 
+    - m_Key: CAMPAIGN1_NAME
+      m_ValueList:
+      - Hack de Hacker
+      - 
+      - 
+      - 
+    - m_Key: CAMPAIGN1_DESCRIPTION
+      m_ValueList:
+      - "Hoe kun jij je het beste online wapenen tegen Hackers? \nIn episode 1 leren
+        we je alles over hacken en cybersecurity. \nMaar wat doe jij met de kennis
+        die je opdoet?\n"
+      - 
+      - 
+      - 
+    - m_Key: CAMPAIGN1_C1_NAME
+      m_ValueList:
+      - "Het Caf\xE9"
+      - 
+      - 
+      - 
+    - m_Key: CAMPAIGN1_C1_DESCRIPTION
+      m_ValueList:
+      - "We zijn altijd en overal online... \nmaar de hackers ook.\n"
+      - 
+      - 
+      - 
+    - m_Key: CAMPAIGN1_C1_L0_NAME
+      m_ValueList:
+      - Rootkit
+      - 
+      - 
+      - 
+    - m_Key: CAMPAIGN1_C1_L0_DESCRIPTION
+      m_ValueList:
+      - 'Een Rootkit is vaak onvindbaar en je merkt er niets van.
+
+        en geeft een hacker (volledige) toegang tot je PC.'
+      - 
+      - 
+      - 
+    - m_Key: CAMPAIGN1_C1_L1_NAME
+      m_ValueList:
+      - data-blocks
+      - 
+      - 
+      - 
+    - m_Key: CAMPAIGN1_C1_L1_DESCRIPTION
+      m_ValueList:
+      - 
+      - 
+      - 
+      - 
+    - m_Key: CAMPAIGN1_C1_L2_NAME
+      m_ValueList:
+      - Root Access
+      - 
+      - 
+      - 
+    - m_Key: CAMPAIGN1_C1_L2_DESCRIPTION
+      m_ValueList:
+      - Root is de standaard *nix (Unix / Linux) gebruikersnaam met de hoogste rechten
+        op het besturingssysteem. Root is vergelijkbaar met de Administrator uit de
+        Windows omgevingen. Root Access wil dus zeggen dat er toegang is tot een systeem
+        met alle rechten.
+      - 
+      - 
+      - 
+    - m_Key: CAMPAIGN1_C1_L3_NAME
+      m_ValueList:
+      - Beweging
+      - 
+      - 
+      - 
+    - m_Key: CAMPAIGN1_C1_L3_DESCRIPTION
+      m_ValueList:
+      - 
+      - 
+      - 
+      - 
+    - m_Key: CAMPAIGN1_C1_L4_NAME
+      m_ValueList:
+      - Brute-Force aanval
+      - 
+      - 
+      - 
+    - m_Key: CAMPAIGN1_C1_L4_DESCRIPTION
+      m_ValueList:
+      - Een Brute-Force aanval is een aanval die continu probeert om in te loggen
+        of om toegang te krijgen tot een bepaald (gedeelte van een) systeem. Brute-Force
+        betekend letterlijk met brute kracht. Dit type aanval probeert vele verschillende
+        inlogcombinaties achter elkaar (tientallen tot honderden per minuut). Een
+        Brute-Force wordt gebruikt bij het ontbreken van de juiste algoritmes.
+      - 
+      - 
+      - 
+    - m_Key: CAMPAIGN1_C1_L5_NAME
+      m_ValueList:
+      - Botnet
+      - 
+      - 
+      - 
+    - m_Key: CAMPAIGN1_C1_L5_DESCRIPTION
+      m_ValueList:
+      - "Een netwerk van gehackte (zombie) computers waarvan de kracht \ngezamenlijk
+        gebruikt wordt om grote aanvallen zoals een DDOS aanval uit te voeren."
+      - 
+      - 
+      - 
+    - m_Key: CAMPAIGN1_C2_NAME
+      m_ValueList:
+      - De Cloud
+      - 
+      - 
+      - 
+    - m_Key: CAMPAIGN1_C2_DESCRIPTION
+      m_ValueList:
+      - De Cloud is een andere benaming voor een online datanetwerk, dit zijn online
+        databases waar gebruikers hun bestanden kunnen opslaan en via het internet
+        altijd toegang tot hebben.
+      - 
+      - 
+      - 
+    - m_Key: CAMPAIGN1_C2_L1_NAME
+      m_ValueList:
+      - Exploit
+      - 
+      - 
+      - 
+    - m_Key: CAMPAIGN1_C2_L1_DESCRIPTION
+      m_ValueList:
+      - Een exploit is een mogelijke (bij de hacker bekende of door de hacker ontdekte)
+        zwakheid in het systeem die misbruikt kan worden om toegang te krijgen tot
+        (een deel van) de website.
+      - 
+      - 
+      - 
+    - m_Key: CAMPAIGN1_C2_L2_NAME
+      m_ValueList:
+      - SSL
+      - 
+      - 
+      - 
+    - m_Key: CAMPAIGN1_C2_L2_DESCRIPTION
+      m_ValueList:
+      - "SSL staat voor \u201CSecure Socket Layer\u201D. SSL en TLS (de opvolger van
+        SSL) beveiligen verbindingen op het internet. SSL is een symmetrische cryptografie
+        methode waarbij een asymmetrische cryptografie methode gebruikt wordt om gevonden
+        server te authentiseren."
+      - 
+      - 
+      - 
+    - m_Key: CAMPAIGN1_C2_L3_NAME
+      m_ValueList:
+      - Hacker
+      - 
+      - 
+      - 
+    - m_Key: CAMPAIGN1_C2_L3_DESCRIPTION
+      m_ValueList:
+      - "Een hacker (in het originele jargon heet dat een \u201Ccracker\u201D) is
+        de persoon die zich bezig houdt met hacken. Er zijn verschillende \u201Csoorten\u201D
+        hackers met ieder hun eigen motivatie. Er bestaan zogenaamde \u201Cblack-hat\u201D,
+        \u201Dgrey-hat\u201D en \u201Dwhite-hat\u201D hackers."
+      - 
+      - 
+      - 
+    - m_Key: CAMPAIGN1_C2_L4_NAME
+      m_ValueList:
+      - Data Eerst
+      - 
+      - 
+      - 
+    - m_Key: CAMPAIGN1_C2_L4_DESCRIPTION
+      m_ValueList:
+      - 
+      - 
+      - 
+      - 
+    - m_Key: CAMPAIGN1_C3_NAME
+      m_ValueList:
+      - Mainframe
+      - 
+      - 
+      - 
+    - m_Key: CAMPAIGN1_C3_DESCRIPTION
+      m_ValueList:
+      - "Je kunt niet alleen gehacked worden via het internet maar ook fysiek. \nBijvoorbeeld
+        gewoon als er iemand over je schouder meekijkt. \n"
+      - 
+      - 
+      - 
+    - m_Key: CAMPAIGN1_C3_L1_NAME
+      m_ValueList:
+      - Scriptkiddie
+      - 
+      - 
+      - 
+    - m_Key: CAMPAIGN1_C3_L1_DESCRIPTION
+      m_ValueList:
+      - Een scriptkiddie is een (beginnende) hacker die voornamelijk hackt voor de
+        lol of persoonlijke faam en veelal gebruik maakt van (semi-) automatische
+        tools en bekende exploits om te hacken. Het maken van tools en vinden van
+        exploits wordt vaak door hackers (in origineel jargon heten deze crackers
+        of black-hat hackers).
+      - 
+      - 
+      - 
+    - m_Key: CAMPAIGN1_C3_L2_NAME
+      m_ValueList:
+      - Cryptoboard
+      - 
+      - 
+      - 
+    - m_Key: CAMPAIGN1_C3_L2_DESCRIPTION
+      m_ValueList:
+      - Een cryptoboard is stukje hardware dat meestal aanwezig is in hardware gebaseerde
+        opslagapparaten. Data in het apparaat wordt versleuteld opgeslagen en verwerkt.
+        De versleuteling wordt geregeld door het cryptoboard. Omdat het cryptoboard
+        een speciaal stukje hardware is gaat dataversleuteling sneller dan met software.
+      - 
+      - 
+      - 
+    - m_Key: CAMPAIGN1_C3_L3_NAME
+      m_ValueList:
+      - Smartcard
+      - 
+      - 
+      - 
+    - m_Key: CAMPAIGN1_C3_L3_DESCRIPTION
+      m_ValueList:
+      - Een smartcard is een kaart met een chip erin. Deze kaart ziet er vaak uit
+        als een bankpas maar kan ook veel kleiner zijn. De chip op de smartcard kan
+        bepaalde gegevens bevatten die nodig zijn om in te loggen. Inloggen met een
+        smartcard en een wachtwoord is een vorm van 2-factor authentication (twee
+        staps verificatie) omdat je met een smartcard inlogt met iets wat je hebt
+        en iets wat je weet.
+      - 
+      - 
+      - 
+    - m_Key: CAMPAIGN1_C4_NAME
+      m_ValueList:
+      - Het Darkweb
+      - 
+      - 
+      - 
+    - m_Key: CAMPAIGN1_C4_DESCRIPTION
+      m_ValueList:
+      - 'Het Darkweb, een onderdeel van het deepweb, is een plek waar cyber criminelen
+        samenkomen. Je kunt hier niet zomaar komen met je browser maar hebt speciale
+        software nodig.
+
+'
+      - 
+      - 
+      - 
+    - m_Key: CAMPAIGN1_C4_L1_NAME
+      m_ValueList:
+      - Bug
+      - 
+      - 
+      - 
+    - m_Key: CAMPAIGN1_C4_L1_DESCRIPTION
+      m_ValueList:
+      - Bug is een computerterm. Met een bug bedoelen we een fout in een applicatie
+        of website waardoor deze hun taak niet goed of niet volgens de specificaties
+        en richtlijnen uitvoeren.
+      - 
+      - 
+      - 
+    - m_Key: CAMPAIGN1_C4_L2_NAME
+      m_ValueList:
+      - Webshell backdoor
+      - 
+      - 
+      - 
+    - m_Key: CAMPAIGN1_C4_L2_DESCRIPTION
+      m_ValueList:
+      - "Een webshell is een grafische interface die via de browser aangestuurd wordt.
+        Een Webshell communiceert meestal via Secure Shell (SSH) waardoor een webshell
+        ook achter een firewall benaderbaar is. Middels een webshell kunnen bepaalde
+        commando\u2019s uitgevoerd worden op het systeem. Een Webshell Backdoor is
+        een webshell die ge\xEFnstalleerd is door een malafide gebruiker en gebruikt
+        wordt om ongeautoriseerd en ongevraagd toegang te verkrijgen en acties uit
+        te voeren op een systeem."
+      - 
+      - 
+      - 
+    - m_Key: CAMPAIGN1_C4_L3_NAME
+      m_ValueList:
+      - 101
+      - 
+      - 
+      - 
+    - m_Key: CAMPAIGN1_C4_L3_DESCRIPTION
+      m_ValueList:
+      - 
+      - 
+      - 
+      - 
+    - m_Key: ITEMS_KEYCARD_RED
+      m_ValueList:
+      - Rode USB-sleutel
+      - Red USB-Key
+      - 
+      - 
+    - m_Key: ITEMS_KEYCARD_YELLOW
+      m_ValueList:
+      - Gele USB-sleutel
+      - Yellow USB-Key
+      - 
+      - 
+    - m_Key: ITEMS_KEYCARD_GREEN
+      m_ValueList:
+      - Groene USB-sleutel
+      - Green USB-Key
+      - 
+      - 
+    - m_Key: ITEMS_KEYCARD_CYAN
+      m_ValueList:
+      - Lichtblauwe USB-sleutel
+      - Cyan USB-Key
+      - 
+      - 
+    - m_Key: ITEMS_KEYCARD_PINK
+      m_ValueList:
+      - Roze USB-sleutel
+      - Pink USB-Key
+      - 
+      - 
+    - m_Key: QUIZ_Cafe
+      m_ValueList:
+      - 
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q1.01
+      m_ValueList:
+      - "Hallo! Je bevindt je in een digitaal caf\xE9 en er hangt gratis <b>wifi</b>
+        in de lucht, kan je hier veilig mee verbinden?"
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q1.01A1
+      m_ValueList:
+      - Ja, handig, kan ik meteen alle data-blocks uploaden
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q1.01A2
+      m_ValueList:
+      - Nee, gratis wifi is handig, maar niet altijd veilig
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q1.01A3
+      m_ValueList:
+      - '-'
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q1.01A4
+      m_ValueList:
+      - '-'
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q1.01FA
+      m_ValueList:
+      - Heel goed! Volgens mij ga jij deze game zo uitspelen. Het is makkelijk om
+        toegang tot Gratis wifi te krijgen, daarmee kunnen hackers dus ook in jouw
+        telefoon komen! Niet heel veilig dus.
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q1.01FB
+      m_ValueList:
+      - Ai, nee. Gelukkig traint deze game je in cybersecurity, dat heb jij wel nodig!
+        Gratis wifi is makkelijk om toegang toe te krijgen, daarmee kunnen hackers
+        dus ook jouw telefoon binnen tekomen! Niet heel veilig dus.
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q1.02
+      m_ValueList:
+      - In deze game verzamel je dus <b>data-blocks</b>, die ...
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q1.02A1
+      m_ValueList:
+      - '... zijn nodig om het level te halen'
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q1.02A2
+      m_ValueList:
+      - '... kunnen ook ontploffen als ze rood zijn'
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q1.02A3
+      m_ValueList:
+      - '... mag je niet oppakken, dat is diefstal'
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q1.02A4
+      m_ValueList:
+      - '... zijn niks waard'
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q1.02FA
+      m_ValueList:
+      - Goed opgelet! Je zult er nog meer tegenkomen, om ze te ontgrendelen moet je
+        2 van de 3 vragen goed beantwoorden.
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q1.02FB
+      m_ValueList:
+      - Nee dat niet, heb je niet gelet op wat Rickey je vertelde? Je hebt data-blocks
+        nodig om de levels te halen, om ze te ontgrendelen moet je 2 van de 3 vragen
+        goed beantwoorden.
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q1.03
+      m_ValueList:
+      - Wat is <b>HackShield</b>?
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q1.03A1
+      m_ValueList:
+      - Een community van kinderen tegen cybercrime
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q1.03A2
+      m_ValueList:
+      - Een schild dat je installeert om nooit gehackt te worden
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q1.03A3
+      m_ValueList:
+      - Zomaar een spelletje
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q1.03A4
+      m_ValueList:
+      - Een ding dat je leert hacken
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q1.03FA
+      m_ValueList:
+      - Welkom HackShielder, we rekenen op jou.
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q1.03FB
+      m_ValueList:
+      - Nee joh! HackShield is er niet zomaar, we hebben een community van kinderen
+        nodig voor een veiliger internet!
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q1.1
+      m_ValueList:
+      - Wat zijn <b>cookies</b>?
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q1.1A1
+      m_ValueList:
+      - Dat zijn digitale pakketjes met jouw informatie die websites op jouw apparaat
+        achterlaten
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q1.1A2
+      m_ValueList:
+      - Dat zijn digitale pakketjes met jouw informatie die jij op websites achterlaat
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q1.1A3
+      m_ValueList:
+      - Virussen die je persoonlijke gegevens overnemen
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q1.1A4
+      m_ValueList:
+      - Een digitaal paspoort met al jouw persoonlijke gegevens
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q1.1FA
+      m_ValueList:
+      - "Juist! De meeste websites verzamelen informatie over je. Sommigen alleen
+        om de website te verbeteren, maar anderen verzamelen juist h\xE9\xE9l veel
+        persoonlijke informatie. Bedrijven gebruiken dit om spullen aan je te laten
+        zien in advertenties."
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q1.1FB
+      m_ValueList:
+      - Cookies zijn afgeleid van 'Magic cookies', een bestandje dat data over jou
+        verzamelt. Websites gebruiken deze zodat ze jou herkennen als je op hun website
+        komt.
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q1.2
+      m_ValueList:
+      - Waarom moet je toestemming geven voor <b>cookies</b>?
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q1.2A1
+      m_ValueList:
+      - Als websites persoonlijke gegevens van je verzamelen zijn ze verplicht dat
+        te vragen
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q1.2A2
+      m_ValueList:
+      - Omdat ze anders in je computer kunnen inbreken
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q1.2A3
+      m_ValueList:
+      - Omdat je anders niet beschermd bent tegen virussen
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q1.2A4
+      m_ValueList:
+      - Anders kan je niks zien op die website
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q1.2FA
+      m_ValueList:
+      - Klopt! Volgens de Europese wet moeten bedrijven altijd vragen of ze gegevens
+        over je mogen opslaan, en jij moet altijd eerst toestemming hebben gegeven.
+        Als bedrijven dat niet doen kunnen ze een hoge boete krijgen.
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q1.2FB
+      m_ValueList:
+      - "Niet alle cookies zijn fout, maar ze verzamelen wel informatie over je. Daarom
+        staat er in de Europese wet dat je hier toestemming voor moet geven. Je mag
+        namelijk zelf bepalen wat websites w\xE9l en wat niet van je opslaan."
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q1.3
+      m_ValueList:
+      - Waar verwijder je <b>cookies</b>?
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q1.3A1
+      m_ValueList:
+      - Door je internet af te sluiten en weer aan te zetten
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q1.3A2
+      m_ValueList:
+      - Door je computer uit te zetten en weer aan te doen
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q1.3A3
+      m_ValueList:
+      - Bij de browsergeschiedenis van je internet
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q1.3A4
+      m_ValueList:
+      - Die kun je helemaal niet verwijderen
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q1.3FA
+      m_ValueList:
+      - Klopt, je moet deze zelf verwijderen bij de instellingen. Lukt het je niet
+        meteen? Zoek maar eens op hoe jij de cookies in jouw internetbrowser kan verwijderen.
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q1.3FB
+      m_ValueList:
+      - Je moet zelf actie ondernemen om je cookies te verwijderen. Dit doe je vaak
+        bij de instellingen van je internet. Zoek maar eens op hoe je deze kan verwijderen
+        en hoeveel cookies je eigenlijk hebt opgeslagen!
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q1.4
+      m_ValueList:
+      - Waar moet je op letten als je veilig op <b>openbare wifi</b> wilt inloggen?
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q1.4A1
+      m_ValueList:
+      - Of het wel echt gratis is
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q1.4A2
+      m_ValueList:
+      - Of de verbinding betrouwbaar is
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q1.4A3
+      m_ValueList:
+      - Hoe sterk het signaal is
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q1.4A4
+      m_ValueList:
+      - Of je het anderen ook ziet doen
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q1.4FA
+      m_ValueList:
+      - Klopt, maar zelfs dan moet je blijven oppassen. Hackers kunnen hotspots namaken
+        waardoor je telefoon automatisch verbinding maakt met deze netwerken. Het
+        veiligst is om alleen met je databundel te internetten.
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q1.4FB
+      m_ValueList:
+      - Helaas. Het allerbelangrijkste is dat je weet dat de wifi van een betrouwbare
+        bron komt. Zelfs dan moet je goed blijven opletten, want hackers maken hotspots
+        soms na. Het veiligste is om te internetten met je databundel
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q1.5
+      m_ValueList:
+      - Wanneer hackers je via <b>openbare wifi</b> hacken, wat willen ze dan van
+        je?
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q1.5A1
+      m_ValueList:
+      - "Ze willen zien welke apps je allemaal ge\xEFnstalleerd hebt"
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q1.5A2
+      m_ValueList:
+      - Ze kijken wat je hobbies en interesses zijn
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q1.5A3
+      m_ValueList:
+      - Ze maken je smartphone stuk
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q1.5A4
+      m_ValueList:
+      - Persoonlijke info en inloggegevens
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q1.5FA
+      m_ValueList:
+      - Precies! Deze hackers zijn vaak op zoek naar gegevens die ze kunnen gebruiken
+        om in te loggen op jouw social media, whatsapp of zelfs je bankgegevens!
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q1.5FB
+      m_ValueList:
+      - Nee, dat is vaak niet waar ze op uit zijn. De meeste hackers willen gegevens
+        waarmee ze dingen van je kunnen stelen. Denk aan wachtwoorden die ze kunnen
+        gebruiken om in te loggen op jouw social media, whatsapp of zelfs je bankgegevens!
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q1.6
+      m_ValueList:
+      - "Wat is <b>g\xE9\xE9n</b> manier om te hacken via <b>openbare wifi</b> ?"
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q1.6A1
+      m_ValueList:
+      - Een wifi netwerk aanmaken met een betere verbinding en dezelfde naam
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q1.6A2
+      m_ValueList:
+      - Een openbare wifi router binnendringen
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q1.6A3
+      m_ValueList:
+      - Andermans telefoon stelen en hun wachtwoord opzoeken
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q1.6A4
+      m_ValueList:
+      - Je voordoen als een bekend klinkend netwerk
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q1.6FA
+      m_ValueList:
+      - "Je hebt gelijk. Dit is niet de manier om iemand te hacken, dat valt natuurlijk
+        veel te veel op. De meest voorkomende manier is het namaken van bekende netwerken,
+        bijvoorbeeld van een caf\xE9, om te hopen dat mensen daarop inloggen. "
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q1.6FB
+      m_ValueList:
+      - "Dit is juist wel een manier om te hacken via openbaar wifi. De meestvoorkomende
+        manier is een bekend netwerk, bijvoorbeeld van een caf\xE9, na te maken en
+        hopen dat mensen daarop inloggen."
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q1.7
+      m_ValueList:
+      - Je gaat weer uit de <b>wifi zone</b>, wat doe je?
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q1.7A1
+      m_ValueList:
+      - Niks, als ik niet in de buurt ben, ben ik niet verbonden
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q1.7A2
+      m_ValueList:
+      - Ik zorg dat mijn telefoon het netwerk vergeet
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q1.7A3
+      m_ValueList:
+      - Af en toe kijken of mijn telefoon niet wordt gehackt
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q1.7A4
+      m_ValueList:
+      - Ik sluit mijn internet tabbladen en app af
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q1.7FA
+      m_ValueList:
+      - Heel slim! Dit is het juiste antwoord.  Zo maakt je telefoon geen automatische
+        verbinding met dat netwerk. Soms worden deze namelijk nagemaakt door een hacker,
+        en verbindt je telefoon met het foute netwerk. Dat wil je niet hebben, toch?
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q1.7FB
+      m_ValueList:
+      - Niet heel verstandig.. Het beste is om een verbinding te vergeten bij je instellingen.
+        Op deze manier gaat je telefoon niet automatisch op zoek naar dit netwerk.
+        Het kan bijvoorbeeld voorkomen dat hackers het netwerk namaken, en je wilt
+        absoluut niet verbonden worden met hun netwerk!
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q1.8
+      m_ValueList:
+      - Wat kan je doen om <b>openbare wifi</b> veiliger te gebruiken?
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q1.8A1
+      m_ValueList:
+      - '"Bestanden delen" in je telefoon uitzetten'
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q1.8A2
+      m_ValueList:
+      - Je telefoon inwikkelen in aluminiumfolie
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q1.8A3
+      m_ValueList:
+      - Zorgen dat je telefoon goed is opgeladen
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q1.8A4
+      m_ValueList:
+      - Alleen inloggen als je iets wil doen
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q1.8FA
+      m_ValueList:
+      - 'Juist. De rest is natuurlijk niet veilig genoeg. Wanneer je bestanden delen
+        hebt uitgezet, kunnen deze in ieder geval niet van je telefoon worden gestolen. '
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q1.8FB
+      m_ValueList:
+      - Nee, het kan nog veel veiliger! Het gevaar is juist dat je bestanden gestolen
+        worden, dus zet vooral in je telefoon uit dat deze kunnen worden gedeeld.
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q1.9
+      m_ValueList:
+      - Hoeveel schade wordt jaarlijks in Nederland aangericht door <b>cybercrime</b>?
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q1.9A1
+      m_ValueList:
+      - Tienduizend euro
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q1.9A2
+      m_ValueList:
+      - Honderdduizend euro
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q1.9A3
+      m_ValueList:
+      - 10 miljoen euro
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q1.9A4
+      m_ValueList:
+      - 10 miljard euro
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q1.9FA
+      m_ValueList:
+      - Juist! Dit is echt heel veel toch? Het grootste deel van dit bedrag wordt
+        opgehaald doordat hackers malware versturen naar mensen in Nederland. Weet
+        je al meer van malware?
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q1.9FB
+      m_ValueList:
+      - "Jammer, het bedrag ligt h\xE9\xE9l v\xE9\xE9l hoger dan dit. Zoek het maar
+        eens op. De schade wordt voornamelijk aangericht door malware."
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q1.10
+      m_ValueList:
+      - Wat is de reden voor een <b>white-hat hacker</b> om te hacken?
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q1.10A1
+      m_ValueList:
+      - Het vinden van lekken op websites om deze te melden bij de eigenaar
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q1.10A2
+      m_ValueList:
+      - Het stelen van informatie en deze op internet te zetten
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q1.10A3
+      m_ValueList:
+      - Bedrijven te bedreigen voor losgeld
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q1.10A4
+      m_ValueList:
+      - Voor de lol websites offline halen en berichtjes achterlaten
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q1.10FA
+      m_ValueList:
+      - Klopt! White-hat hackers zijn hackers met goede bedoelingen. Ze maken het
+        internet veilig en werken vaak samen met bedrijven. Door te hacken testen
+        ze de beveiliging van een systeem of website, zodat het vervolgens beter beveiligd
+        kan worden.
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q1.10FB
+      m_ValueList:
+      - Nee, white-hat hackers zijn juist hackers met goede bedoelingen. Zij proberen
+        het internet veiliger te maken en werken daarmee vaak in opdracht van een
+        bedrijf. Ze testen de beveiliging door te hacken.
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q1.11
+      m_ValueList:
+      - Wat is waar over een <b>black-hat hacker</b>?
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q1.11A1
+      m_ValueList:
+      - Zij hacken alle websites met toestemming
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q1.11A2
+      m_ValueList:
+      - Black-hat hackers maken het internet veiliger
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q1.11A3
+      m_ValueList:
+      - Het is een digitale inbreker met slechte bedoelingen
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q1.11A4
+      m_ValueList:
+      - Niemand heeft last van hun hacks
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q1.11FA
+      m_ValueList:
+      - 'Goed! Black-hat hackers doen het tegenovergestelde van white-hat hackers.
+        Black-hat hackers hacken voor hun eigen gewin, om er zelf rijk van te worden
+        dus. '
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q1.11FB
+      m_ValueList:
+      - Nee, helaas. Het is juist het tegenovergestelde van dit. Het verschil zit
+        het in de white-, grey- of black-hat hackers. White-hat hackers werken in
+        opdracht voor bedrijven om het veiliger te maken bijvoorbeeld.
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q1.12
+      m_ValueList:
+      - <b>Cybercrime</b> wordt altijd gepleegd door hackers
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q1.12A1
+      m_ValueList:
+      - Juist
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q1.12A2
+      m_ValueList:
+      - Onjuist
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q1.12FA
+      m_ValueList:
+      - 'Precies - er zijn namelijk ook internetoplichters. Dat zijn mensen die misbruik
+        maken van je. Denk bijvoorbeeld aan oplichting via Marktplaats. Sommige mensen
+        laten je betalen maar sturen je niks op. '
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q1.12FB
+      m_ValueList:
+      - Nee, er zit namelijk verschil tussen hackers en internetoplichters. Hackers
+        breken doelbewust in en oplichters maken misbruik van mensen. Beiden zijn
+        dus wel internetcriminelen, maar niet per se allebei hackers.
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q1.13
+      m_ValueList:
+      - Wat moet je <b>niet</b> doen wanneer je verbonden bent met <b>openbare wifi</b>?
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q1.13A1
+      m_ValueList:
+      - Teveel data gebruiken, straks is de wifi op
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q1.13A2
+      m_ValueList:
+      - Belangrijke informatie, zoals inloggegevens, delen of gebruiken
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q1.13A3
+      m_ValueList:
+      - Appen met je vrienden over wanneer je op vakantie gaat
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q1.13A4
+      m_ValueList:
+      - Het weer voor morgen bekijken
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q1.13FA
+      m_ValueList:
+      - Je hebt gelijk! Persoonlijke informatie is heel erg waardevol voor hackers.
+        Deze criminelen willen juist jouw gegevens gebruiken om misdaden te kunnen
+        plegen, omdat ze zo zelf niet gevonden kunnen worden. Opletten dus!
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q1.13FB
+      m_ValueList:
+      - Dit kan natuurlijk best wel, zolang je na je gebruik maar zorgt dat je de
+        verbinding met dit netwerk verbreekt door het te 'vergeten' op je telefoon.
+        Zo maak je later geen automatische verbinding.
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Cloud
+      m_ValueList:
+      - 
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q2.01
+      m_ValueList:
+      - Welkom in <b>de Cloud</b>! Wat is <b>de cloud</b> eigenlijk?
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q2.01A1
+      m_ValueList:
+      - Een vorm van blockchain technologie
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q2.01A2
+      m_ValueList:
+      - Een online database waar al je bestanden worden opgeslagen
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q2.01A3
+      m_ValueList:
+      - Een plek waar je bitcoins kan mijnen
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q2.01A4
+      m_ValueList:
+      - Onderdeel van het dark web
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q2.01FA
+      m_ValueList:
+      - Juist! Achter de schermen is de cloud een verzameling van honderden computers.
+        Je kan je misschien wel voorstellen hoe groot dat kan zijn, soms wel zo groot
+        als een voetbalveld.
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q2.01FB
+      m_ValueList:
+      - Nee, niet correct. De 'cloud' is de verzamelnaam voor alle oplossingen waar
+        je digitaal je data kan opslaan. Achter de schermen bestaat de cloud uit een
+        grote verzameling van computerkasten, soms wel zo groot als een voetbalveld!
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q2.02
+      m_ValueList:
+      - Hoe goed beveiligd is <b>de cloud</b>?
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q2.02A1
+      m_ValueList:
+      - Geen idee maar ik krijg mega veel ruimte, als ik alles opsla in de cloud!
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q2.02A2
+      m_ValueList:
+      - Encryptie? Tweestaps verificatie? TL;DR!
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q2.02A3
+      m_ValueList:
+      - Blijkbaar niet veilig als DarkHacker14 zomaar binnen komt
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q2.02A4
+      m_ValueList:
+      - De cloud heeft beveiliging, maar er is altijd wel iets te hacken
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q2.02FA
+      m_ValueList:
+      - 'Precies, de cloud is onder andere beveiligd met encryptie, wachtwoorden en
+        tweestapsverificatie. Maar als hackers erg hun best doen en de gebruikers
+        niet cybersecure zijn, kunnen zij hier ook gewoon tussen komen. '
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q2.02FB
+      m_ValueList:
+      - 'Pas op! Laat je waakhond niet in slaap vallen, de cloud is onder andere beveiligd
+        met encryptie, wachtwoorden en tweestapsverificatie. Maar als hackers erg
+        hun best doen en de gebruikers niet cybersecure zijn, kunnen zij hier ook
+        gewoon tussen komen. '
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q2.03
+      m_ValueList:
+      - '[[GEHACKT]] Jij ziet ook alleen DarkHacker14, wie ben ik in het echt?'
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q2.03A1
+      m_ValueList:
+      - Dat weet ik niet
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q2.03A2
+      m_ValueList:
+      - Rickey
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q2.03A3
+      m_ValueList:
+      - '{PLAYER_NAME}'
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q2.03A4
+      m_ValueList:
+      - Een almachtige superadmin
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q2.03FA
+      m_ValueList:
+      - Precies! En je zult me nooit pakken... - DarkHacker14
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q2.03FB
+      m_ValueList:
+      - Hahaha, laat me niet lachen, dat kan je niet weten! - DarkHacker14
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q2.1
+      m_ValueList:
+      - Welke van de volgende <b>wachtwoorden</b> is het veiligst?
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q2.1A1
+      m_ValueList:
+      - QwErTy
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q2.1A2
+      m_ValueList:
+      - Ronald2006
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q2.1A3
+      m_ValueList:
+      - IkZitOpDeBa$i$$chool8
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q2.1A4
+      m_ValueList:
+      - fortnite1
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q2.1FA
+      m_ValueList:
+      - 'Goede keus, dit is inderdaad het veiligste wachtwoord. Je kan het best 16
+        of meer tekens gebruiken. Zo kan je er meteen een zin van maken die je makkelijk
+        kan onthouden. '
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q2.1FB
+      m_ValueList:
+      - 'Oei.. Dat is niet heel veilig. Het advies is om regelmatig je wachtwoord
+        te veranderen, en om een lang wachtwoord te gebruiken. Hoe meer tekens, hoe
+        langer het duurt om het te raden. '
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q2.2
+      m_ValueList:
+      - Is <b>de cloud</b> makkelijk te hacken?
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q2.2A1
+      m_ValueList:
+      - Het is niet makkelijk, maar wel al eens gebeurd
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q2.2A2
+      m_ValueList:
+      - Het is makkelijk omdat je je eigen wachtwoord niet bewaakt
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q2.2A3
+      m_ValueList:
+      - Het is moeilijk, niemand weet waar de cloud servers zijn
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q2.2A4
+      m_ValueList:
+      - Het is moeilijk, ze wordt heel goed bewaakt door white-hat hackers
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q2.2FA
+      m_ValueList:
+      - Niet makkelijk. Het is ooit gedaan via het onderscheppen van een signaal naar
+        de cloud. Dit is te voorkomen door tweestapsverificatie in te stellen bij
+        je cloud abonnement!
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q2.2FB
+      m_ValueList:
+      - Cloud servers zijn in het verleden al eens gehackt, maar zijn met encryptie
+        en tweestapsverificatie heel veilig te gebruiken, check dus je instellingen!
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q2.3
+      m_ValueList:
+      - '<b>Tweestapsverificatie</b> is:'
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q2.3A1
+      m_ValueList:
+      - Gezichtsherkenning
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q2.3A2
+      m_ValueList:
+      - Een extra veiligheidscheck bovenop je wachtwoord
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q2.3A3
+      m_ValueList:
+      - De beveiligingsvraag bij een vergeten wachtwoord
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q2.3A4
+      m_ValueList:
+      - Een techniek om je eigen wachtwoorden te raden
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q2.3FA
+      m_ValueList:
+      - Dit is inderdaad wat het is. Het woord verklapt het al een beetje; twee -
+        staps! Goed bezig.
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q2.3FB
+      m_ValueList:
+      - 'Nee, dit is niet wat het betekent. Als je het woord uit elkaar trekt heb
+        je: twee - staps - verificatie. Het verklapt het dus al een beetje; er zijn
+        twee stappen. Het is dus een extra check!'
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q2.4
+      m_ValueList:
+      - Moet je voor elke website of apparaat een apart <b>wachtwoord</b> hebben?
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q2.4A1
+      m_ValueList:
+      - Ja, natuurlijk!
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q2.4A2
+      m_ValueList:
+      - Nee, dat hoeft niet
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q2.4A3
+      m_ValueList:
+      - '-'
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q2.4A4
+      m_ValueList:
+      - '-'
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q2.4FA
+      m_ValueList:
+      - Precies. Het is natuurlijk lastig om al je wachtwoorden te onthouden. Daarvoor
+        kan je een wachtwoordmanager gebruiken, zoek zelf eens op welke de beste is.
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q2.4FB
+      m_ValueList:
+      - Helaas.. We adviseren iedereen om altijd en overal je wachtwoord te veranderen.
+        Stel je voor dat je account wordt gehackt en het wachtwoord van je bank is
+        precies hetzelfde? Je kan je wel voorstellen hoe slecht dat af kan lopen..
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q2.5
+      m_ValueList:
+      - Om <b>data</b> te beveiligen wordt vaak <b>encryptie</b> gebruikt. Wat is
+        dat?
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q2.5A1
+      m_ValueList:
+      - Dan halen ze de data door een algoritme en wordt het onleesbaar
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q2.5A2
+      m_ValueList:
+      - Dan wordt de data verdeeld in andere bestanden
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q2.5A3
+      m_ValueList:
+      - Dat is het vertalen van de data in een andere taal
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q2.5A4
+      m_ValueList:
+      - Dan wordt het alleen tijdelijk opgeslagen
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q2.5FA
+      m_ValueList:
+      - Klopt, dat is encryptie! Alleen als je de sleutel van het algoritme hebt kan
+        je de data weer leesbaar maken. Dit proces heet decryptie.
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q2.5FB
+      m_ValueList:
+      - Dat is het niet. Encryptie is het versleutelen van de data, dan wordt het
+        door een algoritme gehaald en kan niemand het meer lezen. Pas als je de sleutel
+        hebt zie je weer wat er staat.
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q2.6
+      m_ValueList:
+      - Wat moet je doen wanneer je <b>internetfraude</b> ontdekt?
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q2.6A1
+      m_ValueList:
+      - Meld het aan je ouders en doe aangifte bij de politie
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q2.6A2
+      m_ValueList:
+      - Snel je computer uitzetten
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q2.6A3
+      m_ValueList:
+      - Als je een virusscanner hebt hoef je niks te doen
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q2.6A4
+      m_ValueList:
+      - Zelf de crimineel benaderen
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q2.6FA
+      m_ValueList:
+      - Juist! Je ouders kunnen bepalen of het belangrijk is om naar de politie te
+        gaan. Maar ook zij weten niet altijd of iets gevaarlijk is. Dus als je iets
+        echt niet vertrouwt, kan je altijd samen de politie bellen of kijken op de
+        site van de politie.
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q2.6FB
+      m_ValueList:
+      - Nee, dat is niet het beste dat je kan doen. Het beste is om het tegen je ouders
+        te zeggen. Zij kunnen dan bepalen of het belangrijk is om vervolgstappen de
+        ondernemen. Misschien kan jij ze uitleggen waarom internetfraude zo gevaarlijk
+        is?
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q2.7
+      m_ValueList:
+      - Wat is een manier om <b>de cloud</b> voor gebruikers te beveiligen?
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q2.7A1
+      m_ValueList:
+      - Door de data te verstoppen in een hoop andere bestanden
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q2.7A2
+      m_ValueList:
+      - Door de gebruikersdata alleen tijdelijk op te slaan
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q2.7A3
+      m_ValueList:
+      - Door de cloud in een andere taal te vertalen
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q2.7A4
+      m_ValueList:
+      - Door de cloud te versleutelen met encryptie
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q2.7FA
+      m_ValueList:
+      - Inderdaad! Met het algoritme wordt de data in de cloud letterlijk onleesbaar
+        gemaakt voor vreemdelingen, die hebben de sleutel niet en kunnen dan niks
+        met de data.
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q2.7FB
+      m_ValueList:
+      - "Ok\xE9 interessant idee, maar dat is het niet. Om de cloud te beveiligen
+        wordt ervoor gezorgd dat vreemdelingen niet zomaar de data kunnen inzien,
+        dit doen ze met een algoritme die de data letterlijk onleesbaar maakt."
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q2.8
+      m_ValueList:
+      - <b>Locatiegegevens</b>, handig om de weg mee te vinden, maar waar kan dit
+        nog meer voor gebruikt worden?
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q2.8A1
+      m_ValueList:
+      - Daarmee weten andere dat jij eraan komt
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q2.8A2
+      m_ValueList:
+      - Daarmee kunnen ze me overal gratis producten sturen
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q2.8A3
+      m_ValueList:
+      - Door mijn locatie te checken kunnen ze me gepersonaliseerde reclame sturen
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q2.8A4
+      m_ValueList:
+      - Daar doen ze helemaal geen extra dingen mee
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q2.8FA
+      m_ValueList:
+      - Klopt, locatiegegevens worden gemeten om te kijken waar jij je veel bevindt
+        en welke routes je vaak aflegt. Met die info kan jij bijvoorbeeld reclame
+        krijgen van het nieuwe pizza restaurant bij jou om de hoek.
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q2.8FB
+      m_ValueList:
+      - Nee dat niet! Locatiegegevens worden gemeten om te kijken waar jij je veel
+        bevindt en welke routes je vaak aflegt. Met die info kan jij bijvoorbeeld
+        reclame krijgen van het nieuwe pizza restaurant bij jou om de hoek.
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q2.9
+      m_ValueList:
+      - Wat is een manier om een <b>catfish</b> te ontmaskeren?
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q2.9A1
+      m_ValueList:
+      - Je vraagt om zijn/haar geboortedatum
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q2.9A2
+      m_ValueList:
+      - Bel diegene op
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q2.9A3
+      m_ValueList:
+      - Vraag op internet of andere de catfish ook spreken
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q2.9A4
+      m_ValueList:
+      - Stop hun foto in Google reverse image search
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q2.9FA
+      m_ValueList:
+      - Precies. Vaak is de nepfoto zo terug te vinden, soms is het nodig om de zoekopdracht
+        te veranderen naar een andere afbeeldingsgrootte of te spiegelen.
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q2.9FB
+      m_ValueList:
+      - 'Dat is niet de beste manier. Catfishes gebruiken een nep afbeelding als profielfoto,
+        deze hebben ze vaak van het internet gehaald. Als je deze door Google reverse
+        image search haalt kan je vaak terugvinden of de foto door meerdere mensen
+        gebruikt wordt. '
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q2.10
+      m_ValueList:
+      - Toch een kopie van je <b>ID</b> verzenden? Soms vraagt een bedrijf hier om,
+        zoals een hotel. Hoe kan je dit toch veiliger maken?
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q2.10A1
+      m_ValueList:
+      - Ik bedek een aantal belangrijke gegevens, zoals geboortedatum en mijn foto.
+        Ook stuur ik een kopie met een slechte resolutie
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q2.10A2
+      m_ValueList:
+      - Ik bedek mijn burgerservicenummer en ik schrijf er op dat het een kopie is
+        en waar het voor bestemd is
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q2.10A3
+      m_ValueList:
+      - '-'
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q2.10A4
+      m_ValueList:
+      - '-'
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q2.10FA
+      m_ValueList:
+      - Goed! Je burgerservicenummer is uniek en er kan veel informatie aan gekoppeld
+        worden, dit is beschermd en mag dus niet iedereen weten. Als je op de kopie
+        schrijft waar het voor dient kan het niet zomaar ergens anders voor gebruikt
+        worden.
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q2.10FB
+      m_ValueList:
+      - 'Bijna goed, maar om een kopie echt te beveiligen moet je zo duidelijk mogelijk
+        maken waar het voor bestemd is. Schrijf dit er samen met een datum op. Bedek
+        ook je burgerservicenummer. '
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q2.11
+      m_ValueList:
+      - Je koopt iets <b>online</b> en de verkoper vraagt een foto van je <b>paspoort</b>..
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q2.11A1
+      m_ValueList:
+      - Geen probleem, ik heb toch een foto/kopie ervan op mijn laptop
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q2.11A2
+      m_ValueList:
+      - Wanneer ik dit doe kan de verkoper zich als mij voordoen en anderen oplichten..
+        dus nee
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q2.11A3
+      m_ValueList:
+      - '-'
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q2.11A4
+      m_ValueList:
+      - '-'
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q2.11FA
+      m_ValueList:
+      - Inderdaad. Je paspoort of ID is heel waardevol, ook een kopie ervan. Je kan
+        dit niet zomaar naar iedereen sturen.
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q2.11FB
+      m_ValueList:
+      - Wel een probleem! Een kopie van je paspoort of ID valt dan in verkeerde handen.
+        Met de kopie kan iemand anders zich als jou voordoen en daarmee bijvoorbeeld
+        telefoonabonnementen afsluiten en anderen oplichten.
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q2.12
+      m_ValueList:
+      - Waarom moet je oppassen met het delen van persoonlijke info op <b>social media</b>?
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q2.12A1
+      m_ValueList:
+      - Straks gaan hackers verjaardagskaarten sturen
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q2.12A2
+      m_ValueList:
+      - Het vergroot de kans dat je identiteit gestolen wordt
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q2.12A3
+      m_ValueList:
+      - Dan kunnen hackers je pesten door het te delen
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q2.12A4
+      m_ValueList:
+      - Zodat anderen niet jaloers worden!
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q2.12FA
+      m_ValueList:
+      - 'Klopt. Hoe meer een crimineel over je weet, hoe beter hij zich voor kan doen
+        als jou. '
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q2.12FB
+      m_ValueList:
+      - Dit zal een hacker niet zo snel doen. Wat wel kan gebeuren is dat hij zo heel
+        veel persoonlijke informatie over je verzamelt om zich steeds beter voor te
+        kunnen doen als jou.
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q2.13
+      m_ValueList:
+      - Wie mag een volledige kopie van je <b>paspoort</b> of <b>ID</b> vragen?
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q2.13A1
+      m_ValueList:
+      - De overheid
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q2.13A2
+      m_ValueList:
+      - Een hotel
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q2.13A3
+      m_ValueList:
+      - Iemand van marktplaats
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q2.13A4
+      m_ValueList:
+      - Een gamebedrijf
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q2.13FA
+      m_ValueList:
+      - Dat klopt, de overheid heeft een belangrijke publieke rol en heeft dit recht.
+        Andere instanties zoals de huisarts en notarissen mogen dit ook.
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q2.13FB
+      m_ValueList:
+      - "Nee, die mag dat niet. Instanties met een offici\xEBle publieke rol mogen
+        dit wel, denk aan banken en zorgverzekeraars."
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q2.14
+      m_ValueList:
+      - Waarom willen criminelen je <b>ID</b>?
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q2.14A1
+      m_ValueList:
+      - Ze zijn jaloers op jou en willen jou zijn
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q2.14A2
+      m_ValueList:
+      - Ze willen je ID gebruiken om te misbruiken bij bedrijven
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q2.14A3
+      m_ValueList:
+      - Ze willen jou in de cel krijgen
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q2.14A4
+      m_ValueList:
+      - Dan kunnen ze naar je huis komen
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q2.14FA
+      m_ValueList:
+      - Inderdaad. Je ID is heel waardevol, ook een kopie ervan. Je kan dit niet zomaar
+        naar iedereen sturen.
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q2.14FB
+      m_ValueList:
+      - Het is veel erger! Met jouw ID kunnen oplichters heel veel spullen kopen en
+        niet afrekenen. Als ze dit met jouw ID hebben gedaan, komt de politie bij
+        jou terrecht. Hiermee wordt het moeilijker om de crimineel zelf te vinden.
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q2.15
+      m_ValueList:
+      - Wat is het gevaar van een <b>filterbubbel</b>?
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q2.15A1
+      m_ValueList:
+      - Er is geen gevaar met filterbubbels
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q2.15A2
+      m_ValueList:
+      - Dat ze automatisch spullen bestellen in webshops
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q2.15A3
+      m_ValueList:
+      - Dat je geen berichten meer ziet van je familie of vrienden
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q2.15A4
+      m_ValueList:
+      - Dat je alleen de informatie ziet die jij leuk vindt, maar geen nieuwe
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q2.15FA
+      m_ValueList:
+      - Precies, en dat klinkt leuk maar kan ook heel gevaarlijk zijn. Denk aan nepnieuws!
+        Wanneer je alleen nog maar nepnieuws te zien krijgt, denk je dat het straks
+        echt is.
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q2.15FB
+      m_ValueList:
+      - Onjuist. Het gevaar is dat nepnieuws zich heel makkelijk kan verspreiden,
+        en dit kan gebeuren wanneer social media alleen posts laat zien die jij leuk
+        vindt, of waar je het mee eens bent. Best wel gevaarlijk!
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q2.16
+      m_ValueList:
+      - Waarom maken mensen <b>nepnieuws</b>?
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q2.16A1
+      m_ValueList:
+      - Om zo een nieuwe film te ontwikkelen
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q2.16A2
+      m_ValueList:
+      - Zodat oplichters hun creativiteit kwijt kunnen
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q2.16A3
+      m_ValueList:
+      - Met nepnieuws kan je geld verdienen
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q2.16A4
+      m_ValueList:
+      - Mensen vervelen zichzelf
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q2.16FA
+      m_ValueList:
+      - Juist. De 'clicks' die nepnieuws krijgt leveren veel geld op, op een oneerlijke
+        manier. Oplichters laten mensen geloven dat een nepverhaal echt is en dat
+        brengt andere mensen in de problemen.
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q2.16FB
+      m_ValueList:
+      - Nee, onjuist. 'Clicks' op nepnieuws leveren veel geld op via social media.
+        Maar nepnieuws is erg gevaarlijk, omdat het onwaarheden verspreidt!
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q2.17
+      m_ValueList:
+      - Hoe kan je <b>nepnieuws</b> herkennen?
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q2.17A1
+      m_ValueList:
+      - Door vragen te stellen over de afzender, bron en de beelden
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q2.17A2
+      m_ValueList:
+      - Door het NOS journaal te bellen
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q2.17A3
+      m_ValueList:
+      - Door het op te zoeken op wikipedia
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q2.17A4
+      m_ValueList:
+      - Er staat altijd 'fake' bij
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q2.17FA
+      m_ValueList:
+      - Heel goed, onderzoek waar de informatie vandaan komt en of die bron betrouwbaar
+        is.
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q2.17FB
+      m_ValueList:
+      - Helaas, dat is niet juist. Bronvermelding is bij nieuws verplicht en is altijd
+        na te gaan door zelf de bronnen te checken.
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q2.18
+      m_ValueList:
+      - "Wat is de offici\xEBle <b>minimum</b> leeftijd voor <b>social media</b>?"
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q2.18A1
+      m_ValueList:
+      - 13 jaar voor alle social media
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q2.18A2
+      m_ValueList:
+      - Dat is op elk platform anders
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q2.18A3
+      m_ValueList:
+      - Alleen facebook is 13+
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q2.18A4
+      m_ValueList:
+      - Als je kunt typen mag je inloggen
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q2.18FA
+      m_ValueList:
+      - Klopt, kijk dus goed in de voorwaarden van een platform.
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q2.18FB
+      m_ValueList:
+      - Nee, elk platform heeft zijn eigen minimum leeftijd, hou je hier altijd aan
+        en wacht rustig tot je oud genoeg bent. Het risico is groot dat je anders
+        in onprettige situaties kan komen.
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Mainframe
+      m_ValueList:
+      - 
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q3.01
+      m_ValueList:
+      - Je doet het goed! Je staat nu in <b>de Mainframe</b>. Wat is een <b>mainframe</b>?
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q3.01A1
+      m_ValueList:
+      - Een centrale computer
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q3.01A2
+      m_ValueList:
+      - Een wisselstation vanwaar je computers kan besturen
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q3.01A3
+      m_ValueList:
+      - Een digitale server
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q3.01A4
+      m_ValueList:
+      - Hetzelfde als de cloud, maar dan technischer
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q3.01FA
+      m_ValueList:
+      - 'Precies! Een mainframe is een centrale computer die gespecialiseert is in
+        het verwerken van grote hoeveelheden data. Dit is misschien een beetje oubollig,
+        maar hierdoor kan die sneller data verwerken dan als je dat via de cloud doet. '
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q3.01FB
+      m_ValueList:
+      - "Nee hoor, het is gewoon \xE9\xE9n grote centrale computer die gespecialiseerd
+        is in het verwerken van data. Dit is \xE9\xE9n van de oudste manieren, maar
+        ook \xE9\xE9n van de meest effici\xEBnte."
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q3.02
+      m_ValueList:
+      - "Stel je voor: Je bent binnen in een <b>mainframe</b>. Dit is de beste plek
+        om \u2026"
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q3.02A1
+      m_ValueList:
+      - "\u2026 mijn eigen keylogger eens te installeren"
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q3.02A2
+      m_ValueList:
+      - "\u2026 in andermans bestanden te kijken voor persoonlijke info"
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q3.02A3
+      m_ValueList:
+      - "\u2026 voorzichtig te zijn en te kijken of je de lek kan melden bij de eigenaar"
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q3.02A4
+      m_ValueList:
+      - "\u2026 mijn botnet te vergroten. Muhahaha"
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q3.02FA
+      m_ValueList:
+      - Klopt! Als je kunt hacken, gebruik je kracht dan om te helpen en te waarschuwen.
+        Zo blijft het internet van iedereen en voor iedereen.
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q3.02FB
+      m_ValueList:
+      - Dat is geen goed plan. Denk altijd na over wat je moet doen als je een ingang
+        ontdekt. Je bent illegaal bezig voor je het doorhebt.
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q3.03
+      m_ValueList:
+      - Wat is <b>data</b>?
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q3.03A1
+      m_ValueList:
+      - Een verzameling van nullen en enen
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q3.03A2
+      m_ValueList:
+      - Een android uit Star Trek
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q3.03A3
+      m_ValueList:
+      - Waardevolle informatie
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q3.03A4
+      m_ValueList:
+      - Het meervoud van datum
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q3.03FA
+      m_ValueList:
+      - Alles is juist! We bedoelen natuurlijk informatie met data. Dit kan gegevens,
+        kennis, afspraken, vastgelegde gebeurtenissen of creatieve broncode inhouden.
+        Data is waardevol.
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q3.03FB
+      m_ValueList:
+      - Dat is ook wel waar, maar niet het goede antwoord. Het is waardevolle informatie.
+        Dit kunnen gegevens, kennis, afspraken, vastgelegde gebeurtenissen of creatieve
+        broncode inhouden. Data heeft in ieder geval altijd een eigenaar en vertegenwoordigt
+        een waarde.
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q3.1
+      m_ValueList:
+      - Wat is het verschil tussen <b>hardware</b> en <b>software</b>?
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q3.1A1
+      m_ValueList:
+      - Hardware is fysiek aanwezig en software is digitaal
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q3.1A2
+      m_ValueList:
+      - Het zit in de naam; hardware is van harde materialen en software is gebouwd
+        van zachtere materialen
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q3.1A3
+      m_ValueList:
+      - '-'
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q3.1A4
+      m_ValueList:
+      - '-'
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q3.1FA
+      m_ValueList:
+      - Helemaal goed. Hardware staat voor apparaten die echt aanwezig zijn en software
+        staat voor de digitale onderdelen daarvan. Denk aan de programma's die op
+        een computer draaien.
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q3.1FB
+      m_ValueList:
+      - Leuk gedacht, maar nee. Hardware staat voor apparaten die echt aanwezig zijn
+        en software staat voor de digitale onderdelen daarvan. Denk aan de programma's
+        die op een computer draaien.
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q3.2
+      m_ValueList:
+      - Wat doe je als je computer vraagt om te <b>updaten</b>?
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q3.2A1
+      m_ValueList:
+      - Klikken op 'later'. Het komt op het verkeerde moment
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q3.2A2
+      m_ValueList:
+      - Een nieuwe computer kopen
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q3.2A3
+      m_ValueList:
+      - Zo snel mogelijk uitvoeren
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q3.2A4
+      m_ValueList:
+      - Wegklikken, de versie die ik heb werkt al
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q3.2FA
+      m_ValueList:
+      - Klopt. Dit zorgt ervoor dat je weer beter beschermd bent. In de nieuwste updates
+        zitten vaak ook reparaties voor beveiligingslekken.
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q3.2FB
+      m_ValueList:
+      - Nee, dat is onverstandig. In de nieuwste updates zitten vaak ook reparaties
+        voor beveiligingslekken. Hierdoor kan je ze het best zo snel mogelijk installeren.
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q3.3
+      m_ValueList:
+      - Hoe moet je <b>schoudersurfen</b>?
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q3.3A1
+      m_ValueList:
+      - Dan moet je over de schouder spieken wanneer iemand gegevens invult
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q3.3A2
+      m_ValueList:
+      - Op je schouders op een surfplank liggen
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q3.3A3
+      m_ValueList:
+      - Dat is wanneer je iemand helpt, zet de schouders eronder!
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q3.3A4
+      m_ValueList:
+      - Dat moet hetzelfde als skimmen
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q3.3FA
+      m_ValueList:
+      - Precies, dit is het stelen van gegevens door fysiek "over de schouder" te
+        kijken. Zo kan je mooi achter alle wachtwoorden komen. Het lijkt op spieken.
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q3.3FB
+      m_ValueList:
+      - Dat is niet hoe het moet. Schoudersurfen is het stelen van gegevens door stiekem
+        te kijken naar wat iemand anders invult. Zo kan je mooi achter wachtwoorden
+        komen!
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q3.4
+      m_ValueList:
+      - Wat is een <b>VPN</b>?
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q3.4A1
+      m_ValueList:
+      - Very Personal News, persoonlijke informatie dus
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q3.4A2
+      m_ValueList:
+      - Een website waar je een andere identiteit kan kopen
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q3.4A3
+      m_ValueList:
+      - Een server die je versleutelde data vanaf een veilige locatie verstuurd
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q3.4A4
+      m_ValueList:
+      - Een website waar je je IP-adres aan kan passen
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q3.4FA
+      m_ValueList:
+      - Helemaal waar! Het is veiliger om een VPN te gebruiken wanneer je op het internet
+        surft. Vooral wanneer je veel informatie verzendt en ontvangt.
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q3.4FB
+      m_ValueList:
+      - Helaas.. VPN staat voor Virtual Private Network en zorgt voor versleuteling
+        van de data die je verstuurt.
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q3.5
+      m_ValueList:
+      - Een <b>SSL</b> beveiligt een website door de info te versleutelen. Hoe herken
+        je een website met <b>SSL</b>?
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q3.5A1
+      m_ValueList:
+      - Door het groene slotje in de adresbalk
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q3.5A2
+      m_ValueList:
+      - Doordat de webpagina versleuteld en niet leesbaar is
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q3.5A3
+      m_ValueList:
+      - Door de eigenaar te mailen en te kijken of ze antwoord geven
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q3.5A4
+      m_ValueList:
+      - Door het keurmerk bovenin de hoek van de website
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q3.5FA
+      m_ValueList:
+      - Dat klopt! Pas wel op, een website met een groen slotje betekent niet dat
+        de website betrouwbaar is, alle websites kunnen SSL beveiligd worden.
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q3.5FB
+      m_ValueList:
+      - Dit is niet een kenmerk van een SSL verbinding, dit is namelijk te zien aan
+        het slotje in de adresbalk. Pas wel op, een SSL beveiliging betekent niet
+        dat de website betrouwbaar is, alle websites kunnen SSL beveiligd worden.
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q3.6
+      m_ValueList:
+      - Wat is het <b>TOR</b> netwerk?
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q3.6A1
+      m_ValueList:
+      - Het is een netwerk van bugs en wormen
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q3.6A2
+      m_ValueList:
+      - Een netwerk dat alle informatie versleutelt
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q3.6A3
+      m_ValueList:
+      - '-'
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q3.6A4
+      m_ValueList:
+      - '-'
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q3.6FA
+      m_ValueList:
+      - Klopt! Doordat je laag voor laag steeds meer informatie krijgt, wordt het
+        ook een stuk lastiger om te achterhalen wie de informatie heeft opgevraagd.
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q3.6FB
+      m_ValueList:
+      - 'Nee, het is juist een extra beveiligd netwerk. Het netwerk zorgt, net als
+        bij een ui, dat je laag voor laag dichter bij de informatie komt. '
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q3.7
+      m_ValueList:
+      - Wie heeft het <b>TOR</b> netwerk opgezet?
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q3.7A1
+      m_ValueList:
+      - De Nederlandse politie
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q3.7A2
+      m_ValueList:
+      - Een paar black-hat hackers
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q3.7A3
+      m_ValueList:
+      - De Amerikaanse marine
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q3.7A4
+      m_ValueList:
+      - De regering van China
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q3.7FA
+      m_ValueList:
+      - Precies, de Amerikaanse marine heeft het netwerk opgezet. Alle persoonsinformatie
+        is veel beter beschermd dan in het normale internet, daarom wordt het veel
+        gebruikt om het Darkweb te betreden.
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q3.7FB
+      m_ValueList:
+      - Nee, het is de marine. Zij hebben in 1995 een netwerk ontwikkeld waar informatie
+        veel beter beschermd is. Dit is de reden dat het populair is onder gebruikers
+        van het Darkweb.
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q3.8
+      m_ValueList:
+      - Wat is een <b>worm</b>?
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q3.8A1
+      m_ValueList:
+      - Een doorstuurmail
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q3.8A2
+      m_ValueList:
+      - Wanneer iemand je Instagram hackt
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q3.8A3
+      m_ValueList:
+      - Een vermenigvuldigend computerprogramma
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q3.8A4
+      m_ValueList:
+      - Een soort slak zonder huis
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q3.8FA
+      m_ValueList:
+      - Klopt. Een worm is een soort virus, maar een heel speciaal virus. Een worm
+        is een computerprogramma dat zichzelf steeds groter maakt, terwijl een virus
+        moet meeliften op een ander programma.
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q3.8FB
+      m_ValueList:
+      - Nee, dat is niet juist. Een worm is een soort computerprogramma dat zichzelf
+        kan vergroten en verspreiden. Daarom is het een gevaarlijk programma!
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q3.9
+      m_ValueList:
+      - Wat is een <b>Trojan horse</b>?
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q3.9A1
+      m_ValueList:
+      - Een virus verstopt in de code van een programma
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q3.9A2
+      m_ValueList:
+      - Het verzorgpaard van mijn vriendin Anne
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q3.9A3
+      m_ValueList:
+      - Een houten beeld van een paard met soldaten erin
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q3.9A4
+      m_ValueList:
+      - Een virus dat andere programma's infecteert
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q3.9FA
+      m_ValueList:
+      - Klopt! Het is gebaseerd op een verhaal in de geschiedenis over een houten
+        paard met soldaten erin verstopt. Nu wordt de term gebruikt voor malware dat
+        verstopt is in een ander programma, zo kan het stiekem schade aanbrengen op
+        jouw apparaat.
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q3.9FB
+      m_ValueList:
+      - Nee, een Trojan horse is een virus dat verstopt is in een ander programma,
+        zo kan het stiekem schade aanbrengen op jouw apparaat. De naam is gebaseerd
+        op een verhaal in de geschiedenis over een houten paard met soldaten erin
+        verstopt.
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q3.10
+      m_ValueList:
+      - Een <b>bug</b> is hetzelfde als een <b>worm</b>
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q3.10A1
+      m_ValueList:
+      - Niet waar
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q3.10A2
+      m_ValueList:
+      - Waar
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q3.10A3
+      m_ValueList:
+      - '-'
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q3.10A4
+      m_ValueList:
+      - '-'
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q3.10FA
+      m_ValueList:
+      - "Juist! Een worm en een bug zijn beiden ge\xEFnspireerd op insecten, maar
+        er is een groot verschil. Een bug is een foutje of glitch, en een worm is
+        een soort virus."
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q3.10FB
+      m_ValueList:
+      - "Nee, niet helemaal waar. Beiden zijn ge\xEFnspireerd  op insecten, maar een
+        bug is een foutje of glitch en een worm is een soort virus."
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q3.11
+      m_ValueList:
+      - Hoe werkt een <b>virusscanner</b>?
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q3.11A1
+      m_ValueList:
+      - "Die piept vaak en wil altijd ge\xFCpdate worden"
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q3.11A2
+      m_ValueList:
+      - Scant alle code van een programma en geeft een melding als deze schadelijk
+        kan zijn
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q3.11A3
+      m_ValueList:
+      - Ik heb een mac, dan heb je geen virusscanner nodig
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q3.11A4
+      m_ValueList:
+      - Hij opent al je bestanden om te kijken of er een virus in zit
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q3.11FA
+      m_ValueList:
+      - Goed zo. In de code zijn vaak de virussen verstopt, dus dat is ook de plek
+        waar virusscanners op zoek gaan naar onjuistheden.
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q3.11FB
+      m_ValueList:
+      - Nee, dit werkt niet. Virussen zitten vaak verstopt in de code van een programma,
+        dat is dan ook de plek waar een virusscanner zoekt naar onveiligheden!
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q3.12
+      m_ValueList:
+      - Ik voer een <b>DDoS</b> uit op een hacker, wat ben ik aan het doen?
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q3.12A1
+      m_ValueList:
+      - "Ik val een computer aan met een netwerk van ge\xEFnfecteerde computers"
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q3.12A2
+      m_ValueList:
+      - Ik leer de hacker tellen in het Spaans; Uno, DDoS, Tres..
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q3.12A3
+      m_ValueList:
+      - Ik installeer een virus op zijn computer
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q3.12A4
+      m_ValueList:
+      - Ik steel zijn internet
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q3.12FA
+      m_ValueList:
+      - Klopt! Een DDoS, staat voor Distributed-Denial-of-Service, door met je netwerk
+        van computers een website of server te overweldigen kunnen de normale gebruikers
+        zelf niet meer bij die website.  En maak je het voor de eigenaren erg lastig.
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q3.12FB
+      m_ValueList:
+      - 'Een DDoS, staat voor Distributed-Denial-of-Service, dit bereik je door met
+        een netwerk van computers een website of server te overweldigen. Als gevolg
+        kunnen de normale gebruikers zelf niet meer bij die website. '
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q3.13
+      m_ValueList:
+      - Je bewaart een kopie van je <b>paspoort</b> of <b>ID</b> op je laptop....
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q3.13A1
+      m_ValueList:
+      - Dat is handig voor als je online iets koopt en de verkoper vraagt een foto
+        van je paspoort..
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q3.13A2
+      m_ValueList:
+      - Dat is gevaarlijk, als je laptop gehackt wordt hebben ze die gelijk te pakken!
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q3.13A3
+      m_ValueList:
+      - '-'
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q3.13A4
+      m_ValueList:
+      - '-'
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q3.13FA
+      m_ValueList:
+      - Inderdaad. Je paspoort of ID is heel waardevol, ook een kopie ervan. Sla hem
+        niet zomaar ergens op, je laptop kan ook gehackt worden. Beter als je het
+        niet daar opslaat of extra veiligheidsmaatregelen neemt.
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q3.13FB
+      m_ValueList:
+      - Dat is absoluut niet handig! Een kopie van je paspoort of ID valt dan in verkeerde
+        handen. Je paspoort of ID is heel waardevol, ook een kopie ervan. Sla hem
+        niet zomaar ergens op, je laptop kan ook gehackt worden. Beter als je het
+        niet daar opslaat of extra veiligheidsmaatregelen neemt.
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Darkweb
+      m_ValueList:
+      - 
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q4.01
+      m_ValueList:
+      - "Oei, het <b>dark web</b>, hier moet ik zeker oppassen voor: \u2026"
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q4.01A1
+      m_ValueList:
+      - "\u2026 politieagenten die me zien"
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q4.01A2
+      m_ValueList:
+      - "\u2026 het gevangen worden door een webcrawler"
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q4.01A3
+      m_ValueList:
+      - "\u2026 helemaal niks, niemand kent me hier of wil me kennen"
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q4.01A4
+      m_ValueList:
+      - "\u2026 het opbouwen van banden en handelen met hackers"
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q4.01FA
+      m_ValueList:
+      - Klopt. Het dark web is het verstopte deel van het internet waar veel black-hat
+        hackers en criminelen rondhangen, gevaarlijk territorium dus!
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q4.01FB
+      m_ValueList:
+      - Nee, pas heel goed op bij het betreden van het dark web, maak niet zomaar
+        contact met de gebruikers en kijk uit met de bestanden die je hiervandaan
+        kan halen. Het dark web is het verstopte deel van het internet waar veel black-hat
+        hackers en criminelen rondhangen.
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q4.02
+      m_ValueList:
+      - Wat is het verschil tussen het <b>deep web</b> en het <b>dark web</b>?
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q4.02A1
+      m_ValueList:
+      - Het deep web is niet toegankelijk voor browsers, op het dark web zijn alle
+        gebruikers anoniem
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q4.02A2
+      m_ValueList:
+      - Het deep web is een ontmoetingsplek om naar het darkweb te kunnen
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q4.02A3
+      m_ValueList:
+      - Het dark web is het deep web in de nacht omdat hackers niet overdag werken
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q4.02A4
+      m_ValueList:
+      - Het deep web is een moeilijke versie van internet, het dark web is een duistere
+        versie
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q4.02FA
+      m_ValueList:
+      - Klopt, het deep web is niet per se crimineel. Hier staan bijvoorbeeld ook
+        bedrijfsgeheimen, databases en testwebsites. Het dark web is zwaar versleuteld
+        en alle gebruikers zijn anoniem. Ze kunnen dus niet verantwoordelijk gehouden
+        worden voor hun acties. Dit is de reden dat er zoveel illegale activiteiten
+        op het dark web plaatsvinden.
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q4.02FB
+      m_ValueList:
+      - Nee, het deep web is een groot gedeelte van het internet waar je niet bij
+        kan via je browser, maar het is niet per se crimineel. Hier staan bijvoorbeeld
+        bedrijfsgeheimen, databases en test websites. Het darkweb is zwaar beveiligd
+        en anoniem, zo zijn activiteiten ontraceerbaar en vinden hier veel illegale
+        activiteiten plaats.
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q4.03
+      m_ValueList:
+      - Wh1t3-H4t H4ck3r5 UN1t3!1oneone <b>[deze vraag is gehackt door R1ck3y ;)]</b>
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q4.03A1
+      m_ValueList:
+      - 100101010010101010010 [wrong]
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q4.03A2
+      m_ValueList:
+      - 100101010010101010010 [wrong]
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q4.03A3
+      m_ValueList:
+      - <b>1010101101 [correct]</b>
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q4.03A4
+      m_ValueList:
+      - 100101010010101010010 [wrong]
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q4.03FA
+      m_ValueList:
+      - <<[local.CorrectFeedback.txt]>>
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q4.03FB
+      m_ValueList:
+      - <<[local.IncorrectFeedback.txt]>>
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q4.1
+      m_ValueList:
+      - Wat doe je vooral <b>niet</b> als je computer is gegijzeld door <b>malware</b>?
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q4.1A1
+      m_ValueList:
+      - Betalen zodat je al je bestanden terugkrijgt
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q4.1A2
+      m_ValueList:
+      - Aangifte doen bij de politie met je ouders
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q4.1A3
+      m_ValueList:
+      - Je computer terugzetten naar fabrieksinstellingen
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q4.1A4
+      m_ValueList:
+      - Iedereen waarmee je online contact hebt waarschuwen
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q4.1FA
+      m_ValueList:
+      - Goed zo! op deze manier hou je de criminaliteit alleen in stand. Het beste
+        dat je kan doen is aangifte bij de politie. Laat het vooral je ouders weten!
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q4.1FB
+      m_ValueList:
+      - "Dit zijn juist alle dingen die je moet doen wanneer je besmet bent met malware.
+        Er is \xE9\xE9n ding dat je echter nooit moet doen en dat is betalen."
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q4.2
+      m_ValueList:
+      - Hoe kan je <b>ransomware</b> te slim af zijn?
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q4.2A1
+      m_ValueList:
+      - Computer uit zetten
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q4.2A2
+      m_ValueList:
+      - Ervoor zorgen dat je een recente back-up hebt
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q4.2A3
+      m_ValueList:
+      - Geld betalen en je gegevens terug proberen te krijgen
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q4.2A4
+      m_ValueList:
+      - Contact met het internet verbreken
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q4.2FA
+      m_ValueList:
+      - 'Correct. Maak om de zoveel tijd een back-up van al je belangrijke bestanden.
+        In het geval dat je door ransomware besmet wordt, kan je in ieder geval de
+        meest recente versie van je computer terugzetten. '
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q4.2FB
+      m_ValueList:
+      - Computer uitzetten
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q4.3
+      m_ValueList:
+      - Is het kopen van gestolen goederen op het internet ook <b>cybercrime</b>?
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q4.3A1
+      m_ValueList:
+      - Ja, dat is illegaal
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q4.3A2
+      m_ValueList:
+      - Nee, zo lang je van niks weet is het eerlijk
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q4.3A3
+      m_ValueList:
+      - '-'
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q4.3A4
+      m_ValueList:
+      - '-'
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q4.3FA
+      m_ValueList:
+      - Klopt, dit is een vorm van heling en dat is strafbaar. Heling betekent dat
+        je gestolen spullen koopt of verkoopt. Pas dus goed ook op wanneer je iets
+        ziet dat veel te goedkoop is. Wanneer het te mooi lijkt om waar te zijn, is
+        het dat vaak ook.
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q4.3FB
+      m_ValueList:
+      - Dit is niet helemaal waar. Soms bieden mensen gestolen spullen aan die veel
+        te goedkoop zijn. Dit is het moment dat er een belletje moet rinkelen, want
+        vaak kan dat niet! Of het product is gestolen, of ze gaan het nooit naar je
+        versturen. Let dus altijd goed op.
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q4.4
+      m_ValueList:
+      - Een vriend stuurt een link via <b>Whatsapp</b> voor gratis Efteling kaarten..
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q4.4A1
+      m_ValueList:
+      - Ik ken hem zo goed, het is vast eerlijk en echt
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q4.4A2
+      m_ValueList:
+      - Vet!! Ga ik meteen met m'n hele familie
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q4.4A3
+      m_ValueList:
+      - Hm, misschien is het nep, maar als je niet probeert weet je het niet
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q4.4A4
+      m_ValueList:
+      - Ik verwijder zijn bericht, dit is een nieuwe vorm van phishing!
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q4.4FA
+      m_ValueList:
+      - "Precies. En om er zeker van te zijn dat het phishing is, kan je het best
+        de offici\xEBle website van het bedrijf bekijken. Als hier dezelfde actie
+        staat is het echt, anders is het nep, nepper, nepst!"
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q4.4FB
+      m_ValueList:
+      - "Nee, pas hiermee op! Vaak is de link nep en installeert het een virus. Als
+        je zeker wil zijn of het echt is, ga je naar de offici\xEBle website van het
+        bedrijf om te kijken of het klopt."
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q4.5
+      m_ValueList:
+      - "Bij <b>phishing</b> misbruiken hackers vaak de goede naam van een \xE9cht
+        bedrijf."
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q4.5A1
+      m_ValueList:
+      - Klopt, oplichters gebruiken vaak bekende logo's om vertrouwen te winnen
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q4.5A2
+      m_ValueList:
+      - "Onjuist, als er een bekend logo te zien is, is het \xE9cht van dat bedrijf"
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q4.5A3
+      m_ValueList:
+      - '-'
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q4.5A4
+      m_ValueList:
+      - '-'
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q4.5FA
+      m_ValueList:
+      - "Bekende bedrijven kent iedereen en daarom is het makkelijker om geloofwaardig
+        over te komen voor oplichters. Als iets te mooi lijkt om waar te zijn, is
+        het dat vaak ook. Let goed op mailtjes, bekijk wie de afzender is en als je
+        het niet vertrouwt: ga naar de offici\xEBle website en bel de klantenservice."
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q4.5FB
+      m_ValueList:
+      - 'Nee, dit is niet waar. Bekende bedrijven kent iedereen, dus is het heel makkelijk
+        voor een oplichter om vertrouwen te winnen. '
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q4.6
+      m_ValueList:
+      - Iemand geeft je 100 euro in ruil voor het gebruik van je bankrekening.
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q4.6A1
+      m_ValueList:
+      - Dit is vast heel erg eerlijk!
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q4.6A2
+      m_ValueList:
+      - Gratis geld - geen vragen stellen man!
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q4.6A3
+      m_ValueList:
+      - Uh, echt niet. Ik ben toch geen geldezel!
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q4.6A4
+      m_ValueList:
+      - Ja!! Winkelen!!
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q4.6FA
+      m_ValueList:
+      - Klopt! Ze noemen dit ook wel eens Money Mule in het engels. Een oplichter
+        misbruikt jouw rekening, en zo denkt de politie dat jij de oplichter bent!
+        Dat wil je zeker niet hebben..
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q4.6FB
+      m_ValueList:
+      - Oh nee! Heel erg fout. Oplichters gebruiken vaak bankrekeningnummers van andere
+        mensen zodat ze zelf niet gevonden zullen worden. Zo komt de politie bij jou
+        uit en denken ze dat jij de oplichter bent!
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q4.7
+      m_ValueList:
+      - De bank belt omdat mijn rekening is gehackt en ik moet al mijn gegevens vertellen.
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q4.7A1
+      m_ValueList:
+      - Nep, dat zou een bank nooit doen
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q4.7A2
+      m_ValueList:
+      - Ik geef het alleen als ze het niet doorvertellen
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q4.7A3
+      m_ValueList:
+      - '-'
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q4.7A4
+      m_ValueList:
+      - '-'
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q4.7FA
+      m_ValueList:
+      - 'Correct. Een bank zal nooit over de telefoon vragen om je persoonlijke gegevens. '
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q4.7FB
+      m_ValueList:
+      - 'Niet heel erg verstandig. Een bank zal nooit vragen om je persoonlijke gegevens
+        over de telefoon. '
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q4.8
+      m_ValueList:
+      - Wat is <b>ethiek</b>?
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q4.8A1
+      m_ValueList:
+      - Dat je naast hacken kan programmeren
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q4.8A2
+      m_ValueList:
+      - Dat je goed nadenkt over wat goed en slecht is
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q4.8A3
+      m_ValueList:
+      - Wanneer iets episch gebeurt
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q4.8A4
+      m_ValueList:
+      - Als je toegeeft dat je hebt gehackt
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q4.8FA
+      m_ValueList:
+      - Knap zeg! Dat klopt inderdaad. En het is hierbij ook belangrijk om na te denken
+        over hoe de rest van het land of de wereld over een onderwerp denkt.
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q4.8FB
+      m_ValueList:
+      - Nee. Ethiek gaat over goed en slecht, en hoe een groep mensen, een land of
+        de wereld over een onderwerp denkt.
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q4.9
+      m_ValueList:
+      - Wat is waar over een <b>black-hat hacker</b>?
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q4.9A1
+      m_ValueList:
+      - Zij doen alles met toestemming
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q4.9A2
+      m_ValueList:
+      - Black hats maken het internet veiliger
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q4.9A3
+      m_ValueList:
+      - Het is een digitale inbreker met slechte bedoelingen
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q4.9A4
+      m_ValueList:
+      - Niemand ondervindt schade aan hun daden
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q4.9FA
+      m_ValueList:
+      - Goed zo, je hebt gelijk. Black-hat hackers willen zelf beter worden van hun
+        hack. Denk aan rijk worden of mensen oplichten. Zo heb je ook white-hat hackers,
+        zij doen het tegenovergestelde!
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q4.9FB
+      m_ValueList:
+      - Oei, nee. Black-hat hackers doen alles om zelf beter en rijker te worden,
+        en het maakt ze niet uit als ze daarmee andere mensen oplichten of pijn doen.
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q4.10
+      m_ValueList:
+      - Wat is de reden voor een <b>white-hat hacker</b> om te hacken?
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q4.10A1
+      m_ValueList:
+      - Het vinden van lekken op websites om deze te melden bij de eigenaar
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q4.10A2
+      m_ValueList:
+      - Het stelen van informatie en deze op internet te zetten
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q4.10A3
+      m_ValueList:
+      - Bedrijven te bedreigen voor losgeld
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q4.10A4
+      m_ValueList:
+      - Voor de lol websites offline halen en berichtjes achterlaten
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q4.10FA
+      m_ValueList:
+      - Goedzo. Een white-hat hacker helpt bedrijven met het beter beveiligen van
+        hun systemen. En dit is zelfs een echte baan waar je een goed salaris voor
+        krijgt!
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q4.10FB
+      m_ValueList:
+      - Nee, dit gaat over black-hat hackers. White-hat hackers doen het tegenovergestelde
+        hiervan.
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q4.11
+      m_ValueList:
+      - Iemand mailt omdat hij geld naar je wil overmaken. Je bent een erfgenaam!
+        Wat nu?
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q4.11A1
+      m_ValueList:
+      - Dit is niet te vertrouwen, dus niet reageren, deleten en mensen waarschuwen
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q4.11A2
+      m_ValueList:
+      - Dit kan echt zijn, dus mail je diegene of hij te vertrouwen is
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q4.11A3
+      m_ValueList:
+      - Dit is onzin dus je post het op alle social media en maakt er grapjes over
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q4.11A4
+      m_ValueList:
+      - Dit is gevaarlijk dus je belt de politie, maar vertelt het niet verder
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q4.11FA
+      m_ValueList:
+      - 'Helemaal goed. Het belangrijkste wat je kunt doen is onwetende mensen ervoor
+        waarschuwen, de politie kun je ook inlichten, maar die zijn vaak al op de
+        hoogte. '
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q4.11FB
+      m_ValueList:
+      - 'Helaas, het is belangrijk dat mensen worden gewaarschuwd voor oplichters
+        zodat ze die kunnen herkennen en er niet in trappen. '
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q4.12
+      m_ValueList:
+      - Iemand mailt jou je wachtwoord en dreigt filmpjes van jou rond te sturen,
+        als je <b>niet</b> betaalt. Wat doe je?
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q4.12A1
+      m_ValueList:
+      - Niet betalen! Ga de strijd aan en post het e-mailadres online
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q4.12A2
+      m_ValueList:
+      - Betalen, je wilt niet dat er iets lekt. Hopen dat ze echt alles verwijderen
+        na betaling
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q4.12A3
+      m_ValueList:
+      - Niet betalen, waarschuw bekenden, wijzig je wachtwoorden, bel de politie en
+        reageer niet op verdere mails
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q4.12A4
+      m_ValueList:
+      - Terugmailen dat het verboden is wat ze doen en dat je al je materiaal terug
+        wilt
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q4.12FA
+      m_ValueList:
+      - Precies, volg nauwgezet de stappen en zo doe je wat je kunt. Ga er nooit op
+        in, dat is zinloos en wat ze willen.
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q4.12FB
+      m_ValueList:
+      - Helaas. Ga er niet op in en betaal in ieder geval nooit. De mails worden per
+        tienduizenden verstuurd en zijn meestal ongegrond. Negeer ook alle verdere
+        "waarschuwingen".
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q4.13
+      m_ValueList:
+      - Waarom zitten er zoveel criminelen en <b>black-hat hackers</b> op het <b>dark
+        web</b>?
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q4.13A1
+      m_ValueList:
+      - Omdat je door speciale encryptiesoftware volledig anoniem kan inloggen
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q4.13A2
+      m_ValueList:
+      - Omdat ze ergens hun illegale goederen willen verhandelen
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q4.13A3
+      m_ValueList:
+      - Omdat het niet te vinden is via de standaard zoekmachines zoals Google
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q4.13A4
+      m_ValueList:
+      - Omdat het cool klinkt, het dark web is verder hetzelfde als de rest van het
+        internet
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q4.13FA
+      m_ValueList:
+      - Heel goed, een voorbeeld van deze software is TOR, 'The Onion Router' dit
+        zorgt ervoor dat je volledig anoniem online kan gaan. Dit trekt natuurlijk
+        allemaal criminelen aan die nu hun illegale activiteiten kunenn uitvoeren
+        zonder dat hun identiteit getraceerd wordt.
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q4.13FB
+      m_ValueList:
+      - Nee hoor. De truc van het dark web is juist dat het anoniem is, hierdoor kunnen
+        criminelen hun illegale activiteiten uitvoeren zonder dat hun identiteit getraceerd
+        wordt. Dit doen ze met zware encryptiesoftware zoals TOR, 'The Onion Router'.
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q4.14
+      m_ValueList:
+      - Wat wordt dan zoal op het <b>dark web</b> verhandeld?
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q4.14A1
+      m_ValueList:
+      - Paspoorten en ID-kaarten, zowel echte als neppe
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q4.14A2
+      m_ValueList:
+      - Gestolen goederen
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q4.14A3
+      m_ValueList:
+      - Drank, drugs, en wapens
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q4.14A4
+      m_ValueList:
+      - "Vieze video's die absoluut niet ok\xE9 zijn"
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q4.14FA
+      m_ValueList:
+      - Klopt! Eigenlijk waren alle antwoorden goed. Er zitten heel veel criminelen
+        op het dark web, dus je kan vrijwel alle illegale dingen erop vinden.
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q4.14FB
+      m_ValueList:
+      - Klopt! Eigenlijk waren alle antwoorden goed. Er zitten heel veel criminelen
+        op het dark web, dus je kan vrijwel alle illegale dingen erop vinden.
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q4.15
+      m_ValueList:
+      - Zijn alle gebruikers van het <b>dark web</b> black-hat hackers en criminelen?
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q4.15A1
+      m_ValueList:
+      - Nee
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q4.15A2
+      m_ValueList:
+      - Ja
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q4.15A3
+      m_ValueList:
+      - '-'
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q4.15A4
+      m_ValueList:
+      - '-'
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q4.15FA
+      m_ValueList:
+      - 'Juist! Je hebt veel criminelen op het dark web, maar dat betekent niet dat
+        iedereen een crimineel is! Het grote voordeel aan het dark web is dat alles
+        anoniem is, hierdoor kunnen gebruikers toegang krijgen tot informatie waar
+        ze normaal niet bij kunnen, door bijvoorbeeld censuur. Niet per se iedereen
+        heeft dus kwade bedoelingen. '
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q4.15FB
+      m_ValueList:
+      - 'Nee! Je hebt veel criminelen op het dark web, maar dat betekent niet dat
+        iedereen een crimineel is! Het grote voordeel aan het dark web is dat alles
+        anoniem is, hierdoor kunnen gebruikers toegang krijgen tot informatie waar
+        ze normaal niet bij kunnen, door bijvoorbeeld censuur. Niet per se iedereen
+        heeft dus kwade bedoelingen. '
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q4.16
+      m_ValueList:
+      - 
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q4.16A1
+      m_ValueList:
+      - 
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q4.16A2
+      m_ValueList:
+      - 
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q4.16A3
+      m_ValueList:
+      - 
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q4.16A4
+      m_ValueList:
+      - 
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q4.16FA
+      m_ValueList:
+      - 
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q4.16FB
+      m_ValueList:
+      - 
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q4.17
+      m_ValueList:
+      - 
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q4.17A1
+      m_ValueList:
+      - 
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q4.17A2
+      m_ValueList:
+      - 
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q4.17A3
+      m_ValueList:
+      - 
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q4.17A4
+      m_ValueList:
+      - 
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q4.17FA
+      m_ValueList:
+      - 
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q4.17FB
+      m_ValueList:
+      - 
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q4.18
+      m_ValueList:
+      - 
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q4.18A1
+      m_ValueList:
+      - 
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q4.18A2
+      m_ValueList:
+      - 
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q4.18A3
+      m_ValueList:
+      - 
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q4.18A4
+      m_ValueList:
+      - 
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q4.18FA
+      m_ValueList:
+      - 
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q4.18FB
+      m_ValueList:
+      - 
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q1
+      m_ValueList:
+      - Wat is de reden voor een white-hat hacker om te hacken?
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q1A1
+      m_ValueList:
+      - Het vinden van lekken op websites om deze te melden bij de eigenaar
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q1A2
+      m_ValueList:
+      - Het stelen van informatie en deze op internet te zetten
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q1A3
+      m_ValueList:
+      - Bedrijven te bedreigen voor losgeld
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q1A4
+      m_ValueList:
+      - Voor de lol websites offline halen
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q2
+      m_ValueList:
+      - Hoeveel schade wordt jaarlijks aangericht door cybercrime?
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q2A1
+      m_ValueList:
+      - Tienduizend euro
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q2A2
+      m_ValueList:
+      - Honderdduizend euro
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q2A3
+      m_ValueList:
+      - 10 miljoen euro
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q2A4
+      m_ValueList:
+      - 10 miljard euro
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q3
+      m_ValueList:
+      - Wat is ethiek?
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q3A1
+      m_ValueList:
+      - Dat je naast hacken kan coderen
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q3A2
+      m_ValueList:
+      - Dat je goed nadenkt over wat goed en slecht is
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q3A3
+      m_ValueList:
+      - Wanneer iets episch gebeurt
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q3A4
+      m_ValueList:
+      - Als je toegeeft dat je hebt gehackt
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q4
+      m_ValueList:
+      - Wat doe je vooral niet als je computer is gegijzeld door malware?
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q4A1
+      m_ValueList:
+      - Betalen zodat je al je bestanden terugkrijgt
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q4A2
+      m_ValueList:
+      - Aangifte doen bij de politie met je ouders
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q4A3
+      m_ValueList:
+      - Je computer terugzetten naar fabrieksinstellingen
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q4A4
+      m_ValueList:
+      - Iedereen waar je online contact mee hebt waarschuwen
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q5
+      m_ValueList:
+      - Iemand geeft je 100 euro in ruil voor je bankgegevens..
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q5A1
+      m_ValueList:
+      - Dit is vast heel erg eerlijk!
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q5A2
+      m_ValueList:
+      - Gratis geld - geen vragen stellen man!
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q5A3
+      m_ValueList:
+      - Uh, echt niet. Ik ben toch geen geldezel!
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q5A4
+      m_ValueList:
+      - Ja!! Winkelen!!
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q6
+      m_ValueList:
+      - Wat is waar over een black-hat hacker?
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q6A1
+      m_ValueList:
+      - Zij doen alles met toestemming
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q6A2
+      m_ValueList:
+      - Black hats maken het internet veiliger
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q6A3
+      m_ValueList:
+      - Het is een digitale inbreker
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q6A4
+      m_ValueList:
+      - Zij werken voor de overheid
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q7
+      m_ValueList:
+      - Je kan een Trojan horse altijd herkennen
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q7A1
+      m_ValueList:
+      - Nee, het virus zit verstopt in de code en is niet te herkennen aan de buitenkant
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q7A2
+      m_ValueList:
+      - Ja, want dan is de bestandsnaam anders
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q7A3
+      m_ValueList:
+      - Nee, maar een trojan horse is onschadelijk
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q7A4
+      m_ValueList:
+      - Ja, omdat de link altijd verdacht is
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q8
+      m_ValueList:
+      - Een bug is hetzelfde als een worm
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q8A1
+      m_ValueList:
+      - Niet waar, een bug is een foutje of glitch en een worm is een virus
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q8A2
+      m_ValueList:
+      - "Waar, beide zijn het virussen ge\xEFnspireerd op insecten"
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q9
+      m_ValueList:
+      - 'Tweestapsverificatie is:'
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q9A1
+      m_ValueList:
+      - Gezichtsherkenning
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q9A2
+      m_ValueList:
+      - Een extra veiligheidscheck bovenop je wachtwoord
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q9A3
+      m_ValueList:
+      - De beveiligingsvraag bij een vergeten wachtwoord
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q9A4
+      m_ValueList:
+      - Een techniek om wachtwoorden te raden
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q10
+      m_ValueList:
+      - Cookies zijn altijd kwaadaardig
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q10A1
+      m_ValueList:
+      - Klopt, elke cookie steelt al je privacygevoelige informatie
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q10A2
+      m_ValueList:
+      - Nee. Het is wel verstandig ze met regelmaat te verwijderen, omdat ze soms
+        persoonsgegevens opslaan
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q11
+      m_ValueList:
+      - Is het kopen van gestolen goederen op het internet ook cybercrime?
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q11A1
+      m_ValueList:
+      - Ja, dit is een vorm van heling en dat is strafbaar.
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q11A2
+      m_ValueList:
+      - Nee, zo lang je van niks weet is het eerlijk.
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q12
+      m_ValueList:
+      - Wat is waar over openbare WiFi?
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q12A1
+      m_ValueList:
+      - Openbare wifi met een wachtwoord is veilig
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q12A2
+      m_ValueList:
+      - Openbare wifi is altijd goed beveiligd
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q12A3
+      m_ValueList:
+      - De beveiliging van openbare wifi is altijd up-to-date
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q12A4
+      m_ValueList:
+      - Openbare wifi is makkelijk te hacken
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q13
+      m_ValueList:
+      - Waarom versleutel je data?
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q13A1
+      m_ValueList:
+      - Zodat hackers je data niet kunnen buitmaken
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q13A2
+      m_ValueList:
+      - Zo kunnen hackers niet heel makkelijk je data uitlezen
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q14
+      m_ValueList:
+      - Je koopt iets online en de verkoper vraagt een foto van je paspoort..
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q14A1
+      m_ValueList:
+      - Geen probleem, ik heb toch een foto/kopie ervan op mijn laptop
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q14A2
+      m_ValueList:
+      - Wanneer je dit doet kan de ander zich voordoen als jou en anderen oplichten
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q15
+      m_ValueList:
+      - Hoe werkt een virusscanner?
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q15A1
+      m_ValueList:
+      - Die piept vaak heel vervelend en wil altijd geupdate worden
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q15A2
+      m_ValueList:
+      - Scant alle code van een programma en geeft een melding als deze schadelijk
+        kan zijn
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q15A3
+      m_ValueList:
+      - Ik heb een mac, dan heb je geen virusscanner nodig
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q15A4
+      m_ValueList:
+      - Hij opent al je bestanden om te kijken of er een virus in zit
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q16
+      m_ValueList:
+      - Wat moet je doen wanneer je internetfraude ontdekt?
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q16A1
+      m_ValueList:
+      - Meld het aan je ouders en doe aangifte bij de politie
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q16A2
+      m_ValueList:
+      - Snel je computer uitzetten
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q16A3
+      m_ValueList:
+      - Als je een virusscanner hebt hoef je niks te doen
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q16A4
+      m_ValueList:
+      - Zelf de pleger benaderen
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q17
+      m_ValueList:
+      - Een vriend stuurt een link via Whatsapp voor gratis Efteling kaarten..
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q17A1
+      m_ValueList:
+      - Ik ken hem, het is vast eerlijk en echt.
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q17A2
+      m_ValueList:
+      - Vet!! Ga ik meteen met m'n hele familie
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q17A3
+      m_ValueList:
+      - Hm, misschien is het nep, maar als je niet probeert weet je het niet
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q17A4
+      m_ValueList:
+      - Ik verwijder zijn bericht, dit is een nieuwe vorm van phishing!
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q18
+      m_ValueList:
+      - De bank belt omdat mijn rekening is gehackt en ik moet al mijn gegevens vertellen
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q18A1
+      m_ValueList:
+      - Nep, dat zou een bank nooit doen
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q18A2
+      m_ValueList:
+      - Ik geef het alleen als ze het niet doorvertellen
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q19
+      m_ValueList:
+      - Ik gebruik overal hetzelfde wachtwoord, anders is het teveel onthouden
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q19A1
+      m_ValueList:
+      - Nooit doen! Gebruik gewoon een wachtwoordmanager programma
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q19A2
+      m_ValueList:
+      - Als je een sterk wachtwoord gebruikt is het geen probleem
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q20
+      m_ValueList:
+      - "Bij phishing misbruiken hackers vaak de goede naam van een \xE9cht bedrijf"
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q20A1
+      m_ValueList:
+      - Klopt, oplichters gebruiken vaak bekende logo's om vertrouwen te winnen
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q20A2
+      m_ValueList:
+      - "Onjuist, als er een bekend logo te zien is, is het \xE9cht van dat bedrijf"
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q21
+      m_ValueList:
+      - Wat is een botnet?
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q21A1
+      m_ValueList:
+      - Een website waar je een computerbot kan kopen
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q21A2
+      m_ValueList:
+      - "Een netwerk ge\xEFnfecteerde computers die wordt aangestuurd door een server"
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q21A3
+      m_ValueList:
+      - Een robotontwikkelaar
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q21A4
+      m_ValueList:
+      - Een vangnet dat computerbots opspoort en opsluit
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q1_OLD
+      m_ValueList:
+      - Openbaar & free WiFi, CHILL!!
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q1A1_OLD
+      m_ValueList:
+      - Kan ik snel even mijn bankzaken regelen
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q1A2_OLD
+      m_ValueList:
+      - Nah, te makkelijke manier om iemands telefoon te hacken
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q1A3_OLD
+      m_ValueList:
+      - Even een update downloaden voor mijn telefoon
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q1A4_OLD
+      m_ValueList:
+      - Gratis en veilig!
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q2_OLD
+      m_ValueList:
+      - Wat is tweestapsverificatie?
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q2A1_OLD
+      m_ValueList:
+      - Dat je het wachtwoord 2 keer moet herhalen
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q2A2_OLD
+      m_ValueList:
+      - Gezichtsherkenning
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q2A3_OLD
+      m_ValueList:
+      - Een extra controle bovenop je wachtwoord via bijvoorbeeld sms
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q2A4_OLD
+      m_ValueList:
+      - Elk verplicht sterretje bij een invulveld.
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q3_OLD
+      m_ValueList:
+      - Ik voer een DDoS uit op een hacker, wat ben ik aan het doen?
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q3A1_OLD
+      m_ValueList:
+      - "Ik val een computer aan met een netwerk van ge\xEFnfecteerde computers"
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q3A2_OLD
+      m_ValueList:
+      - Ik leer de hacker tellen in het Spaans; Uno, DDoS, Tres..
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q3A3_OLD
+      m_ValueList:
+      - Ik installeer een virus op zijn computer
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q3A4_OLD
+      m_ValueList:
+      - Ik steel zijn internet
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q4_OLD
+      m_ValueList:
+      - Waar staat DDoS voor?
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q4A1_OLD
+      m_ValueList:
+      - Docked-Denial-of-Space
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q4A2_OLD
+      m_ValueList:
+      - Distributed-Denial-of-Service
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q4A3_OLD
+      m_ValueList:
+      - Denied-Distributed-other-Saved
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q4A4_OLD
+      m_ValueList:
+      - Danny-Dave-of-Stevie
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q5_OLD
+      m_ValueList:
+      - 'Ik ga online en ik neem mee:'
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q5A1_OLD
+      m_ValueList:
+      - Mijn bankgegevens
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q5A2_OLD
+      m_ValueList:
+      - Een virusscanner
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q5A3_OLD
+      m_ValueList:
+      - Een kopie van mijn paspoort
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q5A4_OLD
+      m_ValueList:
+      - Een selfiestick
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q6_OLD
+      m_ValueList:
+      - Iemand zet gratis V-bucks op mijn Fortnite account!
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q6A1_OLD
+      m_ValueList:
+      - Hier, gebruik mijn wachtwoord!
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q6A2_OLD
+      m_ValueList:
+      - Hier, gebruik mijn email!
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q6A3_OLD
+      m_ValueList:
+      - Hier, hack mijn computer!
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q6A4_OLD
+      m_ValueList:
+      - Hier, ik report je!
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q22_New
+      m_ValueList:
+      - 
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q22_A1
+      m_ValueList:
+      - 
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q22_A2
+      m_ValueList:
+      - 
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q22_A3
+      m_ValueList:
+      - 
+      - 
+      - 
+      - 
+    - m_Key: QUIZ_Q22_A4
+      m_ValueList:
+      - 
+      - 
+      - 
+      - 
+    - m_Key: ETHICALQUIZ_QE1
+      m_ValueList:
+      - Wat weet jij over <b>cybercriminaliteit</b>?
+      - 
+      - 
+      - 
+    - m_Key: ETHICALQUIZ_QE1A1
+      m_ValueList:
+      - Ik ken het internet op mijn duimpje!
+      - 
+      - 
+      - 
+    - m_Key: ETHICALQUIZ_QE1A2
+      m_ValueList:
+      - Ik heb hier al eerder voorlichting over gehad
+      - 
+      - 
+      - 
+    - m_Key: ETHICALQUIZ_QE1A3
+      m_ValueList:
+      - Wel eens over gehoord, maar weet er niet veel van
+      - 
+      - 
+      - 
+    - m_Key: ETHICALQUIZ_QE1A4
+      m_ValueList:
+      - Ik weet helemaal niks
+      - 
+      - 
+      - 
+    - m_Key: ETHICALQUIZ_QE2
+      m_ValueList:
+      - Ik ben bewust van <b>de gevaren</b> die ik kan lopen op <b>het internet</b>
+      - 
+      - 
+      - 
+    - m_Key: ETHICALQUIZ_QE2A1
+      m_ValueList:
+      - Ik weet precies wat gevaarlijk is op het internet
+      - 
+      - 
+      - 
+    - m_Key: ETHICALQUIZ_QE2A2
+      m_ValueList:
+      - Ik weet een beetje wat gevaarlijk is, maar niet alles
+      - 
+      - 
+      - 
+    - m_Key: ETHICALQUIZ_QE2A3
+      m_ValueList:
+      - Ik weet weinig over de gevaren op het  internet
+      - 
+      - 
+      - 
+    - m_Key: ETHICALQUIZ_QE2A4
+      m_ValueList:
+      - Ik weet helemaal niks over gevaren op het internet
+      - 
+      - 
+      - 
+    - m_Key: ETHICALQUIZ_QE3
+      m_ValueList:
+      - Wanneer ik iets lees over <b>cybercrime</b> weet ik vaak waar ze het over
+        hebben
+      - 
+      - 
+      - 
+    - m_Key: ETHICALQUIZ_QE3A1
+      m_ValueList:
+      - Ja altijd!
+      - 
+      - 
+      - 
+    - m_Key: ETHICALQUIZ_QE3A2
+      m_ValueList:
+      - Vaak wel, maar niet altijd
+      - 
+      - 
+      - 
+    - m_Key: ETHICALQUIZ_QE3A3
+      m_ValueList:
+      - Vaak niet, maar soms wel
+      - 
+      - 
+      - 
+    - m_Key: ETHICALQUIZ_QE3A4
+      m_ValueList:
+      - Nee nooit
+      - 
+      - 
+      - 
+    - m_Key: ETHICALQUIZ_QE4
+      m_ValueList:
+      - Ik heb genoeg voorlichting gehad om altijd <b>veilig</b> en <b>alleen</b>
+        te internetten
+      - 
+      - 
+      - 
+    - m_Key: ETHICALQUIZ_QE4A1
+      m_ValueList:
+      - Ik weet precies wat veilig is en wat niet
+      - 
+      - 
+      - 
+    - m_Key: ETHICALQUIZ_QE4A2
+      m_ValueList:
+      - Ik weet ongeveer wat ik moet doen op het internet
+      - 
+      - 
+      - 
+    - m_Key: ETHICALQUIZ_QE4A3
+      m_ValueList:
+      - Ik heb wel nog meer voorlichting nodig
+      - 
+      - 
+      - 
+    - m_Key: ETHICALQUIZ_QE4A4
+      m_ValueList:
+      - Nee, ik heb geen voorlichting gehad over veilig internetten
+      - 
+      - 
+      - 
+    - m_Key: ETHICALQUIZ_QE5
+      m_ValueList:
+      - "Stelling: \u2018<b>Andermans computer hacken kan volgens mij geen kwaad.</b>\u2019"
+      - 
+      - 
+      - 
+    - m_Key: ETHICALQUIZ_QE5A1
+      m_ValueList:
+      - Hacken mag, zolang je maar niks steelt
+      - 
+      - 
+      - 
+    - m_Key: ETHICALQUIZ_QE5A2
+      m_ValueList:
+      - Hacken mag niet, want het is altijd inbreken
+      - 
+      - 
+      - 
+    - m_Key: ETHICALQUIZ_QE6
+      m_ValueList:
+      - "Stelling: \u2018<b>Hacken is altijd slecht</b>\u2019"
+      - 
+      - 
+      - 
+    - m_Key: ETHICALQUIZ_QE6A1
+      m_ValueList:
+      - Nee, niet als het voor een goed doel is
+      - 
+      - 
+      - 
+    - m_Key: ETHICALQUIZ_QE6A2
+      m_ValueList:
+      - Ja, want inbreken is altijd verkeerd
+      - 
+      - 
+      - 
+    - m_Key: ETHICALQUIZ_QE7
+      m_ValueList:
+      - Je klasgenoot sluit zich op in zijn kamer en reageert niet meer op Whatsapp.
+        Je maakt je zorgen, maar je weet toevallig hoe je <b>een webcam moet hacken</b>..
+      - 
+      - 
+      - 
+    - m_Key: ETHICALQUIZ_QE7A1
+      m_ValueList:
+      - Je belt de ouders van je klasgenoot op om te vragen of zij gaan kijken
+      - 
+      - 
+      - 
+    - m_Key: ETHICALQUIZ_QE7A2
+      m_ValueList:
+      - Je hackt de webcam van je klasgenoot om zelf te kijken hoe het gaat
+      - 
+      - 
+      - 
+    - m_Key: CHARACTERS_ANDRE
+      m_ValueList:
+      - Andre
+      - 
+      - 
+      - 
+    - m_Key: CHARACTERS_RICKY
+      m_ValueList:
+      - Rickey
+      - Rickey
+      - Rickey
+      - Rickey
+    - m_Key: CHARACTERS_DARKHACKER
+      m_ValueList:
+      - DarkHacker14
+      - 
+      - 
+      - 
+    - m_Key: CHARACTERS_ANDRE_SIL
+      m_ValueList:
+      - Onbekend
+      - Unknown
+      - 
+      - 
+    - m_Key: DIALOGUE_ch1-0-andre-1
+      m_ValueList:
+      - 'Welkom Future Cyber Hero... Weet je wat een captcha is? '
+      - 
+      - 
+      - 
+    - m_Key: DIALOGUE_ch1-0-andre-2
+      m_ValueList:
+      - 'Het internet zit vol robots die automatisch formulieren invullen en versturen.
+        Een captcha voorkomt dat. '
+      - 
+      - 
+      - 
+    - m_Key: DIALOGUE_ch1-0-andre-3
+      m_ValueList:
+      - Dit is net zo iets, speel het level uit en we spreken elkaar weer.
+      - 
+      - 
+      - 
+    - m_Key: DIALOGUE_ch1-1-andre-1
+      m_ValueList:
+      - 'Nice! Welkom {PLAYER_NAME}! '
+      - 
+      - 
+      - 
+    - m_Key: DIALOGUE_ch1-1-andre-2
+      m_ValueList:
+      - 'Het internet is cool enzo, maar je moet altijd op je hoede blijven.  Rickey?
+        Ben je daar? '
+      - 
+      - 
+      - 
+    - m_Key: DIALOGUE_ch1-1-ricky-1
+      m_ValueList:
+      - Ben er...
+      - 
+      - 
+      - 
+    - m_Key: DIALOGUE_ch1-1-andre-3
+      m_ValueList:
+      - Dit is {PLAYER_NAME}, de nieuwste HackShielder.
+      - 
+      - 
+      - 
+    - m_Key: DIALOGUE_ch1-1-ricky-2
+      m_ValueList:
+      - Supervet dat je HackShield wilt spelen! Het is eigenlijk heel simpel...
+      - 
+      - 
+      - 
+    - m_Key: DIALOGUE_ch1-1-ricky-3
+      m_ValueList:
+      - Zie je dat groene blok? Dat is een <b>kern-block</b>. De kern-blocks van alle
+        spelers vormen samen HackShield.
+      - 
+      - 
+      - 
+    - m_Key: DIALOGUE_ch1-1-ricky-4
+      m_ValueList:
+      - Het zijn vragen die je niet fout kunt beantwoorden. Het is <b>ontzettend belangrijk</b>
+        dat je eerlijk antwoord.
+      - '  '
+      - 
+      - 
+    - m_Key: DIALOGUE_ch1-1-ricky-5
+      m_ValueList:
+      - Als je het kern-block hebt verzameld dan kun je door de exit om het level
+        te verlaten!
+      - 
+      - 
+      - 
+    - m_Key: DIALOGUE_ch1-1-andre-4
+      m_ValueList:
+      - En zit je ooit vast? Klik dan op de hintknop rechtsonderin. Reset dan het
+        level en volg de stappen om het level uit te spelen.
+      - 
+      - 
+      - 
+    - m_Key: DIALOGUE_ch1-2-ricky-1
+      m_ValueList:
+      - 'En dat blauwe ding is een data-block. Het is de data van alle HackShielders.
+        Het zijn een soort kern-blocks maar dan van andere. '
+      - 
+      - 
+      - 
+    - m_Key: DIALOGUE_ch1-2-ricky-2
+      m_ValueList:
+      - Je kunt ze verzamelen door 2 vragen goed te beantwoorden. Als je het antwoord
+        op een vraag niet weet, zoek het dan vooral op!
+      - 
+      - 
+      - 
+    - m_Key: DIALOGUE_ch1-2-ricky-3
+      m_ValueList:
+      - Heb je alle data-blocks dan kun je naar de uitgang en het volgende level.
+      - 
+      - 
+      - 
+    - m_Key: DIALOGUE_ch1-5-andre-1
+      m_ValueList:
+      - "Epic! Je bent al goed op w\u2026"
+      - 
+      - 
+      - 
+    - m_Key: DIALOGUE_ch1-5-dh-1
+      m_ValueList:
+      - "Pfff\u2026 Wordt je daar niet moe van altijd maar \u201Cgoed\u201D doen?"
+      - 
+      - 
+      - 
+    - m_Key: DIALOGUE_ch1-5-dh-2
+      m_ValueList:
+      - Waarom zou ik deze game niet hacken en een beetje lol kunnen hebben? Weet
+        je hoeveel geld die data waard is?
+      - 
+      - 
+      - 
+    - m_Key: DIALOGUE_ch1-5-dh-3
+      m_ValueList:
+      - "Als jullie de achterdeur open laten staan, waarom zou ik die dan niet gebruiken?
+        Ik heb maar een paar van die data-blocks nodig en ik ben binnen\u2026"
+      - 
+      - 
+      - 
+    - m_Key: DIALOGUE_ch1-6-andre-1
+      m_ValueList:
+      - 'Zijn we er weer? Wat de Hack! '
+      - 
+      - 
+      - 
+    - m_Key: DIALOGUE_ch1-6-andre-2
+      m_ValueList:
+      - DarkHacker14?? Het ziet er naar uit dat jouw game gehackt is {PLAYER_NAME}.
+        Het rustig aan doen kunnen we wel vergeten.
+      - 
+      - 
+      - 
+    - m_Key: DIALOGUE_ch1-6-ricky-1
+      m_ValueList:
+      - 'Ik heb de logs bekeken en het ziet er naar uit dat hij alleen nog in jouw
+        game zit en via de data-blocks naar de HackShield server wil komen. '
+      - 
+      - 
+      - 
+    - m_Key: DIALOGUE_ch1-6-ricky-2
+      m_ValueList:
+      - "Jij zult hem tegen moeten houden v\xF3\xF3rdat dat gebeurt. "
+      - 
+      - 
+      - 
+    - m_Key: DIALOGUE_ch1-6-ricky-3
+      m_ValueList:
+      - 'Maak je geen zorgen, wij zullen je helpen. Ik heb zijn signaal weten te volgen
+        naar level 22. '
+      - 
+      - 
+      - 
+    - m_Key: DIALOGUE_ch1-6-andre-3
+      m_ValueList:
+      - 'Hij zit al in de cloud? Ben je daar al wel klaar voor {PLAYER_NAME}? Je zult
+        wel moeten. Rickey en ik weten maar al te goed tot wat hij allemaal toe in
+        staat is. '
+      - 
+      - 
+      - 
+    - m_Key: DIALOGUE_ch1-6-andre-4
+      m_ValueList:
+      - 'Als we iets hebben om je te helpen dan hoor je weer van ons. Het is niet
+        anders, we sturen je hem achterna. '
+      - 
+      - 
+      - 
+    - m_Key: DIALOGUE_ch1-6-andre-5
+      m_ValueList:
+      - 'Hopelijk ben je er klaar voor, succes. '
+      - 
+      - 
+      - 
+    - m_Key: DIALOGUE_ch2-1-dh-1
+      m_ValueList:
+      - 'Wat doe jij hier? Is dit niet allemaal wat te moeilijk voor je? '
+      - 
+      - 
+      - 
+    - m_Key: DIALOGUE_ch2-1-dh-2
+      m_ValueList:
+      - En waarom zit je mij eigenlijk achterna, jij hebt toch nog geen last van me?
+      - 
+      - 
+      - 
+    - m_Key: DIALOGUE_ch2-2-andre-1
+      m_ValueList:
+      - Wacht! Moeten we die pion niet vast zien te zetten achter die groene gate?
+      - 
+      - 
+      - 
+    - m_Key: DIALOGUE_ch2-2-andre-2
+      m_ValueList:
+      - Maar hoe zet je de extra stappen om dat te doen?
+      - 
+      - 
+      - 
+    - m_Key: DIALOGUE_ch2-4-dh-1
+      m_ValueList:
+      - "Pfff\u2026 Ben je daar nog steeds? \nOOOHH ANDRE!!!! "
+      - 
+      - 
+      - 
+    - m_Key: DIALOGUE_ch2-4-dh-2
+      m_ValueList:
+      - "Ik weet dat je me kunt horen, loser. Misschien moet je het gewoon opgeven\u2026
+        Je denk toch niet dat jij de enige bent met vrienden! "
+      - 
+      - 
+      - 
+    - m_Key: DIALOGUE_ch2-4-andre-1
+      m_ValueList:
+      - Hmm {PLAYER_NAME}, hier had ik niet op gerekend... Rickey en ik gaan aan een
+        oplossing werken.
+      - 
+      - 
+      - 
+    - m_Key: DIALOGUE_ch2-5-ricky-1
+      m_ValueList:
+      - 'Lekker bezig {PLAYER_NAME}! Maar hij is er weer vandoor en hij heeft al meer
+        data-blocks dan ons lief is. '
+      - '  '
+      - 
+      - 
+    - m_Key: DIALOGUE_ch2-5-ricky-2
+      m_ValueList:
+      - "Ik heb hem weten te volgen naar \xE9\xE9n mainframe. Ik stuur je er heen."
+      - 
+      - 
+      - 
+    - m_Key: DIALOGUE_ch3-1-dh-1
+      m_ValueList:
+      - Dacht je echt dat je mij kan stoppen!
+      - 
+      - 
+      - 
+    - m_Key: DIALOGUE_ch3-2-ricky-1
+      m_ValueList:
+      - Wow {PLAYER_NAME}, dit lijkt wel een cryptoboard.
+      - 
+      - 
+      - 
+    - m_Key: DIALOGUE_ch3-2-ricky-2
+      m_ValueList:
+      - Een cryptoboard kan fysieke data versleutelen. Volgens mij heeft DarkHacker14
+        hier zitten rotzooien. Er zit niets anders op dan de code te kraken met behulp
+        van de terminals.
+      - 
+      - 
+      - 
+    - m_Key: DIALOGUE_ch3-2-ricky-3
+      m_ValueList:
+      - Als ik naar het patroon kijk hoef je ze allemaal maar 1 keer te activeren...
+        maar in welke volgorde?
+      - 
+      - 
+      - 
+    - m_Key: DIALOGUE_ch3-4-dh-1
+      m_ValueList:
+      - "Hmpf... Laat me niet lachen Future Cyber Hero\u2026 "
+      - 
+      - 
+      - 
+    - m_Key: DIALOGUE_ch3-4-dh-2
+      m_ValueList:
+      - "Denk je dat je een held bent door mij te stoppen? \nIk zou maar eens goed
+        in de spiegel kijken hacker. "
+      - 
+      - 
+      - 
+    - m_Key: DIALOGUE_ch3-4-andre-1
+      m_ValueList:
+      - 'Wow.. rustig aan {PLAYER_NAME}. '
+      - 
+      - 
+      - 
+    - m_Key: DIALOGUE_ch3-4-andre-2
+      m_ValueList:
+      - "Omdat we je ver in de game naar voren hebben moeten zetten, \nheb je de hack
+        power-up nu al unlocked. \nDaarmee kun je hackers en guards uitschakelen."
+      - 
+      - 
+      - 
+    - m_Key: DIALOGUE_ch3-5-ricky-1
+      m_ValueList:
+      - 'Hackzooi... DarkHacker14 heeft weer een sprong gemaakt. En dit keer naar
+        de prototype levels. Die hoor je helemaal niet te kunnen spelen... '
+      - 
+      - 
+      - 
+    - m_Key: DIALOGUE_ch3-5-ricky-2
+      m_ValueList:
+      - 'Ze zijn ook veel te moeilijk en gevaarlijk voor de game... Wat de hack... '
+      - 
+      - 
+      - 
+    - m_Key: DIALOGUE_ch3-5-ricky-3
+      m_ValueList:
+      - "Ik heb geen andere optie, Andr\xE9. Je moet hem tegenhouden {PLAYER_NAME},
+        succes!"
+      - 
+      - 
+      - 
+    - m_Key: DIALOGUE_ch3-5-andre-1
+      m_ValueList:
+      - Het moet maar, doe het!
+      - 
+      - 
+      - 
+    - m_Key: DIALOGUE_ch4-1-dh-1
+      m_ValueList:
+      - 'HAHAHA! Hebben ze je hierheen gestuurd? Ik heb nog maar een paar data-blocks
+        nodig en alle data van de HackShielders is van mij. '
+      - 
+      - 
+      - 
+    - m_Key: DIALOGUE_ch4-1-dh-2
+      m_ValueList:
+      - 'Ach, het is maar data zeggen ze dan. Weet je wel wat deze data waard is en
+        wat ik allemaal met een simpel e-mailadres kan? '
+      - 
+      - 
+      - 
+    - m_Key: DIALOGUE_ch4-1-dh-3
+      m_ValueList:
+      - "Dit is het echte werk, skeer hackertje. \nStop me dan als je kan!"
+      - 
+      - 
+      - 
+    - m_Key: DIALOGUE_ch4-1-andre-1
+      m_ValueList:
+      - '{PLAYER_NAME}, dit level is helemaal kapot, kijk goed naar de paden op de
+        grond!'
+      - 
+      - 
+      - 
+    - m_Key: DIALOGUE_ch4-3-dh-1
+      m_ValueList:
+      - MUWHAHAHA! Je hebt geen idee wat je hebt gedaan! Dit is het moeilijkste level
+        ooit!
+      - 
+      - 
+      - 
+    - m_Key: DIALOGUE_ch4-3-dh-2
+      m_ValueList:
+      - Je blijft me maar achtervolgen. Nou ik laat me niet meer aan de kant zetten
+        als een simpele pion!
+      - 
+      - 
+      - 
+    - m_Key: DIALOGUE_ch4-4-dh-1
+      m_ValueList:
+      - AARRRGGHHHH!!!!! Goed gedaan hoor, sukkel. Je hebt een hacker gehackt.
+      - 
+      - 
+      - 
+    - m_Key: DIALOGUE_ch4-4-dh-2
+      m_ValueList:
+      - Zo te zien heb je de kunst van het hacken goed van me afgekeken. Als jij me
+        rustig mijn werk had laten doen, was alle data van mij geweest!
+      - 
+      - 
+      - 
+    - m_Key: DIALOGUE_ch4-4-dh-3
+      m_ValueList:
+      - Vuur met vuur bestreden... Wie is hier nu eigenlijk de hacker? Jij of ik,
+        wat maakt jou beter dan mij?
+      - 
+      - 
+      - 
+    - m_Key: DIALOGUE_ch4-4-dh-4
+      m_ValueList:
+      - 'Ik ben een virus aan het uploaden naar jouw game {PLAYER_NAME}.  Hij zal
+        zo helemaal uit elkaar vallen! '
+      - 
+      - 
+      - 
+    - m_Key: DIALOGUE_ch4-4-dh-5
+      m_ValueList:
+      - Als ik klaar ben ga ik weer op in het net... wie weet kom ik je snel weer
+        tegen... muwhahahaha
+      - 
+      - 
+      - 
+    - m_Key: DIALOGUE_ch4-4-andre-1
+      m_ValueList:
+      - '{PLAYER_NAME}... {PLAYER_NAME} ben je daar?'
+      - 
+      - 
+      - 
+    - m_Key: DIALOGUE_ch4-4-andre-2
+      m_ValueList:
+      - Het is je gewoon gelukt. Je hebt DarkHacker14 verslagen!
+      - 
+      - 
+      - 
+    - m_Key: DIALOGUE_ch4-4-rickey-1
+      m_ValueList:
+      - 'Ik zie dat DarkHacker14 NU een virus aan het planten is. Ik ga je hier weg
+        halen! '
+      - 
+      - 
+      - 
+    - m_Key: DIALOGUE_ch4-4-andre-3
+      m_ValueList:
+      - Jij bent een ware Future Cyber Hero! Maar blijf op je hoede, je weet nooit
+        wanneer DarkHacker15 toe slaat...
+      - 
+      - 
+      - 
+    - m_Key: FLOATINGTEXT_CAFE_LEVEL0_WELCOME
+      m_ValueList:
+      - Welkom {PLAYER_NAME} :)
+      - Welcome {PLAYER_NAME} :)
+      - 
+      - 
+    - m_Key: FLOATINGTEXT_CAFE_LEVEL1_COOKIES
+      m_ValueList:
+      - \uf00c Ja, ik accepteer de cookies
+      - \uf00c Yes, I accept these cookies
+      - 
+      - 
+    - m_Key: FLOATINGTEXT_CAFE_LEVEL2_MOBILE
+      m_ValueList:
+      - Hallo!
+      - Hello!
+      - 
+      - 
+    - m_Key: FLOATINGTEXT_CAFE_LEVEL4_WEATHER01
+      m_ValueList:
+      - Wat voor weer is het?
+      - What's the weather today?
+      - 
+      - 
+    - m_Key: FLOATINGTEXT_CAFE_LEVEL4_WEATHER02
+      m_ValueList:
+      - Even kijken
+      - Let me check
+      - 
+      - 
+    - m_Key: FLOATINGTEXT_CAFE_LEVEL4_WEATHER03
+      m_ValueList:
+      - \uf185 22*C
+      - \uf185 22*C
+      - 
+      - 
+    - m_Key: FLOATINGTEXT_CLOUD_LEVEL1_WELCOME
+      m_ValueList:
+      - Welkom in de Cloud!
+      - Welcome to the Cloud!
+      - 
+      - 
+    - m_Key: FLOATINGTEXT_MAINFRAME_LEVEL1_WELCOME
+      m_ValueList:
+      - MAINFRAME
+      - MAINFRAME
+      - 
+      - 
+    - m_Key: FLOATINGTEXT_MAINFRAME_LEVEL3_SECURE
+      m_ValueList:
+      - \uf00c Beveiligd
+      - \uf00c Secure
+      - 
+      - 
+    - m_Key: FLOATINGTEXT_DARKWEB_LEVEL1_DARKWEB
+      m_ValueList:
+      - DARKWEB
+      - DARKWEB
+      - 
+      - 
+    - m_Key: FLOATINGTEXT_DARKWEB_LEVEL3_DARKWEB
+      m_ValueList:
+      - 'INVALID KEY: FLOATINGTEXT_DARKWEB_LEVEL3 does not exist'
+      - 'INVALID KEY: FLOATINGTEXT_DARKWEB_LEVEL3 does not exist'
+      - 
+      - 
+    - m_Key: FLOATINGTEXT_DARKWEB_LEVEL2_DARKWEB01
+      m_ValueList:
+      - 'PLAYER NOT FOUND: {PLAYER_NAME}'
+      - 'PLAYER NOT FOUND: {PLAYER_NAME}'
+      - 
+      - 
+    - m_Key: FLOATINGTEXT_DARKWEB_LEVEL1_DARKWEB02
+      m_ValueList:
+      - 'ERROR 50?: game crashing'
+      - 'ERROR 50?: game crashing'
+      - 
+      - 
+    - m_Key: FLOATINGTEXT_DARKWEB_LEVEL2_DARKWEB02
+      m_ValueList:
+      - 'playSFX: PION_LAND (AudioClip)'
+      - 'playSFX: PION_LAND (AudioClip)'
+      - 
+      - 
+    - m_Key: FLOATINGTEXT_DARKWEB_LEVEL1_DARKWEB03
+      m_ValueList:
+      - 'ERROR 50?: game grid not loading'
+      - 'ERROR 50?: game grid not loading'
+      - 
+      - 
+    - m_Key: FLOATINGTEXT_DARKWEB_PLAYER_DIED
+      m_ValueList:
+      - 'ERROR 101: {PLAYER_NAME} uitgelogd!'
+      - 'ERROR 101: {PLAYER_NAME} logged out!'
+      - 
+      - 

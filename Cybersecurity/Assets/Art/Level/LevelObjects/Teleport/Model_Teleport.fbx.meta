@@ -1,0 +1,164 @@
+fileFormatVersion: 2
+guid: 815866fcf799df24895d0bb03e571685
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: teleport animation
+    100004: teleport_inner
+    100006: teleport_inner_end
+    100008: teleport_outer
+    100010: teleporter
+    100012: Teleporterpad_activation
+    100014: Teleporterpad_primary_color
+    100016: Teleporterpad_secondary_color
+    100018: Teleport animation
+    100020: teleport_outer_end
+    100022: center bone
+    100024: center bone_end
+    100026: Teleport_lights
+    100028: Teleporter
+    400000: //RootNode
+    400002: teleport animation
+    400004: teleport_inner
+    400006: teleport_inner_end
+    400008: teleport_outer
+    400010: teleporter
+    400012: Teleporterpad_activation
+    400014: Teleporterpad_primary_color
+    400016: Teleporterpad_secondary_color
+    400018: Teleport animation
+    400020: teleport_outer_end
+    400022: center bone
+    400024: center bone_end
+    400026: Teleport_lights
+    400028: Teleporter
+    2100000: No Name
+    2300000: teleporter
+    2300002: Teleporterpad_activation
+    2300004: Teleporterpad_primary_color
+    2300006: Teleporterpad_secondary_color
+    3300000: teleporter
+    3300002: Teleporterpad_activation
+    3300004: Teleporterpad_primary_color
+    3300006: Teleporterpad_secondary_color
+    4300000: teleporter
+    4300002: Teleporterpad_secondary_color
+    4300004: Teleporterpad_activation
+    4300006: Teleporterpad_primary_color
+    4300008: Teleport_lights
+    7400000: Teleport
+    9500000: //RootNode
+    13700000: teleporter
+    13700002: Teleport_lights
+    2186277476908879412: ImportLogs
+  externalObjects: {}
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Teleport
+      takeName: teleport animation|teleport
+      firstFrame: 0
+      lastFrame: 99
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,243 @@
+﻿{"frames": [
+
+{
+	"filename": "dbCorupt0000",
+	"frame": {"x":0,"y":0,"w":392,"h":562},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":130,"y":296,"w":650,"h":858},
+	"sourceSize": {"w":650,"h":858}
+}
+,{
+	"filename": "dbCorupt0001",
+	"frame": {"x":392,"y":0,"w":392,"h":561},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":130,"y":294,"w":650,"h":858},
+	"sourceSize": {"w":650,"h":858}
+}
+,{
+	"filename": "dbCorupt0002",
+	"frame": {"x":784,"y":0,"w":414,"h":731},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":109,"y":98,"w":650,"h":858},
+	"sourceSize": {"w":650,"h":858}
+}
+,{
+	"filename": "dbCorupt0003",
+	"frame": {"x":1198,"y":0,"w":392,"h":524},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":130,"y":237,"w":650,"h":858},
+	"sourceSize": {"w":650,"h":858}
+}
+,{
+	"filename": "dbCorupt0004",
+	"frame": {"x":1590,"y":0,"w":392,"h":470},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":130,"y":157,"w":650,"h":858},
+	"sourceSize": {"w":650,"h":858}
+}
+,{
+	"filename": "dbCorupt0005",
+	"frame": {"x":0,"y":731,"w":392,"h":387},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":130,"y":22,"w":650,"h":858},
+	"sourceSize": {"w":650,"h":858}
+}
+,{
+	"filename": "dbCorupt0006",
+	"frame": {"x":392,"y":731,"w":392,"h":424},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":130,"y":22,"w":650,"h":858},
+	"sourceSize": {"w":650,"h":858}
+}
+,{
+	"filename": "dbCorupt0007",
+	"frame": {"x":784,"y":731,"w":392,"h":424},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":130,"y":22,"w":650,"h":858},
+	"sourceSize": {"w":650,"h":858}
+}
+,{
+	"filename": "dbCorupt0008",
+	"frame": {"x":1176,"y":731,"w":449,"h":419},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":90,"y":22,"w":650,"h":858},
+	"sourceSize": {"w":650,"h":858}
+}
+,{
+	"filename": "dbCorupt0009",
+	"frame": {"x":1625,"y":731,"w":387,"h":419},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":131,"y":23,"w":650,"h":858},
+	"sourceSize": {"w":650,"h":858}
+}
+,{
+	"filename": "dbCorupt0010",
+	"frame": {"x":0,"y":1155,"w":387,"h":419},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":131,"y":23,"w":650,"h":858},
+	"sourceSize": {"w":650,"h":858}
+}
+,{
+	"filename": "dbCorupt0011",
+	"frame": {"x":387,"y":1155,"w":545,"h":419},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":22,"w":650,"h":858},
+	"sourceSize": {"w":650,"h":858}
+}
+,{
+	"filename": "dbCorupt0012",
+	"frame": {"x":932,"y":1155,"w":545,"h":419},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":22,"w":650,"h":858},
+	"sourceSize": {"w":650,"h":858}
+}
+,{
+	"filename": "dbCorupt0013",
+	"frame": {"x":1477,"y":1155,"w":387,"h":419},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":131,"y":23,"w":650,"h":858},
+	"sourceSize": {"w":650,"h":858}
+}
+,{
+	"filename": "dbCorupt0014",
+	"frame": {"x":0,"y":1574,"w":627,"h":331},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":23,"y":106,"w":650,"h":858},
+	"sourceSize": {"w":650,"h":858}
+}
+,{
+	"filename": "dbCorupt0015",
+	"frame": {"x":627,"y":1574,"w":387,"h":419},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":131,"y":23,"w":650,"h":858},
+	"sourceSize": {"w":650,"h":858}
+}
+,{
+	"filename": "dbCorupt0016",
+	"frame": {"x":1014,"y":1574,"w":435,"h":419},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":61,"y":0,"w":650,"h":858},
+	"sourceSize": {"w":650,"h":858}
+}
+,{
+	"filename": "dbCorupt0017",
+	"frame": {"x":1449,"y":1574,"w":387,"h":419},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":131,"y":23,"w":650,"h":858},
+	"sourceSize": {"w":650,"h":858}
+}
+,{
+	"filename": "dbCorupt0018",
+	"frame": {"x":0,"y":1993,"w":387,"h":419},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":131,"y":23,"w":650,"h":858},
+	"sourceSize": {"w":650,"h":858}
+}
+,{
+	"filename": "dbCorupt0019",
+	"frame": {"x":387,"y":1993,"w":387,"h":419},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":131,"y":23,"w":650,"h":858},
+	"sourceSize": {"w":650,"h":858}
+}
+,{
+	"filename": "dbCorupt0020",
+	"frame": {"x":774,"y":1993,"w":545,"h":375},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":42,"y":44,"w":650,"h":858},
+	"sourceSize": {"w":650,"h":858}
+}
+,{
+	"filename": "dbCorupt0021",
+	"frame": {"x":1319,"y":1993,"w":407,"h":419},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":111,"y":22,"w":650,"h":858},
+	"sourceSize": {"w":650,"h":858}
+}
+,{
+	"filename": "dbCorupt0022",
+	"frame": {"x":0,"y":2412,"w":407,"h":419},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":111,"y":22,"w":650,"h":858},
+	"sourceSize": {"w":650,"h":858}
+}
+,{
+	"filename": "dbCorupt0023",
+	"frame": {"x":407,"y":2412,"w":0,"h":0},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":324,"y":232,"w":650,"h":858},
+	"sourceSize": {"w":650,"h":858}
+}
+,{
+	"filename": "dbCorupt0024",
+	"frame": {"x":407,"y":2412,"w":407,"h":419},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":111,"y":22,"w":650,"h":858},
+	"sourceSize": {"w":650,"h":858}
+}
+,{
+	"filename": "dbCorupt0025",
+	"frame": {"x":814,"y":2412,"w":407,"h":419},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":111,"y":22,"w":650,"h":858},
+	"sourceSize": {"w":650,"h":858}
+}
+,{
+	"filename": "dbCorupt0026",
+	"frame": {"x":1221,"y":2412,"w":0,"h":0},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":324,"y":232,"w":650,"h":858},
+	"sourceSize": {"w":650,"h":858}
+}
+,{
+	"filename": "dbCorupt0027",
+	"frame": {"x":1221,"y":2412,"w":619,"h":199},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":5,"y":132,"w":650,"h":858},
+	"sourceSize": {"w":650,"h":858}
+}
+,{
+	"filename": "dbCorupt0028",
+	"frame": {"x":1840,"y":2412,"w":0,"h":0},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":324,"y":232,"w":650,"h":858},
+	"sourceSize": {"w":650,"h":858}
+}],
+"meta": {
+	"app": "Adobe Animate",
+	"version": "18.0.1.115",
+	"image": "DB_Corrupt_Spritesheet.png",
+	"format": "RGBA8888",
+	"size": {"w":2048,"h":4096},
+	"scale": "1"
+}
+}

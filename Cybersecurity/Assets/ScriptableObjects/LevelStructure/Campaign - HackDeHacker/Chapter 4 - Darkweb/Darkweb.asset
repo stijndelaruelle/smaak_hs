@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 41d7433c2aeb09f44bb491403e32f943, type: 3}
+  m_Name: Darkweb
+  m_EditorClassIdentifier: 
+  m_ChapterNameLocalizationID: CAMPAIGN1_C4_NAME
+  m_DescriptionLocalizationID: CAMPAIGN1_C4_DESCRIPTION
+  m_LoadingScreenSceneName: LoadingScene_Darkweb
+  m_Background: {fileID: 21300000, guid: 755355f4182e1b946ab8250a67e499e6, type: 3}
+  m_Music: {fileID: 8300000, guid: 66385764be6879845b521be9fca5b27b, type: 3}
+  m_Levels:
+  - {fileID: 11400000, guid: 9bc5fc13d90a0bf43a6383230997799b, type: 2}
+  - {fileID: 11400000, guid: 1dced11188e640f4ca8e52acfc68b65a, type: 2}
+  - {fileID: 11400000, guid: 86fa7ea0985bb794698ef66ed8c03e56, type: 2}

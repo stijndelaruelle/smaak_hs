@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2f4a65a0fbd7be0418db8e46f10495cd, type: 3}
+  m_Name: Darkweb 4.3 Question Pool Q4
+  m_EditorClassIdentifier: 
+  m_ShowInOrder: 0
+  m_MaxNumberOfQuestions: 3
+  m_MinNumberOfCorrectAnswers: 2
+  m_MaxNumberOfIncorrectAnswers: 1
+  m_Questions:
+  - {fileID: 11400000, guid: 54abec8629d41b0418ca9d865e835226, type: 2}
+  - {fileID: 11400000, guid: 29d0a5a02e305ec4c8785396e43ba28f, type: 2}
+  - {fileID: 11400000, guid: 02ce1a71f3a573044a9a88fb023c1d3e, type: 2}
+  - {fileID: 11400000, guid: 931d544e6fed94745ae8c20c93cde034, type: 2}
+  - {fileID: 11400000, guid: 151e078d63322c34db1bf9d27cc6b949, type: 2}
+  - {fileID: 11400000, guid: 1a2f5707972b0d8459ac774be14425c6, type: 2}

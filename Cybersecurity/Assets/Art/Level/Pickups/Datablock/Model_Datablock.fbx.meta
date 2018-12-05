@@ -1,0 +1,168 @@
+fileFormatVersion: 2
+guid: 9dd793341f816df4aa448f4f413e3334
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Cube
+    100002: Datablock
+    100004: //RootNode
+    100006: Datablock_inside
+    100008: Datablock_outside
+    100010: Datablock_ball
+    100012: datablock
+    100014: datablock 1
+    100016: datablock_end
+    100018: Datablock_middle
+    100020: Datablock_roof
+    400000: Cube
+    400002: Datablock
+    400004: //RootNode
+    400006: Datablock_inside
+    400008: Datablock_outside
+    400010: Datablock_ball
+    400012: datablock
+    400014: datablock 1
+    400016: datablock_end
+    400018: Datablock_middle
+    400020: Datablock_roof
+    2100000: Material.001
+    2100002: No Name
+    2300000: Cube
+    2300002: Datablock
+    2300004: Datablock_inside
+    2300006: Datablock_outside
+    2300008: Datablock_ball
+    2300010: Datablock_middle
+    2300012: Datablock_roof
+    3300000: Cube
+    3300002: Datablock
+    3300004: Datablock_inside
+    3300006: Datablock_outside
+    3300008: Datablock_ball
+    3300010: Datablock_middle
+    3300012: Datablock_roof
+    4300000: Cube
+    4300002: Datablock
+    4300004: Datablock_inside
+    4300006: Datablock_outside
+    4300008: Datablock_ball
+    4300010: Datablock_roof
+    4300012: Datablock_middle
+    7400000: Pickup
+    9500000: //RootNode
+    13700000: Datablock_ball
+    13700002: Datablock_inside
+    13700004: Datablock_middle
+    13700006: Datablock_outside
+    13700008: Datablock_roof
+    2186277476908879412: ImportLogs
+  externalObjects: {}
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Pickup
+      takeName: datablock|datablockAction
+      firstFrame: 0
+      lastFrame: 49
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1.5
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.015
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

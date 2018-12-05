@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5f36e615fb473644ea917c4c143eab89, type: 3}
+  m_Name: Dialogue Level 1
+  m_EditorClassIdentifier: 
+  m_DialogueLines:
+  - m_Character: {fileID: 11400000, guid: 19fd19f7f72d4be44b0e945817f61d98, type: 2}
+    m_SideOfPanel: 1
+    m_TextLocalizationID: UI_BUTTON_PLAY
+  - m_Character: {fileID: 11400000, guid: 19fd19f7f72d4be44b0e945817f61d98, type: 2}
+    m_SideOfPanel: 1
+    m_TextLocalizationID: "Andr\xE9? Dit is wel Ricky h\xE9, was je soms tegen jezelf
+      aan het praten?"
+  - m_Character: {fileID: 11400000, guid: bbc8abc360304af479b062be22425a01, type: 2}
+    m_SideOfPanel: 0
+    m_TextLocalizationID: Nou ja sorry hoor.
+  - m_Character: {fileID: 11400000, guid: bbc8abc360304af479b062be22425a01, type: 2}
+    m_SideOfPanel: 0
+    m_TextLocalizationID: Kan er ook niks aan doen.

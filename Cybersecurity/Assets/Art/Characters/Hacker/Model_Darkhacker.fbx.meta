@@ -1,0 +1,702 @@
+fileFormatVersion: 2
+guid: 3db3e194ab5fee742b5cbd1d91ae056d
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: ankleIK.L
+    100002: ankleIK.L_end
+    100004: ankleIK.R
+    100006: ankleIK.R_end
+    100008: arm_lower.L
+    100010: arm_lower.R
+    100012: arm_upper.L
+    100014: arm_upper.R
+    100016: body
+    100018: //RootNode
+    100020: Darkhacker
+    100022: darkhacker_armature
+    100024: elbowIK.L
+    100026: elbowIK.L_end
+    100028: elbowIK.R
+    100030: elbowIK.R_end
+    100032: foot.L
+    100034: foot.R
+    100036: foot_controller.L
+    100038: foot_controller.R
+    100040: hacker_controller
+    100042: hand.L
+    100044: hand.R
+    100046: handIK.L
+    100048: handIK.L_end
+    100050: handIK.R
+    100052: handIK.R_end
+    100054: head
+    100056: head2
+    100058: head3
+    100060: head4
+    100062: head4_end
+    100064: hips
+    100066: kneeIK.L
+    100068: kneeIK.L_end
+    100070: kneeIK.R
+    100072: kneeIK.R_end
+    100074: leg_lower.L
+    100076: leg_lower.L_end
+    100078: leg_lower.R
+    100080: leg_lower.R_end
+    100082: leg_upper.L
+    100084: leg_upper.R
+    100086: mid1.L
+    100088: mid1.R
+    100090: mid2.L
+    100092: mid2.L_end
+    100094: mid2.R
+    100096: mid2.R_end
+    100098: pelvis
+    100100: pink1.L
+    100102: pink1.R
+    100104: pink2.L
+    100106: pink2.L_end
+    100108: pink2.R
+    100110: pink2.R_end
+    100112: point1.L
+    100114: point1.R
+    100116: point2.L
+    100118: point2.L_end
+    100120: point2.R
+    100122: point2.R_end
+    100124: ring1.L
+    100126: ring1.R
+    100128: ring2.L
+    100130: ring2.L_end
+    100132: ring2.R
+    100134: ring2.R_end
+    100136: shoulders
+    100138: thumb1.L
+    100140: thumb1.R
+    100142: thumb2.L
+    100144: thumb2.R
+    100146: thumb3.L
+    100148: thumb3.L_end
+    100150: thumb3.R
+    100152: thumb3.R_end
+    100154: toes.L
+    100156: toes.L_end
+    100158: toes.R
+    100160: toes.R_end
+    100162: torso
+    100164: ankleIK.L 1
+    100166: ankleIK.L_end 1
+    100168: ankleIK.R 1
+    100170: ankleIK.R_end 1
+    100172: arm_lower.L 1
+    100174: arm_lower.R 1
+    100176: arm_upper.L 1
+    100178: arm_upper.R 1
+    100180: Bewaker
+    100182: body 1
+    100184: color_lower
+    100186: color_mid
+    100188: color_upper
+    100190: elbowIK.L 1
+    100192: elbowIK.L_end 1
+    100194: elbowIK.R 1
+    100196: elbowIK.R_end 1
+    100198: foot.L 1
+    100200: foot.R 1
+    100202: foot_controller.L 1
+    100204: foot_controller.R 1
+    100206: ground
+    100208: Hack_Pawn
+    100210: Hack_Pawn_color
+    100212: Hacker
+    100214: hacker_armature
+    100216: Hacker_color
+    100218: hacker_controller 1
+    100220: hand.L 1
+    100222: hand.R 1
+    100224: handIK.L 1
+    100226: handIK.L_end 1
+    100228: handIK.R 1
+    100230: handIK.R_end 1
+    100232: head 1
+    100234: head2 1
+    100236: head3 1
+    100238: head4 1
+    100240: head4_end 1
+    100242: hips 1
+    100244: kneeIK.L 1
+    100246: kneeIK.L_end 1
+    100248: kneeIK.R 1
+    100250: kneeIK.R_end 1
+    100252: leg_lower.L 1
+    100254: leg_lower.L_end 1
+    100256: leg_lower.R 1
+    100258: leg_lower.R_end 1
+    100260: leg_upper.L 1
+    100262: leg_upper.R 1
+    100264: lower
+    100266: mid
+    100268: mid1.L 1
+    100270: mid1.R 1
+    100272: mid2.L 1
+    100274: mid2.L_end 1
+    100276: mid2.R 1
+    100278: mid2.R_end 1
+    100280: pawn_armature
+    100282: pelvis 1
+    100284: pink1.L 1
+    100286: pink1.R 1
+    100288: pink2.L 1
+    100290: pink2.L_end 1
+    100292: pink2.R 1
+    100294: pink2.R_end 1
+    100296: point1.L 1
+    100298: point1.R 1
+    100300: point2.L 1
+    100302: point2.L_end 1
+    100304: point2.R 1
+    100306: point2.R_end 1
+    100308: ring1.L 1
+    100310: ring1.R 1
+    100312: ring2.L 1
+    100314: ring2.L_end 1
+    100316: ring2.R 1
+    100318: ring2.R_end 1
+    100320: thumb1.L 1
+    100322: thumb1.R 1
+    100324: thumb2.L 1
+    100326: thumb2.R 1
+    100328: thumb3.L 1
+    100330: thumb3.L_end 1
+    100332: thumb3.R 1
+    100334: thumb3.R_end 1
+    100336: toes.L 1
+    100338: toes.L_end 1
+    100340: toes.R 1
+    100342: toes.R_end 1
+    100344: top
+    100346: top_end
+    100348: upper
+    400000: ankleIK.L
+    400002: ankleIK.L_end
+    400004: ankleIK.R
+    400006: ankleIK.R_end
+    400008: arm_lower.L
+    400010: arm_lower.R
+    400012: arm_upper.L
+    400014: arm_upper.R
+    400016: body
+    400018: //RootNode
+    400020: Darkhacker
+    400022: darkhacker_armature
+    400024: elbowIK.L
+    400026: elbowIK.L_end
+    400028: elbowIK.R
+    400030: elbowIK.R_end
+    400032: foot.L
+    400034: foot.R
+    400036: foot_controller.L
+    400038: foot_controller.R
+    400040: hacker_controller
+    400042: hand.L
+    400044: hand.R
+    400046: handIK.L
+    400048: handIK.L_end
+    400050: handIK.R
+    400052: handIK.R_end
+    400054: head
+    400056: head2
+    400058: head3
+    400060: head4
+    400062: head4_end
+    400064: hips
+    400066: kneeIK.L
+    400068: kneeIK.L_end
+    400070: kneeIK.R
+    400072: kneeIK.R_end
+    400074: leg_lower.L
+    400076: leg_lower.L_end
+    400078: leg_lower.R
+    400080: leg_lower.R_end
+    400082: leg_upper.L
+    400084: leg_upper.R
+    400086: mid1.L
+    400088: mid1.R
+    400090: mid2.L
+    400092: mid2.L_end
+    400094: mid2.R
+    400096: mid2.R_end
+    400098: pelvis
+    400100: pink1.L
+    400102: pink1.R
+    400104: pink2.L
+    400106: pink2.L_end
+    400108: pink2.R
+    400110: pink2.R_end
+    400112: point1.L
+    400114: point1.R
+    400116: point2.L
+    400118: point2.L_end
+    400120: point2.R
+    400122: point2.R_end
+    400124: ring1.L
+    400126: ring1.R
+    400128: ring2.L
+    400130: ring2.L_end
+    400132: ring2.R
+    400134: ring2.R_end
+    400136: shoulders
+    400138: thumb1.L
+    400140: thumb1.R
+    400142: thumb2.L
+    400144: thumb2.R
+    400146: thumb3.L
+    400148: thumb3.L_end
+    400150: thumb3.R
+    400152: thumb3.R_end
+    400154: toes.L
+    400156: toes.L_end
+    400158: toes.R
+    400160: toes.R_end
+    400162: torso
+    400164: ankleIK.L 1
+    400166: ankleIK.L_end 1
+    400168: ankleIK.R 1
+    400170: ankleIK.R_end 1
+    400172: arm_lower.L 1
+    400174: arm_lower.R 1
+    400176: arm_upper.L 1
+    400178: arm_upper.R 1
+    400180: Bewaker
+    400182: body 1
+    400184: color_lower
+    400186: color_mid
+    400188: color_upper
+    400190: elbowIK.L 1
+    400192: elbowIK.L_end 1
+    400194: elbowIK.R 1
+    400196: elbowIK.R_end 1
+    400198: foot.L 1
+    400200: foot.R 1
+    400202: foot_controller.L 1
+    400204: foot_controller.R 1
+    400206: ground
+    400208: Hack_Pawn
+    400210: Hack_Pawn_color
+    400212: Hacker
+    400214: hacker_armature
+    400216: Hacker_color
+    400218: hacker_controller 1
+    400220: hand.L 1
+    400222: hand.R 1
+    400224: handIK.L 1
+    400226: handIK.L_end 1
+    400228: handIK.R 1
+    400230: handIK.R_end 1
+    400232: head 1
+    400234: head2 1
+    400236: head3 1
+    400238: head4 1
+    400240: head4_end 1
+    400242: hips 1
+    400244: kneeIK.L 1
+    400246: kneeIK.L_end 1
+    400248: kneeIK.R 1
+    400250: kneeIK.R_end 1
+    400252: leg_lower.L 1
+    400254: leg_lower.L_end 1
+    400256: leg_lower.R 1
+    400258: leg_lower.R_end 1
+    400260: leg_upper.L 1
+    400262: leg_upper.R 1
+    400264: lower
+    400266: mid
+    400268: mid1.L 1
+    400270: mid1.R 1
+    400272: mid2.L 1
+    400274: mid2.L_end 1
+    400276: mid2.R 1
+    400278: mid2.R_end 1
+    400280: pawn_armature
+    400282: pelvis 1
+    400284: pink1.L 1
+    400286: pink1.R 1
+    400288: pink2.L 1
+    400290: pink2.L_end 1
+    400292: pink2.R 1
+    400294: pink2.R_end 1
+    400296: point1.L 1
+    400298: point1.R 1
+    400300: point2.L 1
+    400302: point2.L_end 1
+    400304: point2.R 1
+    400306: point2.R_end 1
+    400308: ring1.L 1
+    400310: ring1.R 1
+    400312: ring2.L 1
+    400314: ring2.L_end 1
+    400316: ring2.R 1
+    400318: ring2.R_end 1
+    400320: thumb1.L 1
+    400322: thumb1.R 1
+    400324: thumb2.L 1
+    400326: thumb2.R 1
+    400328: thumb3.L 1
+    400330: thumb3.L_end 1
+    400332: thumb3.R 1
+    400334: thumb3.R_end 1
+    400336: toes.L 1
+    400338: toes.L_end 1
+    400340: toes.R 1
+    400342: toes.R_end 1
+    400344: top
+    400346: top_end
+    400348: upper
+    2100000: vertexpaint material
+    2300000: Bewaker
+    3300000: Bewaker
+    4300000: Darkhacker
+    4300002: Hacker_color
+    4300004: Hacker
+    4300006: Hack_Pawn_color
+    4300008: Hack_Pawn
+    4300010: Bewaker
+    7400000: PlayerSeen
+    7400002: Laugh
+    7400004: Hacking
+    7400006: Hacking Idle
+    7400008: Idle
+    7400010: darkhacker_armature|lost
+    7400012: Steal
+    7400014: PlayerLost
+    7400016: Appear
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: Darkhacker
+    13700002: Hack_Pawn
+    13700004: Hack_Pawn_color
+    13700006: Hacker
+    13700008: Hacker_color
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: PlayerSeen
+      takeName: darkhacker_armature|caught
+      firstFrame: 0
+      lastFrame: 17
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events:
+      - time: 0.101149425
+        functionName: PlaySFXFromAnimation
+        data: 
+        objectReferenceParameter: {fileID: 8300000, guid: f7235ea4ed57065419e78c954dfd9b04,
+          type: 3}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: PlayerLost
+      takeName: darkhacker_armature|lost
+      firstFrame: 0
+      lastFrame: 47
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events:
+      - time: 0.17011495
+        functionName: PlaySFXFromAnimation
+        data: 
+        objectReferenceParameter: {fileID: 8300000, guid: 704d95298ba33394c90ca26fcdc1e957,
+          type: 3}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Hacking
+      takeName: darkhacker_armature|hacking
+      firstFrame: 0
+      lastFrame: 39
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Hacking Idle
+      takeName: darkhacker_armature|hacking_idle
+      firstFrame: 0
+      lastFrame: 39
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Idle
+      takeName: darkhacker_armature|idle
+      firstFrame: 0
+      lastFrame: 119
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Laugh
+      takeName: darkhacker_armature|darkhacker
+      firstFrame: 0
+      lastFrame: 74
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Steal
+      takeName: darkhacker_armature|steal
+      firstFrame: 0
+      lastFrame: 74
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Appear
+      takeName: darkhacker_armature|appear
+      firstFrame: 1
+      lastFrame: 57
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

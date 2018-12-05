@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8f75521bc5d7e574b96bbc50e1295fcc, type: 3}
+  m_Name: Theme_Cafe
+  m_EditorClassIdentifier: 
+  m_Music: {fileID: 8300000, guid: c1447e9604b49e24391925ac1d54e02e, type: 3}
+  m_TileMaterial: {fileID: 2100000, guid: c13410dc1490a2740a26569dbaecc78e, type: 2}
+  m_EdgeMaterial: {fileID: 2100000, guid: 2abdb9cdec4aca44f82528b94218162a, type: 2}
+  m_NodeMaterial: {fileID: 2100000, guid: a2b366519ee503043b36cb1d2bf7ebd9, type: 2}
+  m_LevelObjectMaterials:
+  - {fileID: 2100000, guid: d05abc62fd8bff3429310b296e72fa66, type: 2}
+  - {fileID: 2100000, guid: 353c581cda0885c4b9f5b257446f1a0f, type: 2}
+  - {fileID: 2100000, guid: 353c581cda0885c4b9f5b257446f1a0f, type: 2}
+  m_InteractableMaterials:
+  - {fileID: 2100000, guid: 00b2837578d7bc44a976f15b5bb612ca, type: 2}
+  - {fileID: 2100000, guid: 1b9ae43a329dcec44aac78a26ca02c09, type: 2}
+  - {fileID: 2100000, guid: b3fb5137950bde640ad31c678ed26f0d, type: 2}

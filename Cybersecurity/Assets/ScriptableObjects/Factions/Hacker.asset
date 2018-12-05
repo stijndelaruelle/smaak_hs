@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6c92e4463a12ffa49b4173fcff71aef7, type: 3}
+  m_Name: Hacker
+  m_EditorClassIdentifier: 
+  m_FactionName: Hacker
+  m_Color: {r: 1, g: 0.5548928, b: 0, a: 1}
+  m_Allies: []
+  m_Enemies:
+  - {fileID: 11400000, guid: f7a73aeb02a938540a03a450ee4b0bed, type: 2}

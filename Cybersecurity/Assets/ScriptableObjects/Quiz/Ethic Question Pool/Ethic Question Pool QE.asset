@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2f4a65a0fbd7be0418db8e46f10495cd, type: 3}
+  m_Name: Ethic Question Pool QE
+  m_EditorClassIdentifier: 
+  m_ShowInOrder: 1
+  m_MaxNumberOfQuestions: 7
+  m_MinNumberOfCorrectAnswers: 7
+  m_MaxNumberOfIncorrectAnswers: 7
+  m_Questions:
+  - {fileID: 11400000, guid: 96d1f08d00d703343afc48484129ff79, type: 2}
+  - {fileID: 11400000, guid: 3b2c1963d22da21418040d63906f4ad1, type: 2}
+  - {fileID: 11400000, guid: 58a6b2fa1ffeb51478c08bba4bbcb469, type: 2}
+  - {fileID: 11400000, guid: 550df2d6bdc57524d9fc55db53bae40f, type: 2}
+  - {fileID: 11400000, guid: 1cd5387a6c5700f4c8cec2d3a63719c9, type: 2}
+  - {fileID: 11400000, guid: 8c33bd9b7eaff2748abd7dc11c9df723, type: 2}
+  - {fileID: 11400000, guid: b9475c168a23d5d4e96d8f813beeccae, type: 2}

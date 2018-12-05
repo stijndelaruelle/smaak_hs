@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a6fb6b8402684a344a8f9a0e08a1604f, type: 3}
+  m_Name: "Andr\xE9"
+  m_EditorClassIdentifier: 
+  m_NameLocalizationID: CHARACTERS_ANDRE
+  m_DialogueSprite: {fileID: 21300000, guid: 160949e4dfe1dc84ba88acffda115a0d, type: 3}
+  m_TextFont: {fileID: 12800000, guid: bbcdb0b196899ba49a8d9c0991d045fa, type: 3}
+  m_TextColor: {r: 0.15566039, g: 1, b: 0.6659756, a: 1}

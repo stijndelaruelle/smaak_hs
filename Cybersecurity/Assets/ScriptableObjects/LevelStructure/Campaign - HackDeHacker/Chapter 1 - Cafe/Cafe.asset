@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 41d7433c2aeb09f44bb491403e32f943, type: 3}
+  m_Name: Cafe
+  m_EditorClassIdentifier: 
+  m_ChapterNameLocalizationID: CAMPAIGN1_C1_NAME
+  m_DescriptionLocalizationID: CAMPAIGN1_C1_DESCRIPTION
+  m_LoadingScreenSceneName: LoadingScene_Cafe
+  m_Background: {fileID: 21300000, guid: 917bcf3697d969a4cad3367533282822, type: 3}
+  m_Music: {fileID: 8300000, guid: c1447e9604b49e24391925ac1d54e02e, type: 3}
+  m_Levels:
+  - {fileID: 11400000, guid: 7b9bd0f19c6c95143828953dc250c641, type: 2}
+  - {fileID: 11400000, guid: 7e747a02a2c5a5d4ba60a31f623a934c, type: 2}
+  - {fileID: 11400000, guid: e47971c9393b5b649945d1c8f3c2b84a, type: 2}
+  - {fileID: 11400000, guid: 840e34bcedb582a4fb0bfd9fdcac090f, type: 2}
+  - {fileID: 11400000, guid: 750799fb2eb9939438e47a1efdf12dd7, type: 2}
+  - {fileID: 11400000, guid: 1a247f1e2db827048a26eeb4f4fd9716, type: 2}
